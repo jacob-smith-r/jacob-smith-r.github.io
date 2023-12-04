@@ -14,13 +14,11 @@ library(tidyverse)
 
 # Jacob R. Smith
 
-## Welcome to My Professional Website
-
-Hello! I am Jacob Smith, a first-year Economics PhD student at Middle Tennessee State University with interest in Public Choice and Regulation. On this website, you can find information about my resume, publications, and research.
+I am Jacob Smith, a first-year Economics PhD student at Middle Tennessee State University interested in Public Choice and Regulation. On this website, you can find information about my resume and current research.
 
 ### Contact Information
 
-- **LinkedIn:** [Your LinkedIn Profile](https://https://www.linkedin.com/in/jacobsmithr)
+- **LinkedIn:** [Find My Profile Here](https://www.linkedin.com/in/jacobsmithr)
 - **Email:** [jacob.rand.smith@gmail.com](mailto:jacob.rand.smith@gmail.com)
 
 ### Working Papers
@@ -33,6 +31,5 @@ I am currently a graduate teaching assistant and first-year Ph.D. student in Eco
 
 I graduated Magna Cum Laude from Hampden-Sydney College in 2023 with a Bachelor of Science in Mathematical Economics and a second major in Philosophy.
 
-- [Resume](resume.html)
-- [Publications](publications.html)
+- [C.V.](resume.html)
 - [Research](research.html)

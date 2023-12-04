@@ -11,7 +11,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **RESUME**
+# **C.V.**
+
+------------------------------------------------------------------------
 
 ## **EDUCATION**
 
@@ -22,6 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
     -   Majors: Mathematical Economics & Philosophy
 -   **Richmond Christian School ---** Graduated May 2019
     -   Valedictorian, Advanced Diploma, GPA: 4.68/4.00
+
+------------------------------------------------------------------------
 
 ## **EXPERIENCE**
 
@@ -39,6 +43,8 @@ knitr::opts_chunk$set(echo = TRUE)
         -   Consultant for Tyger Strategies 501(c)(3) Nonprofit Group
 
         -   Performed market research, data collection and evaluation & provided actionable marketing solutions
+
+------------------------------------------------------------------------
 
 ## **ADDITIONAL INFORMATION**
 
