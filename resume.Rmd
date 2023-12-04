@@ -1,0 +1,67 @@
+---
+knit: (function(inputFile, encoding) {
+      out_dir <- "docs";
+      rmarkdown::render(inputFile,
+                        encoding=encoding,
+                        output_dir=file.path(dirname(inputFile), out_dir))})
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **RESUME**
+
+## **EDUCATION**
+
+-   **Middle Tennessee State University ---** Expected May 2027
+    -   Doctor of Philosophy, Economics
+-   **Hampden-Sydney College ---** Graduated May 2023
+    -   Bachelor of Science, Magna Cum Laude, GPA: 3.6434/4.00
+    -   Majors: Mathematical Economics & Philosophy
+-   **Richmond Christian School ---** Graduated May 2019
+    -   Valedictorian, Advanced Diploma, GPA: 4.68/4.00
+
+## **EXPERIENCE**
+
+-   **Defense Logistics Agency -- Aviation, Richmond, VA ---** May 2021 -- Current
+    -   *Post-Award Contract Specialist (Trainee)*
+        -   Received extensive training on cradle to grave procurement process & trained post-award specialists
+
+        -   Worked with customers and OEM vendors to resolve government contract issues
+
+        -   Obtained \"Fully Successful\" Rating on DPMAP appraisal FY22 & \"Outstanding\" Rating for FY23
+
+        -   Employee of the Month, October 2022
+-   **Tyger Strategies Consulting Group, Midlothian, VA (Remote) ---** June 2020 -- August 2020
+    -   *Business Analyst Intern*
+        -   Consultant for Tyger Strategies 501(c)(3) Nonprofit Group
+
+        -   Performed market research, data collection and evaluation & provided actionable marketing solutions
+
+## **ADDITIONAL INFORMATION**
+
+### ***Leadership Roles***
+
+-   Student Honor Court Investigator, 2022-2023
+-   Editor for the Hampden-Sydney College *Journal of the Sciences*, Vol. XVII
+-   Vice Master Alchemist (2022) and Historian (2023) of the Alpha Chi Sigma, Beta Chi Chapter
+-   Director of Operations for Kaleidoscope, H-SC yearbook, 2022-2023
+
+### ***College Activities***
+
+-   Member of Pi Mu Epsilon, US honorary mathematics society, inducted Spring 2022
+-   Member of the Student Museum Board at Atkinson Museum, 2022-2023
+-   Junior Member of the Union Philanthropic Literary Society, 2021-2023
+-   Member of the Undergraduate Philosophical Association of Virginia, 2022-2023
+-   Fellow of the Wilson Center's Leadership in the Public Interest Four Year Program, 2019-2023
+-   Fellow of the Center for the Study of Political Economy, 2019-2023
+
+### ***Research***
+
+-   Political Economy Research Institute Summer Ph.D. Fellowship (2023-4)
+-   Published in Vol. 10, Spring 2021 Journal Of The Sciences: Effects of COVID-19 on the Retail Industry
+-   2022 H-SC Summer Research Program: Public Choice analysis of Rent-Seeking behavior in Progressive Era Whiskey market. Paper: *The Bottled-In-Bond Act of 1897: How whiskey distillers and dealers utilized public policy for competitive advantages*
+-   Presented "Bottled in Bondage" paper at The Political Economy of the Spirits World session of the 92nd Annual Meeting of the Southern Economic Association, 2022
+-   Presented \"Distillers and Chemists\" in Undergraduate Poster Competition at the Association of Private Enterprise Education (APEE) Conference, 2023

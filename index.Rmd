@@ -1,12 +1,9 @@
 ---
-title: index
 knit: (function(inputFile, encoding) {
       out_dir <- "docs";
       rmarkdown::render(inputFile,
                         encoding=encoding,
                         output_dir=file.path(dirname(inputFile), out_dir))})
-author: "Jacob Smith"
-date: "2023-12-04"
 output: html_document
 ---
 
@@ -15,22 +12,27 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-## R Markdown
+# Jacob R. Smith
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Welcome to My Professional Website
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Hello! I am Jacob Smith, a first-year Economics PhD student at Middle Tennessee State University with interest in Public Choice and Regulation. On this website, you can find information about my resume, publications, and research.
 
-```{r cars}
-summary(cars)
-```
+### Contact Information
 
-## Including Plots
+- **LinkedIn:** [Your LinkedIn Profile](https://https://www.linkedin.com/in/jacobsmithr)
+- **Email:** [jacob.rand.smith@gmail.com](mailto:jacob.rand.smith@gmail.com)
 
-You can also embed plots, for example:
+### Working Papers
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+1. Smith, Jacob. *Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators*
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### About Me
+
+I am currently a graduate teaching assistant and first-year Ph.D. student in Economics at Middle Tennessee State University's Jones College of Business. I am also a Summer 2024 Fellow with MTSU's Political Economy Research Institute (PERI).
+
+I graduated Magna Cum Laude from Hampden-Sydney College in 2023 with a Bachelor of Science in Mathematical Economics and a second major in Philosophy.
+
+- [Resume](resume.html)
+- [Publications](publications.html)
+- [Research](research.html)

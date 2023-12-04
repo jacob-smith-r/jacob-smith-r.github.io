@@ -1,0 +1,34 @@
+---
+knit: (function(inputFile, encoding) {
+      out_dir <- "docs";
+      rmarkdown::render(inputFile,
+                        encoding=encoding,
+                        output_dir=file.path(dirname(inputFile), out_dir))})
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **Progressive Era Whiskey Market Data Collection Project**
+
+[Report of the Commissioner of Internal Revenue.](https://catalog.hathitrust.org/Record/000500840)
+
+### **Panel Data**
+
+![](images/rectplotten.png)
+
+![](images/agedplottop.png)
+
+![](images/operplot2.png)
+
+![](images/regiplot2.png)
+
+### **Kentucky Data**
+
+![](images/kyallvar.png)
+
+![](images/kyrectbib.png)
+
+![](images/regioperplotky.png)

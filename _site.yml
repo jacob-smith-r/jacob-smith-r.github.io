@@ -5,6 +5,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Research"
+      href: research.html
 output:
     html_document:
       theme: cosmo
