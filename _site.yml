@@ -1,0 +1,10 @@
+  name: "jacob r smith"
+  output_dir: "docs"
+  navbar:
+    title: "Jacob R. Smith"
+    left:
+    - text: "Home"
+        href: index.html
+  output:
+    html_document:
+      theme: cosmo
