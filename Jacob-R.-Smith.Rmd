@@ -31,5 +31,5 @@ I am currently a graduate teaching assistant and first-year Ph.D. student in Eco
 
 I graduated Magna Cum Laude from Hampden-Sydney College in 2023 with a Bachelor of Science in Mathematical Economics and a second major in Philosophy.
 
-- [C.V.](resume.html)
+- [C.V.](cv.html)
 - [Research](research.html)

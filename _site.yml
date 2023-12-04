@@ -4,11 +4,11 @@ navbar:
   title: "Jacob R. Smith"
   left:
     - text: "Home"
-      href: index.html
+      href: Jacob-R.-Smith.html
     - text: "C.V."
-      href: resume.html
+      href: cv.html
     - text: "Research"
       href: research.html
 output:
     html_document:
-      theme: cosmo
+      theme: readable
