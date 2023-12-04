@@ -1,10 +1,10 @@
-name: "jacob r smith"
+name: "Jacob R. Smith"
 output_dir: "docs"
 navbar:
   title: "Jacob R. Smith"
   left:
     - text: "Home"
-      href: Jacob-R.-Smith.html
+      href: index.html
     - text: "C.V."
       href: cv.html
     - text: "Research"
