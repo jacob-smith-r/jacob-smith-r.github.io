@@ -14,16 +14,18 @@ library(tidyverse)
 
 # Jacob R. Smith
 
-I am Jacob Smith, a first-year Economics PhD student at Middle Tennessee State University interested in Public Choice and Regulation. On this website, you can find information about my resume and current research.
+![](images/H-SC 2nd half Ceremony-254.jpg)
+
+I am Jacob R. Smith, a first-year Economics Ph.D. student at Middle Tennessee State University interested in Public Choice and Regulation. You can find information about my resume and current research on this website.
 
 ### Contact Information
 
-- **LinkedIn:** [Find My Profile Here](https://www.linkedin.com/in/jacobsmithr)
-- **Email:** [jacob.rand.smith@gmail.com](mailto:jacob.rand.smith@gmail.com)
+-   **LinkedIn:** [Find My Profile Here](https://www.linkedin.com/in/jacobsmithr)
+-   **Email:** [jacob.rand.smith\@gmail.com](mailto:jacob.rand.smith@gmail.com)
 
 ### Working Papers
 
-1. Smith, Jacob. *Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators*
+1.  Smith, Jacob. *Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators*
 
 ### About Me
 
@@ -31,5 +33,5 @@ I am currently a graduate teaching assistant and first-year Ph.D. student in Eco
 
 I graduated Magna Cum Laude from Hampden-Sydney College in 2023 with a Bachelor of Science in Mathematical Economics and a second major in Philosophy.
 
-- [C.V.](cv.html)
-- [Research](research.html)
+-   [C.V.](cv.html)
+-   [Research](research.html)

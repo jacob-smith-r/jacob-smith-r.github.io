@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
         -   Worked with customers and OEM vendors to resolve government contract issues
 
-        -   Obtained \"Fully Successful\" Rating on DPMAP appraisal FY22 & \"Outstanding\" Rating for FY23
+        -   Obtained "Fully Successful" Rating on DPMAP appraisal FY22 & "Outstanding" Rating for FY23
 
         -   Employee of the Month, October 2022
 -   **Tyger Strategies Consulting Group, Midlothian, VA (Remote) ---** June 2020 -- August 2020
@@ -66,8 +66,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### ***Research***
 
--   Political Economy Research Institute Summer Ph.D. Fellowship (2023-4)
+-   MTSU Political Economy Research Institute (PERI) Summer Ph.D. Fellow (2024)
 -   Published in Vol. 10, Spring 2021 Journal Of The Sciences: Effects of COVID-19 on the Retail Industry
--   2022 H-SC Summer Research Program: Public Choice analysis of Rent-Seeking behavior in Progressive Era Whiskey market. Paper: *The Bottled-In-Bond Act of 1897: How whiskey distillers and dealers utilized public policy for competitive advantages*
+-   Participated in 2022 H-SC Summer Research Program: Public Choice analysis of Rent-Seeking behavior in Progressive Era Whiskey market. Paper: *The Bottled-In-Bond Act of 1897: How whiskey distillers and dealers utilized public policy for competitive advantages*
 -   Presented "Bottled in Bondage" paper at The Political Economy of the Spirits World session of the 92nd Annual Meeting of the Southern Economic Association, 2022
--   Presented \"Distillers and Chemists\" in Undergraduate Poster Competition at the Association of Private Enterprise Education (APEE) Conference, 2023
+-   Presented "Distillers and Chemists" in Undergraduate Poster Competition at the Association of Private Enterprise Education (APEE) Conference, 2023
