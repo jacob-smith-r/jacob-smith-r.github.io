@@ -14,14 +14,25 @@ library(tidyverse)
 
 # Jacob R. Smith
 
-![](images/H-SC 2nd half Ceremony-254.jpg)
+<div style="display:flex;">
 
-I am Jacob R. Smith, a first-year Economics Ph.D. student at Middle Tennessee State University interested in Public Choice and Regulation. You can find information about my resume and current research on this website.
+```{r profile_pic, echo=FALSE, out.width='200px', results='asis'}
+cat('<img src="images/profile.jpg" alt="" style="width:500px;height:auto;border-radius:50%;box-shadow:0 0 10px rgba(0, 0, 0, 0.3);">')
+```
 
-### Contact Information
+<div style="margin-left:20px;">
 
--   **LinkedIn:** [Find My Profile Here](https://www.linkedin.com/in/jacobsmithr)
--   **Email:** [jacob.rand.smith\@gmail.com](mailto:jacob.rand.smith@gmail.com)
+Welcome to my corner of the web! I'm Jacob Smith, a first-year Economics Ph.D. student at Middle Tennessee State University, specializing in the fascinating realms of Public Choice and Regulation.
+
+On this website, you'll find a glimpse into my academic journey, including details about my current research projects and working papers. One such project, "Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators," delves into the intricate interplay between industry and regulation, shedding light on historical strategies that continue to shape modern economic landscapes.
+
+</div>
+</div> 
+
+### Research Projects
+
+1.  Progressive Era Whiskey Market Data Collection Project
+2.  Data collection for developing project: "Bank Runs, Contagion, and Mitigation Measures in the United States, 1850-1950”
 
 ### Working Papers
 
@@ -29,9 +40,16 @@ I am Jacob R. Smith, a first-year Economics Ph.D. student at Middle Tennessee St
 
 ### About Me
 
-I am currently a graduate teaching assistant and first-year Ph.D. student in Economics at Middle Tennessee State University's Jones College of Business. I am also a Summer 2024 Fellow with MTSU's Political Economy Research Institute (PERI).
+I am currently a graduate teaching assistant and first-year Ph.D. student in Economics at Middle Tennessee State University's Jones College of Business. I'm also proud to have been selected as a Summer 2024 Fellow with MTSU's esteemed Political Economy Research Institute (PERI), where I have had the privilege of collaborating with leading scholars to tackle pressing economic and policy issues.
 
-I graduated Magna Cum Laude from Hampden-Sydney College in 2023 with a Bachelor of Science in Mathematical Economics and a second major in Philosophy.
+My academic journey began at Hampden-Sydney College, where I graduated Magna Cum Laude in 2023 with a Bachelor of Science in Mathematical Economics and a second major in Philosophy. This multidisciplinary foundation has equipped me with a diverse toolkit and a holistic perspective that I bring to my research and teaching endeavors.
 
 -   [C.V.](cv.html)
 -   [Research](research.html)
+
+### Contact Information
+
+Whether you're a fellow researcher, a curious student, or someone passionate about economic issues, I'd love to connect and explore opportunities for collaboration and discussion. Feel free to reach out via LinkedIn or drop me an email. Let's embark on this journey together and unlock new insights into the fascinating world of economics.
+
+-   **LinkedIn:** [Find My Profile Here](https://www.linkedin.com/in/jacobsmithr)
+-   **Email:** [jacob.rand.smith\@gmail.com](mailto:jacob.rand.smith@gmail.com)
