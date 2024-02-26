@@ -23,3 +23,12 @@ Removed:
 
     - text: "Publications"
       href: publications.html
+      
+      
+This is a text file so you can remember what you've last updated. Please ensure you date your entries so that you can track what you've done. 2/14/24
+
+```{r profile_pic, echo=FALSE, out.width='200px', results='asis'}
+cat('<div style="float:left; margin-right:20px;">')
+cat('<img src="images/profile.jpg" alt="" style="width:200px;height:auto;border-radius:50%;box-shadow:0 0 10px rgba(0, 0, 0, 0.3);">')
+cat('</div>')
+```
