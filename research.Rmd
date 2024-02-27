@@ -1,4 +1,5 @@
 ---
+title: "Research"
 knit: (function(inputFile, encoding) {
       out_dir <- "docs";
       rmarkdown::render(inputFile,

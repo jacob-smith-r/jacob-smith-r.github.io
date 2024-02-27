@@ -1,4 +1,5 @@
 ---
+title: "C.V."
 knit: (function(inputFile, encoding) {
       out_dir <- "docs";
       rmarkdown::render(inputFile,
@@ -10,8 +11,6 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-# **C.V.**
 
 ------------------------------------------------------------------------
 

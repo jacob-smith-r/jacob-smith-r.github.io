@@ -1,11 +1,10 @@
 ---
+title: "Jacob R. Smith"
 knit: (function(inputFile, encoding) {
       out_dir <- "docs";
       rmarkdown::render(inputFile,
                         encoding=encoding,
-                        output_dir=file.path(dirname(inputFile), out_dir),
-                        params = list(title = "Jacob R. Smith"))
-})
+                        output_dir=file.path(dirname(inputFile), out_dir))})
 output: html_document
 ---
 
@@ -13,8 +12,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
-
-# Jacob R. Smith
 
 <div style="display:flex;">
 
