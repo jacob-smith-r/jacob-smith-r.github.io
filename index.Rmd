@@ -22,7 +22,7 @@ cat('<img src="images/profile.jpg" alt="" style="width:500px;height:auto;border-
 
 <div style="margin-left:20px;">
 
-Welcome to my corner of the web! I'm Jacob Smith, a first-year Economics Ph.D. student at Middle Tennessee State University, specializing in the fascinating realms of Public Choice and Regulation.
+Welcome to my corner of the web! I'm Jacob Smith, a first-year Economics Ph.D. student at Middle Tennessee State University. I am currently researching the early American whiskey market. My political economy interests include free market, public choice, rent seeking, special interests, and collective action problems.
 
 On this website, you'll find a glimpse into my academic journey, including details about my current research projects and working papers. One such project, "Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators," delves into the intricate interplay between industry and regulation, shedding light on historical strategies that continue to shape modern economic landscapes.
 
