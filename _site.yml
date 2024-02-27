@@ -11,5 +11,6 @@ navbar:
       href: research.html
 output:
     html_document:
+      title: "Jacob R. Smith"
       theme: readable
       highlight: zenburn
