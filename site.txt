@@ -9,6 +9,8 @@ navbar:
       href: resume.html
     - text: "Publications"
       href: publications.html
+    - text: "Teaching"
+      href: teaching.html
     - text: "Research"
       href: research.html
 output:
@@ -26,6 +28,8 @@ Removed:
       
       
 This is a text file so you can remember what you've last updated. Please ensure you date your entries so that you can track what you've done. 2/14/24
+
+Thanks, past me. Time to help future me out. It's time to secure our future. 11/7/2025
 
 ```{r profile_pic, echo=FALSE, out.width='200px', results='asis'}
 cat('<div style="float:left; margin-right:20px;">')

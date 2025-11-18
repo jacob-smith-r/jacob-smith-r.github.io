@@ -16,56 +16,130 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## **EDUCATION**
 
--   **Middle Tennessee State University ---** Expected May 2027
-    -   Doctor of Philosophy, Economics
--   **Hampden-Sydney College ---** Graduated May 2023
-    -   Bachelor of Science, Magna Cum Laude, GPA: 3.6434/4.00
-    -   Majored in Mathematical Economics & Philosophy
--   **Richmond Christian School ---** Graduated May 2019
-    -   Valedictorian, Advanced Diploma, GPA: 4.68/4.00
-
 ------------------------------------------------------------------------
+
+Ph.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected August 2026)
+
+M.A. Economics, Middle Tennessee State University, Murfreesboro, TN (2025)
+
+B.S. Mathematical Economics & Philosophy, *magna cum laude*, Hampden-Sydney College, Hampden Sydney, VA (2023)
 
 ## **EXPERIENCE**
 
+------------------------------------------------------------------------
+
 -   **Defense Logistics Agency -- Aviation, Richmond, VA ---** May 2021 -- Current
     -   *Post-Award Contract Specialist (Trainee)*
-        -   Received extensive training on cradle to grave procurement process & trained other post-award specialists
+        -   Received comprehensive cradle-to-grave government contracting training (FAR/DFARS) with hands-on proficiency in information systems including SAP EBS, WAWF, and federal records management
 
-        -   Worked with customers and OEM vendors to resolve government contract issues
-
-        -   Obtained "Fully Successful" Rating on DPMAP appraisal FY22 & "Outstanding" Rating for FY23
-
-        -   Employee of the Month, October 2022
+        -   Collaborated with Subject Matter Experts (SMEs) and OEM vendors to resolve government contract discrepancies and ensure compliance/technical alignment
 -   **Tyger Strategies Consulting Group, Midlothian, VA (Remote) ---** June 2020 -- August 2020
     -   *Business Analyst Intern*
-        -   Consultant for Tyger Strategies 501(c)(3) Nonprofit Group
+        -   Performed market research and data analysis for a 501(c)(3) nonprofit consulting group
+        -   Developed and presented actionable marketing and strategic recommendations to clients
 
-        -   Performed market research, data collection and evaluation & provided actionable marketing solutions
+## **RESEARCH INTERESTS**
 
 ------------------------------------------------------------------------
 
-## **ADDITIONAL INFORMATION**
+Historical Political Economy, Public Choice Theory, Austrian Economics, Public Interest Regulation
 
-### ***Leadership Roles***
+## **WORKING PAPERS**
 
--   H-SC Student Honor Court Investigator, 2022-2023
--   Editor for the H-SC *Journal of the Sciences*, Vol. XVII
--   Vice Master Alchemist (2022) and Historian (2023) of the Alpha Chi Sigma Professional Fraternity, Beta Chi Chapter
+------------------------------------------------------------------------
 
-### ***College Activities***
+*“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act”*
 
--   Member of Pi Mu Epsilon, US honorary mathematics society, inducted Spring 2022
--   Member of the Student Museum Board at H-SC's Atkinson Museum, 2022-2023
--   Junior Member of the Union Philanthropic Literary Society, 2021-2023
--   Member of the Undergraduate Philosophical Association of Virginia, 2022-2023
--   Fellow of the Wilson Center's Leadership in the Public Interest Four Year Program, 2019-2023
--   Fellow of the Center for the Study of Political Economy (CSPE), 2019-2023
+*“Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889-1929”*
 
-### ***Research***
+*“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023”*
 
--   MTSU Political Economy Research Institute (PERI) Summer Ph.D. Fellow (2024)
--   Published in Vol. 10, Spring 2021 Journal Of The Sciences: *Effects of COVID-19 on the Retail Industry*
--   Participated in 2022 H-SC Summer Research Program: Public Choice analysis of Rent-Seeking behavior in Progressive Era Whiskey market. Paper: *The Bottled-In-Bond Act of 1897: How whiskey distillers and dealers utilized public policy for competitive advantages*
--   Presented "Bottled in Bondage" paper at The Political Economy of the Spirits World session of the 92nd Annual Meeting of the Southern Economic Association, 2022
--   Presented "Distillers and Chemists" in Undergraduate Poster Competition at the Association of Private Enterprise Education (APEE) Conference, 2023
+*“Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets”*
+
+## **ACADEMIC CONFERENCE PAPERS**
+
+------------------------------------------------------------------------
+
+"Bottled in Bondage", *Southern Economic Association Annual Meeting*. Fort Lauderdale, Florida, November 19-21, 2022
+
+"Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators", *Public Choice Society Meetings*. Plano, Texas, March 14-16, 2024
+
+"Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators", *Southern Economic Association Annual Meeting*.  Washington, DC, November 23-25, 2024
+
+“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act*” Public Choice Society Meetings.* Louisville, Kentucky, March 6-8, 2025
+
+“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act*” Law & Economics with Public Choice Insights Workshop, Stephenson Institute for Classical Liberalism.* Tampa, Florida, November 19-22, 2025
+
+“Panic Before Protection: Bank Runs, Contagion, and Mitigation Measures in the United States, 1889-1929”, *Southern Economic Association Annual Meeting*. Tampa, Florida, November 22-24, 2025
+
+“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023”, *Southern Economic Association Annual Meeting*. Tampa, Florida, November 22-24, 2025
+
+“Bank Runs, Contagion, and Mitigation Measures in the United States, 1889–1919*” INET-YSI-University of Lyon 2 Workshop*. Lyon, France, December 11-12, 2025
+
+## **COLLOQUIA & SEMINARS ATTENDED**
+
+------------------------------------------------------------------------
+
+Public Choice Outreach Conference, *Center for Study of Public Choice*, GMU (2023)
+
+Harwood Graduate Colloquium on Public Choice, *American Institute for Economic Research* (2024)
+
+Harwood Graduate Colloquium on Defending Classical Liberalism, *AIER* (2025)
+
+Summer Seminar on Classical Liberalism and Business, *AIER*, UIC (2025)
+
+Summer Seminar on Classical Liberalism and The Market, *AIER*, UIS (2025)
+
+Summer Seminar on Classical Liberalism, *AIER*, Wabash College (2025)
+
+Economic Freedom Research Colloquium, *Bridwell Institute*, SMU Cox (2025)
+
+## **AWARDS, FELLOWSHIPS, AND GRANTS**
+
+------------------------------------------------------------------------
+
+Political Economy Research Institute Ph.D. Summer Fellowship, \$5,000 (Summer 2024, 2025)
+
+Economic Freedom Research Colloquium Honorarium, Bridwell Institute, \$3000 (2025)
+
+Center for the Study of Political Economy Fellowship (2019-2023)
+
+Pi Mu Epsilon, US Honorary Mathematics Society (2022)
+
+## **TEACHING EXPERIENCE**
+
+------------------------------------------------------------------------
+
+**Principles of Microeconomics, Middle Tennessee State University (2025)**
+
+Selected Student Comments (Informal Evaluation)
+
+-   “Micro Econ with Professor Smith has been a pleasure. He is great at talking through the chapters with everyone and provides lots of help and assistance if needed. I would recommend this class to others.”
+
+-   “I enjoyed this class. You’re great at explaining things that don’t make sense to me the first time. I like the interactive activities that allow me to visualize the topic.”
+
+-   “Overall, I appreciate how well-knowledgeable the professor is and how he teaches in a way students can understand. Will be taking him for Macro next semester.”
+
+-   “Every lesson was given with clear instruction and he answered every student’s question with a detailed, clear response… overall excellent course and I would take it again.”
+
+-   “You give good examples; your lectures are usually very easy to follow. Exams have a good format and you give excellent resources for studying. Overall, I have really enjoyed having you as my professor.”
+
+-   “This class helped me take my knowledge about economics even further. Jacob Smith makes it easy to understand challenging topics and provides great examples with real-world correlations.”
+
+## **SERVICE AND LEADERSHIP**
+
+------------------------------------------------------------------------
+
+H-SC Student Honor Court Investigator, 2022-2023
+
+H-SC *Journal of the Sciences* Editor, Vol. XVII
+
+Alpha Chi Sigma Beta Chi Chapter Vice Master Alchemist (2022) and Historian (2023)
+
+Atkinson Museum Student Museum Board Member, 2022-2023
+
+Union Philanthropic Literary Society Junior Member, 2021-2023
+
+Undergraduate Philosophical Association of Virginia Member, 2022-2023
+
+Wilson Center's Leadership in the Public Interest Four-Year Program Member, 2019-2023

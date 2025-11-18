@@ -1,0 +1,42 @@
+---
+title: "Teaching"
+knit: (function(inputFile, encoding) {
+      out_dir <- "docs";
+      rmarkdown::render(inputFile,
+                        encoding=encoding,
+                        output_dir=file.path(dirname(inputFile), out_dir))})
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+## Teaching Evaluations
+
+### ECON 2420: Principles of Economics, Microeconomics (2025 Fall Semester, Middle Tennessee State University)
+
+#### Selected Student Comments (Informal Evaluation):
+
+-   “Micro Econ with Professor Smith has been a pleasure. He is great at talking through the chapters with everyone and provides lots of help and assistance if needed. I would recommend this class to others.”
+
+-   “I enjoyed this class. You’re great at explaining things that don’t make sense to me the first time. I like the interactive activities that allow me to visualize the topic.”
+
+-   “Overall, I appreciate how well-knowledgeable the professor is and how he teaches in a way students can understand. Will be taking him for Macro next semester.”
+
+-   “Every lesson was given with clear instruction and he answered every student’s question with a detailed, clear response… overall excellent course and I would take it again.”
+
+-   “You give good examples; your lectures are usually very easy to follow. Exams have a good format and you give excellent resources for studying. Overall, I have really enjoyed having you as my professor.”
+
+-   “This class helped me take my knowledge about economics even further. Jacob Smith makes it easy to understand challenging topics and provides great examples with real-world correlations.”
+
+-   “Very personable teacher. He explains things in an easy way to understand, prepares us for tests extremely well, and stays on topic.”
+
+-   “Professor Smith is an amazing teacher. He’s easy to talk to, personable, and kind… overall love the class.”
+
+-   “The professor does a fantastic job presenting the information of microeconomics and is very good at informing us what we need to know. He responds to emails fast too.”
+
+-   “I think you do a great job explaining concepts and teaching us the material. Overall, I think you did really good this semester.”
+
+-   “Class dynamic is good. Tone is courteous, friendly, and approachable. Kahoot is good for reinforcing. Flexibility in scheduling assignments is very well appreciated.”
