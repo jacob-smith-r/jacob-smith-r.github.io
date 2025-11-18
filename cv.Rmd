@@ -16,17 +16,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## **EDUCATION**
 
-------------------------------------------------------------------------
-
 Ph.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected August 2026)
 
 M.A. Economics, Middle Tennessee State University, Murfreesboro, TN (2025)
 
 B.S. Mathematical Economics & Philosophy, *magna cum laude*, Hampden-Sydney College, Hampden Sydney, VA (2023)
 
-## **EXPERIENCE**
-
 ------------------------------------------------------------------------
+
+## **EXPERIENCE**
 
 -   **Defense Logistics Agency -- Aviation, Richmond, VA ---** May 2021 -- Current
     -   *Post-Award Contract Specialist (Trainee)*
@@ -38,15 +36,15 @@ B.S. Mathematical Economics & Philosophy, *magna cum laude*, Hampden-Sydney Coll
         -   Performed market research and data analysis for a 501(c)(3) nonprofit consulting group
         -   Developed and presented actionable marketing and strategic recommendations to clients
 
-## **RESEARCH INTERESTS**
-
 ------------------------------------------------------------------------
+
+## **RESEARCH INTERESTS**
 
 Historical Political Economy, Public Choice Theory, Austrian Economics, Public Interest Regulation
 
-## **WORKING PAPERS**
-
 ------------------------------------------------------------------------
+
+## **WORKING PAPERS**
 
 *“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act”*
 
@@ -56,9 +54,9 @@ Historical Political Economy, Public Choice Theory, Austrian Economics, Public I
 
 *“Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets”*
 
-## **ACADEMIC CONFERENCE PAPERS**
-
 ------------------------------------------------------------------------
+
+## **ACADEMIC CONFERENCE PAPERS**
 
 "Bottled in Bondage", *Southern Economic Association Annual Meeting*. Fort Lauderdale, Florida, November 19-21, 2022
 
@@ -76,9 +74,9 @@ Historical Political Economy, Public Choice Theory, Austrian Economics, Public I
 
 “Bank Runs, Contagion, and Mitigation Measures in the United States, 1889–1919*” INET-YSI-University of Lyon 2 Workshop*. Lyon, France, December 11-12, 2025
 
-## **COLLOQUIA & SEMINARS ATTENDED**
-
 ------------------------------------------------------------------------
+
+## **COLLOQUIA & SEMINARS ATTENDED**
 
 Public Choice Outreach Conference, *Center for Study of Public Choice*, GMU (2023)
 
@@ -94,9 +92,9 @@ Summer Seminar on Classical Liberalism, *AIER*, Wabash College (2025)
 
 Economic Freedom Research Colloquium, *Bridwell Institute*, SMU Cox (2025)
 
-## **AWARDS, FELLOWSHIPS, AND GRANTS**
-
 ------------------------------------------------------------------------
+
+## **AWARDS, FELLOWSHIPS, AND GRANTS**
 
 Political Economy Research Institute Ph.D. Summer Fellowship, \$5,000 (Summer 2024, 2025)
 
@@ -106,9 +104,9 @@ Center for the Study of Political Economy Fellowship (2019-2023)
 
 Pi Mu Epsilon, US Honorary Mathematics Society (2022)
 
-## **TEACHING EXPERIENCE**
-
 ------------------------------------------------------------------------
+
+## **TEACHING EXPERIENCE**
 
 **Principles of Microeconomics, Middle Tennessee State University (2025)**
 
@@ -126,9 +124,9 @@ Selected Student Comments (Informal Evaluation)
 
 -   “This class helped me take my knowledge about economics even further. Jacob Smith makes it easy to understand challenging topics and provides great examples with real-world correlations.”
 
-## **SERVICE AND LEADERSHIP**
-
 ------------------------------------------------------------------------
+
+## **SERVICE AND LEADERSHIP**
 
 H-SC Student Honor Court Investigator, 2022-2023
 
