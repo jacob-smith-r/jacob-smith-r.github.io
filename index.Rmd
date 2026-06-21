@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <img src="images/profile.jpg" alt="Jacob R. Smith" class="profile-pic">
 
 ::: {.hero-text}
-I'm Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected 2026) and a Graduate Research Fellow with MTSU's Political Economy Research Institute (PERI). My work sits in applied microeconomics and public choice, with a focus on historical political economy, the political economy of regulation, and economic freedom.
+I'm Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected 2027) and a Graduate Research Fellow with MTSU's Political Economy Research Institute (PERI). My work sits in applied microeconomics and public choice, with a focus on historical political economy, the political economy of regulation, and economic freedom.
 
 This site collects my research, working papers, teaching, and CV.
 
@@ -44,7 +44,7 @@ Historical political economy, public choice theory, Austrian economics, and the 
 
 ## About Me
 
-I am a graduate teaching assistant and Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, completing my degree in 2026. I am also a Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute (PERI), where I collaborate with leading scholars on pressing economic and policy questions.
+I am a graduate teaching assistant and Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, completing my degree in 2027. I am also a Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute (PERI), where I collaborate with leading scholars on pressing economic and policy questions.
 
 I began my academic career at Hampden-Sydney College, graduating *magna cum laude* in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy. That interdisciplinary foundation shapes the toolkit and perspective I bring to my teaching and research.
 

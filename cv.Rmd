@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## **EDUCATION**
 
-Ph.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected August 2026)
+Ph.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected August 2027)
 
 M.A. Economics, Middle Tennessee State University, Murfreesboro, TN (2025)
 

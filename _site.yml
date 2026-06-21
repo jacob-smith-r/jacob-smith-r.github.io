@@ -1,5 +1,6 @@
 name: "Jacob R. Smith"
 output_dir: "docs"
+include: ["favicon.png", "favicon.ico", "apple-touch-icon.png"]
 navbar:
   title: "Jacob R. Smith"
   left:
