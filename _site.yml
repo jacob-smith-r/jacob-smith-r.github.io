@@ -16,3 +16,6 @@ output:
       title: "Jacob R. Smith"
       theme: readable
       highlight: zenburn
+      css: styles.css
+      includes:
+        in_header: header.html

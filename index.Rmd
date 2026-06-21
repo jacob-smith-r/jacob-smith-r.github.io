@@ -10,48 +10,49 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(tidyverse)
 ```
 
-:::: {style="display:flex;"}
-```{r profile_pic, echo=FALSE, out.width='200px', results='asis'}
-cat('<img src="images/profile.jpg" alt="" style="width:500px;height:auto;border-radius:50%;box-shadow:0 0 10px rgba(0, 0, 0, 0.3);">')
-```
+:::: {.hero}
+<img src="images/profile.jpg" alt="Jacob R. Smith" class="profile-pic">
 
-::: {style="margin-left:20px;"}
-Welcome to my corner of the web! I'm Jacob Smith, a third-year Economics Ph.D. candidate at Middle Tennessee State University and a Graduate Research Fellow with MTSU's Political Economy Research Institute (PERI). With a strong background in applied microeconomics and public choice theory, my research focuses on historical political economy, public interest regulation, and economic freedom.
+::: {.hero-text}
+I'm Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected 2026) and a Graduate Research Fellow with MTSU's Political Economy Research Institute (PERI). My work sits in applied microeconomics and public choice, with a focus on historical political economy, the political economy of regulation, and economic freedom.
 
-On this website, you'll find a glimpse into my academic journey, including details about the courses I have taught, current research projects, and working papers.
+This site collects my research, working papers, teaching, and CV.
+
+<div class="social-row">
+  <a href="https://www.linkedin.com/in/jacobsmithr" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
+  <a href="mailto:jacob.rand.smith@gmail.com"><i class="fas fa-envelope"></i> Email</a>
+  <!-- Add your profile URLs and uncomment to display these icons:
+  <a href="GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+  <a href="ORCID_URL" target="_blank" rel="noopener"><i class="ai ai-orcid"></i> ORCID</a>
+  -->
+</div>
 :::
 ::::
 
-### Research Interests
+## Research Interests
 
-Historical Political Economy, Public Choice Theory, Austrian Economics, Public Interest Regulation
+Historical political economy, public choice theory, Austrian economics, and the political economy of public-interest regulation.
 
-### Working Papers
+## Working Papers
 
-“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act”
+- *"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act"*
+- *"Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889–1929"*
+- *"Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023"*
+- *"Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets"*
 
-“Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889-1929”
+## About Me
 
-“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023”
+I am a graduate teaching assistant and Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, completing my degree in 2026. I am also a Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute (PERI), where I collaborate with leading scholars on pressing economic and policy questions.
 
-“Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets”
+I began my academic career at Hampden-Sydney College, graduating *magna cum laude* in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy. That interdisciplinary foundation shapes the toolkit and perspective I bring to my teaching and research.
 
-### About Me
+Learn more on my [C.V.](cv.html), [Teaching](teaching.html), and [Research](research.html) pages.
 
-I am currently a graduate teaching assistant and third-year Ph.D. student in Economics at Middle Tennessee State University's Jones College of Business. I'm also proud to have been selected as a Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute (PERI), where I have had the privilege of collaborating with leading scholars to tackle pressing economic and policy issues.
+## Contact
 
-My academic journey began at Hampden-Sydney College, where I graduated Magna Cum Laude in 2023 with a Bachelor of Science in Mathematical Economics and a second major in Philosophy. This multidisciplinary foundation has equipped me with a diverse toolkit and a holistic perspective that I bring to my teaching and research endeavors.
+Whether you're a fellow researcher, a student, or simply interested in economic questions, I'd be glad to connect. The quickest ways to reach me are below.
 
--   [C.V.](cv.html)
--   [Teaching](teaching.html)
--   [Research](research.html)
-
-### Contact Information
-
-Whether you're a fellow researcher, a curious student, or someone passionate about economic issues, I'd love to connect and explore opportunities for collaboration and discussion. Feel free to reach out via LinkedIn or drop me an email.
-
--   **LinkedIn:** [Find My Profile Here](https://www.linkedin.com/in/jacobsmithr)
--   **Email:** [jacob.rand.smith\@gmail.com](mailto:jacob.rand.smith@gmail.com)
+- **LinkedIn:** [linkedin.com/in/jacobsmithr](https://www.linkedin.com/in/jacobsmithr)
+- **Email:** [jacob.rand.smith@gmail.com](mailto:jacob.rand.smith@gmail.com)

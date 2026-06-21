@@ -13,11 +13,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-## Teaching Evaluations
+## Teaching
 
-### ECON 2420: Principles of Economics, Microeconomics (2025 Fall Semester, Middle Tennessee State University)
+I am committed to making economics clear, rigorous, and engaging. Below are selected comments from students in my courses at Middle Tennessee State University.
 
-#### Selected Student Comments (Informal Evaluation):
+### ECON 2420: Principles of Economics — Microeconomics
+
+*Fall 2025, Middle Tennessee State University*
+
+#### Selected student comments (informal evaluation)
 
 -   “Micro Econ with Professor Smith has been a pleasure. He is great at talking through the chapters with everyone and provides lots of help and assistance if needed. I would recommend this class to others.”
 
