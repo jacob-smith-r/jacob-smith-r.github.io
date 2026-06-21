@@ -1,0 +1,13 @@
+---
+title: "Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets"
+description: "How producers, intermediaries, and regulators signaled authenticity, safety, and quality to consumers in early American whiskey markets."
+categories: [Regulation, Economic History, Working Paper]
+---
+
+*Working paper — draft in progress*
+
+This paper studies the mechanisms — private and public — through which authenticity, safety, and quality were assured to consumers in early American whiskey markets, and what those mechanisms reveal about the demand for and supply of credibility in markets with uncertain product quality.
+
+::: {.callout-note}
+A full abstract and figures for this paper are in progress and will be added here.
+:::

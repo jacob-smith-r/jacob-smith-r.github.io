@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jacob R. Smith"
+  favicon: favicon.png
+  site-url: "https://jacob-smith-r.github.io"
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "C.V."
+        href: cv.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Research"
+        href: research.qmd
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/jacobsmithr"
+        aria-label: LinkedIn
+      - icon: envelope
+        href: "mailto:jacob.rand.smith@gmail.com"
+        aria-label: Email
+  page-footer:
+    center: "© 2026 Jacob R. Smith"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [darkly, theme-dark.scss]
+    toc: false
+    link-external-newwindow: true
+    include-in-header: header.html
+    grid:
+      body-width: 880px

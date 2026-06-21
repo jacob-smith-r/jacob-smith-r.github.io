@@ -1,0 +1,14 @@
+---
+title: "Bank Runs without a Cause"
+subtitle: "Frequency, Contagion, and Mitigation Measures in the U.S., 1889–1929"
+description: "A historical examination of the frequency of U.S. bank runs, the extent of contagion across institutions, and the measures used to mitigate them."
+categories: [Money & Banking, Economic History, Working Paper]
+---
+
+*Working paper — draft in progress*
+
+This project examines bank runs in the United States between 1889 and 1929 — how often they occurred, the degree to which panic spread contagiously across institutions, and the mitigation measures available before the modern lender-of-last-resort framework.
+
+::: {.callout-note}
+A full abstract and figures for this paper are in progress and will be added here.
+:::

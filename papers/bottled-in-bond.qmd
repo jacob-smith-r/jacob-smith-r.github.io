@@ -1,0 +1,23 @@
+---
+title: "The Father of Food and Drug Law as Strategic Regulator"
+subtitle: "Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897"
+description: "Regulatory capture in the Progressive Era whiskey market: how the 1897 Act was framed as public health while serving incumbent distillers and an ambitious federal bureau."
+categories: [Regulation, Public Choice, Working Paper]
+image: /images/kyrectbib.png
+---
+
+*Working paper — job market paper / dissertation chapter*
+
+This paper examines the origins of one of the earliest federal consumer-protection statutes. Using archival correspondence, congressional testimony, and newly digitized distillery records, I show how Dr. Harvey Wiley and the USDA Bureau of Chemistry strategically framed the 1897 Act as a pure public-health measure while simultaneously designing costly bonding and labeling requirements that favored large, established distillers who lobbied for the law — and that expanded the Bureau's own jurisdiction. The paper illustrates a classic Bootleggers-and-Baptists coalition long before the modern administrative state, demonstrating that even "Progressive Era" regulation was often captured from day one.
+
+## Abstract
+
+> "The Bottled-in-Bond Act of 1897 (BiB) is often framed as one of the earliest consumer protection laws in the United States. Traditionally, it is seen as a measure to safeguard consumers from harmful whiskey adulteration. However, a public choice interpretation suggests that BiB served the interests of both incumbent aged whiskey distillers and federal regulators. Dr. Harvey Wiley, the head of the Bureau of Chemistry, played a central role in legitimizing and enforcing this regulation, expanding the power of his bureau while assisting straight whiskey distillers in their battle against rectifiers. Distillers often quoted statements made by Dr. Wiley in their advertisements to make appeals to authority that their competitors were not eligible to make. This paper reinterprets the BiB through the lens of regulatory capture, examining Wiley's role as a strategic regulator who used the Act to cement his influence in federal food and drug policy."
+
+## Selected figures
+
+![](/images/kyallvar.png){width="700" fig-align="center"}
+
+![](/images/kyrectbib.png){width="700" fig-align="center"}
+
+![](/images/regioperplotky.png){width="700" fig-align="center"}

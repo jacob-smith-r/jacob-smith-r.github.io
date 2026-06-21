@@ -1,0 +1,59 @@
+/*-- scss:defaults --*/
+// Fonts
+$font-family-sans-serif: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$headings-font-family: 'Source Serif 4', Georgia, "Times New Roman", serif !default;
+$font-size-root: 17px;
+$line-height-base: 1.72;
+
+// Lightened MTSU blue for contrast on dark backgrounds
+$primary:        #3fa9e0;
+$link-color:     #5bb8ea;
+$link-hover-color: #8fd0f3;
+$body-color:     #d7dee3;
+$headings-color: #eef3f6;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Source+Sans+3:wght@400;500;600;700&display=swap');
+
+h1, h2, h3, h4, h5, h6 { font-weight: 600; letter-spacing: -0.01em; }
+h2 { border-bottom: 2px solid rgba(255,255,255,0.12); padding-bottom: 0.28em; margin-top: 1.9em; }
+h3 { color: $primary; }
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.navbar { border-bottom: 1px solid rgba(255,255,255,0.10); }
+.navbar-brand { font-family: $headings-font-family; font-weight: 700; }
+
+.hero { display: flex; align-items: flex-start; gap: 26px; margin: 1rem 0 1.4rem; }
+.hero .hero-text { flex: 1; }
+.profile-pic {
+  width: 190px; height: 190px; object-fit: cover; border-radius: 50%;
+  box-shadow: 0 6px 22px rgba(0,0,0,0.5); border: 4px solid #2a2f33;
+  outline: 1px solid rgba(255,255,255,0.10);
+}
+@media (max-width: 600px) {
+  .hero { flex-direction: column; text-align: center; }
+  .social-row { justify-content: center; }
+}
+
+.social-row { margin: 1.1em 0 0.4em; display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+.social-row a {
+  display: inline-flex; align-items: center; gap: 7px;
+  border: 1px solid rgba(255,255,255,0.18); border-radius: 999px;
+  padding: 6px 14px; font-size: 0.95rem; font-weight: 500;
+  color: $body-color; background: transparent; transition: all 0.15s ease;
+}
+.social-row a:hover { color: #0b1014; background: $primary; border-color: $primary; text-decoration: none; }
+
+blockquote, .blockquote {
+  font-style: italic; font-size: 1rem; color: #c3ccd2;
+  background: rgba(63,169,224,0.10); border-left: 4px solid $primary;
+  border-radius: 0 6px 6px 0; padding: 16px 20px;
+}
+
+p img, .quarto-figure img { border-radius: 6px; max-width: 100%; height: auto; }
+
+.quarto-listing .card { border: 1px solid rgba(255,255,255,0.12); border-radius: 10px; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+.quarto-listing .card:hover { box-shadow: 0 6px 20px rgba(0,0,0,0.5); transform: translateY(-2px); }
+.listing-category { background: rgba(63,169,224,0.14) !important; color: #8fd0f3 !important; border-radius: 999px; }
