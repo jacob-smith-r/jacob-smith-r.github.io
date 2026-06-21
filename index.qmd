@@ -6,7 +6,7 @@ title: "Jacob R. Smith"
 <img src="images/profile.jpg" alt="Jacob R. Smith" class="profile-pic">
 
 ::: {.hero-text}
-I'm Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected 2027) and a Graduate Research Fellow with MTSU's Political Economy Research Institute (PERI). My work sits in applied microeconomics and public choice, with a focus on historical political economy, the political economy of regulation, and economic freedom.
+I'm Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected May 2027) and a 2026 Graduate Fellow at the American Institute for Economic Research (AIER). My work draws on public choice theory, Austrian economics, and historical political economy to ask a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?
 
 This site collects my research, working papers, teaching, and CV.
 
@@ -23,18 +23,17 @@ This site collects my research, working papers, teaching, and CV.
 
 ## Research Interests
 
-Historical political economy, public choice theory, Austrian economics, and the political economy of public-interest regulation.
+Public choice theory, Austrian economics, public-interest regulation, and historical political economy.
 
 ## Working Papers
 
 - *"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act"*
-- *"Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889–1929"*
-- *"Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023"*
-- *"Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets"*
+- *"Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929"* (with Daniel J. Smith)
+- *"Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets"* (with Mark Packard, Macy Scheck, and Daniel J. Smith)
 
 ## About Me
 
-I am a graduate teaching assistant and Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, completing my degree in 2027. I am also a Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute (PERI), where I collaborate with leading scholars on pressing economic and policy questions.
+I am a Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate in May 2027. In summer 2026 I am a Graduate Fellow at the American Institute for Economic Research (AIER), and I was a Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute (PERI). My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom — often revealing the incentives and coalitions that shape regulatory outcomes.
 
 I began my academic career at Hampden-Sydney College, graduating *magna cum laude* in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy. That interdisciplinary foundation shapes the toolkit and perspective I bring to my teaching and research.
 

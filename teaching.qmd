@@ -2,32 +2,40 @@
 title: "Teaching"
 ---
 
-I am committed to making economics clear, rigorous, and engaging. Below are selected comments from students in my courses at Middle Tennessee State University.
+## Teaching Philosophy
 
-### ECON 2420: Principles of Economics — Microeconomics
+My decision to earn a Ph.D. in economics was driven first and foremost by a desire to teach. As a student at Hampden-Sydney College, I experienced small, discussion-oriented classes in which professors invested deeply in their students' intellectual growth — courses that permanently changed how I see the world. My central goal is to help students acquire a lasting economic way of thinking: understanding incentives, trade-offs, opportunity costs, and unintended consequences. Because business students want to know "how this applies," I anchor every major concept in concrete, real-world examples — price controls during shortages, the economics of ride-sharing regulation, minimum-wage effects, the logic behind payday lending — and tie them to the empirical literature.
 
-*Fall 2025, Middle Tennessee State University*
+I work to create a classroom that is clear, supportive, and interactive: pausing often to check for questions, walking through graphs carefully, and using short Kahoot reviews and end-of-class activities that students say help them learn the most. Economics inevitably touches on contested moral and political questions; my aim is never to hand students a set of policy conclusions, but to give them the analytical tools to reach their own.
 
-#### Selected student comments (informal evaluation)
+## Courses Taught
 
--   "Micro Econ with Professor Smith has been a pleasure. He is great at talking through the chapters with everyone and provides lots of help and assistance if needed. I would recommend this class to others."
+### ECON 2410: Principles of Macroeconomics
 
--   "I enjoyed this class. You're great at explaining things that don't make sense to me the first time. I like the interactive activities that allow me to visualize the topic."
+*Spring 2026, Middle Tennessee State University* — Instructor Evaluation Mean: **4.02 / 5**
 
--   "Overall, I appreciate how well-knowledgeable the professor is and how he teaches in a way students can understand. Will be taking him for Macro next semester."
+#### Selected student comments
 
--   "Every lesson was given with clear instruction and he answered every student's question with a detailed, clear response… overall excellent course and I would take it again."
+-   "Professor Smith is very knowledgeable in the material he covers. He cares about his students and wants them to succeed."
 
--   "You give good examples; your lectures are usually very easy to follow. Exams have a good format and you give excellent resources for studying. Overall, I have really enjoyed having you as my professor."
+-   "His course is well organized and easy to follow. He explains the material clearly and provides helpful resources that support student learning. I also like the Kahoot quizzes because they make students more engaged."
 
--   "This class helped me take my knowledge about economics even further. Jacob Smith makes it easy to understand challenging topics and provides great examples with real-world correlations."
+-   "He gave us good materials to study for the exams, and they were really helpful in understanding the course material."
 
--   "Very personable teacher. He explains things in an easy way to understand, prepares us for tests extremely well, and stays on topic."
+-   "Very easygoing and willing to work around any struggles a student may have. He makes it feel like a real college course."
 
--   "Professor Smith is an amazing teacher. He's easy to talk to, personable, and kind… overall love the class."
+### ECON 2420: Principles of Microeconomics
 
--   "The professor does a fantastic job presenting the information of microeconomics and is very good at informing us what we need to know. He responds to emails fast too."
+*Fall 2025, Middle Tennessee State University* — Instructor Evaluation Mean: **4.40 / 5**
 
--   "I think you do a great job explaining concepts and teaching us the material. Overall, I think you did really good this semester."
+#### Selected student comments
 
--   "Class dynamic is good. Tone is courteous, friendly, and approachable. Kahoot is good for reinforcing. Flexibility in scheduling assignments is very well appreciated."
+-   "Professor Smith was a great teacher and would love to see him stick around at MTSU; he provided clear knowledge on each topic that was taught."
+
+-   "Great lecturer and always willing and able to help students."
+
+-   "When explaining material, he gives examples that stick to the memory of the student."
+
+-   "He was organized and formatted the course work efficiently, which helped a lot with the workload. His lectures were efficient and informative about the main learning criteria of the course."
+
+-   "I like how he provided real-world examples and homework that was related to the course material."

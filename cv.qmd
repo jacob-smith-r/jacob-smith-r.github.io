@@ -2,9 +2,16 @@
 title: "C.V."
 ---
 
+**Jacob R. Smith**<br>
+Department of Economics and Finance · Jones College of Business<br>
+Middle Tennessee State University<br>
+Email: [jacob.rand.smith@gmail.com](mailto:jacob.rand.smith@gmail.com) · Website: [jacob-smith-r.github.io](https://jacob-smith-r.github.io)
+
+------------------------------------------------------------------------
+
 ## **EDUCATION**
 
-Ph.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected August 2027)
+Ph.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected May 2027)
 
 M.A. Economics, Middle Tennessee State University, Murfreesboro, TN (2025)
 
@@ -12,59 +19,39 @@ B.S. Mathematical Economics & Philosophy, *magna cum laude*, Hampden-Sydney Coll
 
 ------------------------------------------------------------------------
 
-## **EXPERIENCE**
-
--   **Defense Logistics Agency -- Aviation, Richmond, VA ---** May 2021 -- Current
-    -   *Post-Award Contract Specialist (Trainee)*
-        -   Received comprehensive cradle-to-grave government contracting training (FAR/DFARS) with hands-on proficiency in information systems including SAP EBS, WAWF, and federal records management
-
-        -   Collaborated with Subject Matter Experts (SMEs) and OEM vendors to resolve government contract discrepancies and ensure compliance/technical alignment
--   **Tyger Strategies Consulting Group, Midlothian, VA (Remote) ---** June 2020 -- August 2020
-    -   *Business Analyst Intern*
-        -   Performed market research and data analysis for a 501(c)(3) nonprofit consulting group
-        -   Developed and presented actionable marketing and strategic recommendations to clients
-
-------------------------------------------------------------------------
-
 ## **RESEARCH INTERESTS**
 
-Historical Political Economy, Public Choice Theory, Austrian Economics, Public Interest Regulation
+Public Choice Theory, Austrian Economics, Public Interest Regulation, Historical Political Economy
 
 ------------------------------------------------------------------------
 
 ## **WORKING PAPERS**
 
-*"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act"*
+"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act"
 
-*"Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889-1929"*
+"Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929"
 
-*"Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023"*
-
-*"Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets"*
+"Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets"
 
 ------------------------------------------------------------------------
 
-## **ACADEMIC CONFERENCE PAPERS**
+## **CONFERENCE PRESENTATIONS**
 
 "Bottled in Bondage", *Southern Economic Association Annual Meeting*. Fort Lauderdale, Florida, November 19-21, 2022
 
 "Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators", *Public Choice Society Meetings*. Plano, Texas, March 14-16, 2024
 
-"Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators", *Southern Economic Association Annual Meeting*.  Washington, DC, November 23-25, 2024
+"Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators", *Southern Economic Association Annual Meeting*. Washington, DC, November 23-25, 2024
 
-"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act", *Public Choice Society Meetings.* Louisville, Kentucky, March 6-8, 2025
-
-"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act", *Law & Economics with Public Choice Insights Workshop, Stephenson Institute for Classical Liberalism.* Tampa, Florida, November 19-22, 2025
+"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Bottled-In-Bond Act", *Public Choice Society Meetings*. Louisville, Kentucky, March 6-8, 2025
 
 "Panic Before Protection: Bank Runs, Contagion, and Mitigation Measures in the United States, 1889-1929", *Southern Economic Association Annual Meeting*. Tampa, Florida, November 22-24, 2025
 
-"Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023", *Southern Economic Association Annual Meeting*. Tampa, Florida, November 22-24, 2025
-
-"Bank Runs, Contagion, and Mitigation Measures in the United States, 1889–1919", *INET-YSI-University of Lyon 2 Workshop*. Lyon, France, December 11-12, 2025
+"Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption", *Southern Economic Association Annual Meeting*. Tampa, Florida, November 22-24, 2025
 
 ------------------------------------------------------------------------
 
-## **COLLOQUIA & SEMINARS ATTENDED**
+## **COLLOQUIA & WORKSHOPS ATTENDED**
 
 Public Choice Outreach Conference, *Center for Study of Public Choice*, GMU (2023)
 
@@ -80,15 +67,25 @@ Summer Seminar on Classical Liberalism, *AIER*, Wabash College (2025)
 
 Economic Freedom Research Colloquium, *Bridwell Institute*, SMU Cox (2025)
 
+Law & Economics with Public Choice Insights Workshop, *Stephenson Institute for Classical Liberalism* (2025)
+
+The Untold Stories Behind Financial Crises Workshop, *INET-YSI-University of Lyon 2* (2025)
+
+"Giving an Effective Job Talk" Graduate Papers Workshop, *Institute for Humane Studies* (2026)
+
 ------------------------------------------------------------------------
 
 ## **AWARDS, FELLOWSHIPS, AND GRANTS**
 
-Political Economy Research Institute Ph.D. Summer Fellowship, \$5,000 (Summer 2024, 2025)
+American Institute for Economic Research Graduate Fellowship (Summer 2026)
 
-Economic Freedom Research Colloquium Honorarium, Bridwell Institute, \$3000 (2025)
+Political Economy Research Institute Ph.D. Summer Fellowship, \$5,000 (2024, 2025)
+
+Economic Freedom Research Colloquium Honorarium, Bridwell Institute, \$3,000 (2025)
 
 Center for the Study of Political Economy Fellowship (2019-2023)
+
+Beta Gamma Sigma, International Business Honor Society (2026)
 
 Pi Mu Epsilon, US Honorary Mathematics Society (2022)
 
@@ -96,21 +93,49 @@ Pi Mu Epsilon, US Honorary Mathematics Society (2022)
 
 ## **TEACHING EXPERIENCE**
 
-**Principles of Microeconomics, Middle Tennessee State University (2025)**
+**Principles of Microeconomics, Middle Tennessee State University (2025)** — Instructor Evaluation Mean: 4.40/5
 
-Selected Student Comments (Informal Evaluation)
+*Selected student comments:*
 
--   "Micro Econ with Professor Smith has been a pleasure. He is great at talking through the chapters with everyone and provides lots of help and assistance if needed. I would recommend this class to others."
+-   "Professor Smith was a great teacher and would love to see him stick around at MTSU, he provided clear knowledge on each topic that was taught."
 
--   "I enjoyed this class. You're great at explaining things that don't make sense to me the first time. I like the interactive activities that allow me to visualize the topic."
+-   "Great lecturer and always willing and able to help students."
 
--   "Overall, I appreciate how well-knowledgeable the professor is and how he teaches in a way students can understand. Will be taking him for Macro next semester."
+-   "When explaining material, he gives examples that stick to the memory of the student."
 
--   "Every lesson was given with clear instruction and he answered every student's question with a detailed, clear response… overall excellent course and I would take it again."
+-   "He was organized and formatted the course work efficiently which helped a lot in the workload and getting all the work done in a timely manner."
 
--   "You give good examples; your lectures are usually very easy to follow. Exams have a good format and you give excellent resources for studying. Overall, I have really enjoyed having you as my professor."
+**Principles of Macroeconomics, Middle Tennessee State University (2026)** — Instructor Evaluation Mean: 4.02/5
 
--   "This class helped me take my knowledge about economics even further. Jacob Smith makes it easy to understand challenging topics and provides great examples with real-world correlations."
+*Selected student comments:*
+
+-   "Professor Smith is very knowledgeable in the material he covers. He cares about his students and wants them to succeed."
+
+-   "His course is well organized and easy to follow. He explains the material clearly and provides helpful resources that support student learning."
+
+-   "Very easygoing and willing to work around any struggles a student may have. He makes it feel like a real college course."
+
+------------------------------------------------------------------------
+
+## **PROFESSIONAL SERVICE**
+
+Referee, *Virginia Economic Journal* (2026)
+
+------------------------------------------------------------------------
+
+## **EXPERIENCE**
+
+**Defense Logistics Agency – Aviation, Richmond, VA** — May 2021 – Current
+
+-   *Post-Award Contract Specialist (Trainee)*
+    -   Received comprehensive cradle-to-grave government contracting training (FAR/DFARS) with hands-on proficiency in information systems including SAP EBS, WAWF, and federal records management
+    -   Collaborated with Subject Matter Experts (SMEs) and OEM vendors to resolve government contract discrepancies and ensure compliance/technical alignment
+
+**Tyger Strategies Consulting Group, Midlothian, VA (Remote)** — June 2020 – August 2020
+
+-   *Business Analyst Intern*
+    -   Performed market research and data analysis for a 501(c)(3) nonprofit consulting group
+    -   Developed and presented actionable marketing and strategic recommendations to clients
 
 ------------------------------------------------------------------------
 
