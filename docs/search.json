@@ -98,39 +98,46 @@
     "text": "Draft\nA companion paper, “Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889–1929,” is posted on SSRN. A current draft of this paper is available on request."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jacob R. Smith",
+    "objectID": "papers/absinthe.html",
+    "href": "papers/absinthe.html",
+    "title": "Bootleggers Behind the Baptists",
     "section": "",
-    "text": "I’m Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected May 2027) and a 2026 Graduate Fellow at the American Institute for Economic Research (AIER). My work draws on public choice theory, Austrian economics, and historical political economy to ask a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?\nThis site collects my research, working papers, teaching, and CV.\n\n LinkedIn  Email"
+    "text": "Working paper (preliminary) · with Nicholas A. Jensen (Wabash College)"
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Jacob R. Smith",
-    "section": "Research Interests",
-    "text": "Research Interests\nPublic choice theory, Austrian economics, public-interest regulation, and historical political economy."
+    "objectID": "papers/absinthe.html#overview",
+    "href": "papers/absinthe.html#overview",
+    "title": "Bootleggers Behind the Baptists",
+    "section": "Overview",
+    "text": "Overview\nOn 5 July 1908, Switzerland became the first country to ban absinthe by direct popular vote — passing the constitutional ban with 63.5% support, over the Federal Council’s recommendation to reject it. The campaign was led by public-health and temperance reformers, the “Baptists.” But absinthe had grown popular during the phylloxera years precisely as a cheap substitute for wine, putting it in direct competition with Switzerland’s wine producers. This paper asks whether those producers — the “Bootleggers” — quietly moved the cross-canton vote, using a 25-canton dataset built around a previously unanalyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. It is part of my broader interest in how public-health rhetoric can mask economic self-interest, especially when protectionism is enacted directly by voters."
   },
   {
-    "objectID": "index.html#working-papers",
-    "href": "index.html#working-papers",
-    "title": "Jacob R. Smith",
+    "objectID": "papers/absinthe.html#abstract",
+    "href": "papers/absinthe.html#abstract",
+    "title": "Bootleggers Behind the Baptists",
+    "section": "Abstract",
+    "text": "Abstract\n\n“On 5 July 1908 Swiss voters approved a constitutional ban on absinthe by 63.5 percent — the second European country to prohibit it and the first by direct popular ballot. We test whether wine producers — the upstream category whose displaced demand absinthe had absorbed during the phylloxera years — moved the cross-canton vote, using a 25-canton dataset built around a previously un-analyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. The raw wine–Yes correlation is negative; conditioning on French-speaking share flips its sign, the textbook Simpson’s-paradox reversal. Fractional-logit average marginal effects then show that a one-percentage-point increase in a canton’s national wine-revenue share raises its yes-share by 0.43 percentage points; for the dominant wine canton, Vaud, this implies roughly 15 percentage points of its predicted yes-share. The wine signal is absent from the 1906–07 petition stage and from a same-day commerce-vote placebo: a Bootlegger coalition that consolidated at the vote rather than at the petition.”\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a preliminary working draft — please do not cite or circulate without permission. A current version is available on request."
+  },
+  {
+    "objectID": "explore.html",
+    "href": "explore.html",
+    "title": "Explore My Research",
+    "section": "",
+    "text": "My research sits at the intersection of historical political economy, public choice, and the political economy of regulation — when regulation serves the public interest, and when it instead protects incumbents or substitutes for order that markets and communities already supply. Browse below, or filter the working papers by topic. Click any card to read more."
+  },
+  {
+    "objectID": "explore.html#working-papers",
+    "href": "explore.html#working-papers",
+    "title": "Explore My Research",
     "section": "Working Papers",
-    "text": "Working Papers\n\n“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act”\n“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929” (with Daniel J. Smith)\n“Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets” (with Mark Packard, Macy Scheck, and Daniel J. Smith)"
+    "text": "Working Papers\n\n\n\n\n\n\n\nThe Father of Food and Drug Law as Strategic Regulator\n\n\nDr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897\n\n\n\nRegulation\n\nPublic Choice\n\nEconomic History\n\nWorking Paper\n\n\n\nA public-choice reinterpretation of the 1897 Act, combining a newly hand-collected district-level panel of bonded-whiskey withdrawals, newspaper price data, and the…\n\n\n\n\n\n\n\n\n\nPrivate Mechanisms for Stopping Diamond-Dybvig Runs\n\n\nEvidence from U.S. Newspapers, 1889–1929\n\n\n\nMoney & Banking\n\nEconomic History\n\nPublic Choice\n\nWorking Paper\n\n\n\nHand-coding 544 bank runs from digitized newspapers shows that banks and their communities stopped runs with a rich toolkit of private, market-based mechanisms — even before…\n\n\n\n\n\n\n\n\n\nAssuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets\n\n\n\nEntrepreneurship\n\nEconomic History\n\nRegulation\n\nWorking Paper\n\n\n\nBefore federal regulation, whiskey was a textbook market for lemons — yet it thrived. How did entrepreneurs privately assure consumers of quality?\n\n\n\n\n\n\n\n\n\nBootleggers Behind the Baptists\n\n\nWine-Industry Influence in Switzerland’s 1908 Absinthe Referendum\n\n\n\nPublic Choice\n\nPublic Health\n\nEconomic History\n\nWorking Paper\n\n\n\nDid wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level…\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Jacob R. Smith",
-    "section": "About Me",
-    "text": "About Me\nI am a Ph.D. candidate in economics at Middle Tennessee State University’s Jones College of Business, expecting to graduate in May 2027. In summer 2026 I am a Graduate Fellow at the American Institute for Economic Research (AIER), and I was a Summer 2024 and 2025 Fellow with MTSU’s Political Economy Research Institute (PERI). My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom — often revealing the incentives and coalitions that shape regulatory outcomes.\nI began my academic career at Hampden-Sydney College, graduating magna cum laude in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy. That interdisciplinary foundation shapes the toolkit and perspective I bring to my teaching and research.\nLearn more on my C.V., Teaching, and Research pages."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Jacob R. Smith",
-    "section": "Contact",
-    "text": "Contact\nWhether you’re a fellow researcher, a student, or simply interested in economic questions, I’d be glad to connect. The quickest ways to reach me are below.\n\nLinkedIn: linkedin.com/in/jacobsmithr\nEmail: jacob.rand.smith@gmail.com"
+    "objectID": "explore.html#works-in-progress",
+    "href": "explore.html#works-in-progress",
+    "title": "Explore My Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\n\n\n\n\n\n\nThe End of Prohibition and Alcohol-Firm Stock Prices\n\n\nWorking title\n\n\n\nFinance\n\nIndustrial Organization\n\nEconomic History\n\nWork in Progress\n\n\n\nAn asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly.\n\n\n\n\n\n\n\n\n\nAlms and Ale\n\n\nA Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023\n\n\n\nWelfare & Public Health\n\nPublic Choice\n\nWork in Progress\n\n\n\nDo more generous welfare states inadvertently raise demand for ‘vice’ goods like alcohol? A panel test of a Malthusian hypothesis across the OECD.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -158,7 +165,14 @@
     "href": "cv.html#working-papers",
     "title": "C.V.",
     "section": "WORKING PAPERS",
-    "text": "WORKING PAPERS\n“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act”\n“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929”\n“Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets”"
+    "text": "WORKING PAPERS\n“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-In-Bond Act” (job market paper)\n“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929” (with Daniel J. Smith)\n“Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets” (with Mark Packard, Macy Scheck, and Daniel J. Smith)\n“Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland’s 1908 Absinthe Referendum” (with Nicholas A. Jensen)"
+  },
+  {
+    "objectID": "cv.html#works-in-progress",
+    "href": "cv.html#works-in-progress",
+    "title": "C.V.",
+    "section": "WORKS IN PROGRESS",
+    "text": "WORKS IN PROGRESS\n“The End of Prohibition and Alcohol-Firm Stock Prices” (with Patricia Hummel and Corey Pendleton)\n“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023”"
   },
   {
     "objectID": "cv.html#conference-presentations",
@@ -210,53 +224,60 @@
     "text": "SERVICE AND LEADERSHIP\nH-SC Student Honor Court Investigator, 2022-2023\nH-SC Journal of the Sciences Editor, Vol. XVII\nAlpha Chi Sigma Beta Chi Chapter Vice Master Alchemist (2022) and Historian (2023)\nAtkinson Museum Student Museum Board Member, 2022-2023\nUnion Philanthropic Literary Society Junior Member, 2021-2023\nUndergraduate Philosophical Association of Virginia Member, 2022-2023\nWilson Center’s Leadership in the Public Interest Four-Year Program Member, 2019-2023"
   },
   {
-    "objectID": "explore.html",
-    "href": "explore.html",
-    "title": "Explore My Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacob R. Smith",
     "section": "",
-    "text": "My research sits at the intersection of historical political economy, public choice, and the political economy of regulation — when regulation serves the public interest, and when it instead protects incumbents or substitutes for order that markets and communities already supply. Browse below, or filter the working papers by topic. Click any card to read more."
+    "text": "I’m Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected May 2027) and a 2026 Graduate Fellow at the American Institute for Economic Research (AIER). My work draws on public choice theory, Austrian economics, and historical political economy to ask a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?\nThis site collects my research, working papers, teaching, and CV.\n\n LinkedIn  Email"
   },
   {
-    "objectID": "explore.html#working-papers",
-    "href": "explore.html#working-papers",
-    "title": "Explore My Research",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jacob R. Smith",
+    "section": "Research Interests",
+    "text": "Research Interests\nPublic choice theory, Austrian economics, public-interest regulation, and historical political economy."
+  },
+  {
+    "objectID": "index.html#working-papers",
+    "href": "index.html#working-papers",
+    "title": "Jacob R. Smith",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n\n\n\n\n\nThe Father of Food and Drug Law as Strategic Regulator\n\n\nDr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897\n\n\n\nRegulation\n\nPublic Choice\n\nEconomic History\n\nWorking Paper\n\n\n\nA public-choice reinterpretation of the 1897 Act, combining a newly hand-collected district-level panel of bonded-whiskey withdrawals, newspaper price data, and the…\n\n\n\n\n\n\n\n\n\n\n\n\nPrivate Mechanisms for Stopping Diamond-Dybvig Runs\n\n\nEvidence from U.S. Newspapers, 1889–1929\n\n\n\nMoney & Banking\n\nEconomic History\n\nPublic Choice\n\nWorking Paper\n\n\n\nHand-coding 544 bank runs from digitized newspapers shows that banks and their communities stopped runs with a rich toolkit of private, market-based mechanisms — even before…\n\n\n\n\n\n\n\n\n\n\n\n\nBootleggers Behind the Baptists\n\n\nWine-Industry Influence in Switzerland’s 1908 Absinthe Referendum\n\n\n\nPublic Choice\n\nPublic Health\n\nEconomic History\n\nWorking Paper\n\n\n\nDid wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level…\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act” (job market paper)\n“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929” (with Daniel J. Smith)\n“Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets” (with Mark Packard, Macy Scheck, and Daniel J. Smith)\n“Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland’s 1908 Absinthe Referendum” (with Nicholas A. Jensen)"
   },
   {
-    "objectID": "explore.html#works-in-progress",
-    "href": "explore.html#works-in-progress",
-    "title": "Explore My Research",
+    "objectID": "index.html#works-in-progress",
+    "href": "index.html#works-in-progress",
+    "title": "Jacob R. Smith",
     "section": "Works in Progress",
-    "text": "Works in Progress\n\n\n\n\n\n\n\nAssuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets\n\n\n\nEntrepreneurship\n\nEconomic History\n\nRegulation\n\nWork in Progress\n\n\n\nBefore federal regulation, whiskey was a textbook market for lemons — yet it thrived. How did entrepreneurs privately assure consumers of quality?\n\n\n\n\n\n\n\n\n\nThe End of Prohibition and Alcohol-Firm Stock Prices\n\n\nWorking title\n\n\n\nFinance\n\nIndustrial Organization\n\nEconomic History\n\nWork in Progress\n\n\n\nAn asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly.\n\n\n\n\n\nNo matching items"
+    "text": "Works in Progress\n\n“The End of Prohibition and Alcohol-Firm Stock Prices” (with Patricia Hummel and Corey Pendleton)\n“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023”\n\nSee Explore My Research for summaries, figures, and interactive charts."
   },
   {
-    "objectID": "papers/absinthe.html",
-    "href": "papers/absinthe.html",
-    "title": "Bootleggers Behind the Baptists",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jacob R. Smith",
+    "section": "About Me",
+    "text": "About Me\nI am a Ph.D. candidate in economics at Middle Tennessee State University’s Jones College of Business, expecting to graduate in May 2027. In summer 2026 I am a Graduate Fellow at the American Institute for Economic Research (AIER), and I was a Summer 2024 and 2025 Fellow with MTSU’s Political Economy Research Institute (PERI). My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom — often revealing the incentives and coalitions that shape regulatory outcomes.\nI began my academic career at Hampden-Sydney College, graduating magna cum laude in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy. That interdisciplinary foundation shapes the toolkit and perspective I bring to my teaching and research.\nLearn more on my C.V., Teaching, and Research pages."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Jacob R. Smith",
+    "section": "Contact",
+    "text": "Contact\nWhether you’re a fellow researcher, a student, or simply interested in economic questions, I’d be glad to connect. The quickest ways to reach me are below.\n\nLinkedIn: linkedin.com/in/jacobsmithr\nEmail: jacob.rand.smith@gmail.com"
+  },
+  {
+    "objectID": "papers/alms-and-ale.html",
+    "href": "papers/alms-and-ale.html",
+    "title": "Alms and Ale",
     "section": "",
-    "text": "Working paper (preliminary) · with Nicholas A. Jensen (Wabash College)"
+    "text": "Work in progress"
   },
   {
-    "objectID": "papers/absinthe.html#overview",
-    "href": "papers/absinthe.html#overview",
-    "title": "Bootleggers Behind the Baptists",
-    "section": "Overview",
-    "text": "Overview\nOn 5 July 1908, Switzerland became the first country to ban absinthe by direct popular vote — passing the constitutional ban with 63.5% support, over the Federal Council’s recommendation to reject it. The campaign was led by public-health and temperance reformers, the “Baptists.” But absinthe had grown popular during the phylloxera years precisely as a cheap substitute for wine, putting it in direct competition with Switzerland’s wine producers. This paper asks whether those producers — the “Bootleggers” — quietly moved the cross-canton vote, using a 25-canton dataset built around a previously unanalyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council."
-  },
-  {
-    "objectID": "papers/absinthe.html#abstract",
-    "href": "papers/absinthe.html#abstract",
-    "title": "Bootleggers Behind the Baptists",
-    "section": "Abstract",
-    "text": "Abstract\n\n“On 5 July 1908 Swiss voters approved a constitutional ban on absinthe by 63.5 percent — the second European country to prohibit it and the first by direct popular ballot. We test whether wine producers — the upstream category whose displaced demand absinthe had absorbed during the phylloxera years — moved the cross-canton vote, using a 25-canton dataset built around a previously un-analyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. The raw wine–Yes correlation is negative; conditioning on French-speaking share flips its sign, the textbook Simpson’s-paradox reversal. Fractional-logit average marginal effects then show that a one-percentage-point increase in a canton’s national wine-revenue share raises its yes-share by 0.43 percentage points; for the dominant wine canton, Vaud, this implies roughly 15 percentage points of its predicted yes-share. The wine signal is absent from the 1906–07 petition stage and from a same-day commerce-vote placebo: a Bootlegger coalition that consolidated at the vote rather than at the petition.”"
-  },
-  {
-    "objectID": "papers/absinthe.html#the-simpsons-paradox-reversal",
-    "href": "papers/absinthe.html#the-simpsons-paradox-reversal",
-    "title": "Bootleggers Behind the Baptists",
-    "section": "The Simpson’s-paradox reversal",
-    "text": "The Simpson’s-paradox reversal\nAcross cantons the raw relationship between wine-growing and the pro-ban vote is slightly negative — because wine cantons are also French-speaking, and French cantons voted “No” overall. Once language and confession are held constant, the relationship flips: more wine-growing means a higher Yes-share.\n\n\n\nRaw bivariate relationship between vineyard density and the yes-vote — negative before controls.\n\n\n\n\n\nPartial-residual plot controlling for Catholic share, French share, and log population — the conditional relationship is positive: wine-growing cantons voted more strongly for the ban.\n\n\n\n\n\nSwiss alcohol consumption, 1880–1922 — context for absinthe’s rise as a wine substitute during the phylloxera era.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a preliminary working draft — please do not cite or circulate without permission. A current version is available on request."
+    "objectID": "papers/alms-and-ale.html#research-question",
+    "href": "papers/alms-and-ale.html#research-question",
+    "title": "Alms and Ale",
+    "section": "Research question",
+    "text": "Research question\nBuilding on Malthus’s insight that subsidized populations may shift consumption toward leisure and intoxicants, this project asks whether more generous welfare provision inadvertently increases the demand for “vice” goods such as alcohol. The approach assembles a multi-decade panel of OECD countries (1995–2023) and estimates fixed-effects, instrumental-variable, and dynamic specifications that control for income, taxation, culture, and time trends.\n\n\n\n\n\n\nNote\n\n\n\nThis project is a work in progress. Details are available on request."
   },
   {
     "objectID": "papers/bottled-in-bond.html",
@@ -291,7 +312,7 @@
     "href": "papers/bottled-in-bond.html#bonded-whiskey-withdrawals-by-state-18981920",
     "title": "The Father of Food and Drug Law as Strategic Regulator",
     "section": "Bonded whiskey withdrawals by state, 1898–1920",
-    "text": "Bonded whiskey withdrawals by state, 1898–1920\nHover any line to read the exact figure — the certification was overwhelmingly a Kentucky (and Pennsylvania) phenomenon.\n\nbibdata = d3.csvParse(`fy,state,bib_gal\n1898,IL,29792\n1898,IN,3695\n1898,KY,366622\n1898,OH,16290\n1898,PA,108852\n1899,IL,16267\n1899,IN,779\n1899,KY,228614\n1899,OH,3825\n1899,PA,140354\n1900,IL,16769\n1900,IN,1049\n1900,KY,234914\n1900,OH,7512\n1900,PA,156277\n1901,IL,21526\n1901,IN,6999\n1901,KY,288358\n1901,OH,5549\n1901,PA,198172\n1902,IL,29163\n1902,IN,5754\n1902,KY,305220\n1902,OH,6710\n1902,PA,188137\n1903,IL,38858\n1903,IN,5665\n1903,KY,418530\n1903,OH,16364\n1903,PA,238736\n1904,IL,44209\n1904,IN,6298\n1904,KY,657856\n1904,OH,19960\n1904,PA,356339\n1905,IL,50156\n1905,IN,10362\n1905,KY,949751\n1905,OH,29235\n1905,PA,538237\n1906,IL,63010\n1906,IN,12166\n1906,KY,1547093\n1906,OH,33132\n1906,PA,761699\n1907,IL,85983\n1907,IN,25684\n1907,KY,2942260\n1907,MO,5712\n1907,OH,202842\n1907,PA,1122255\n1908,IL,95289\n1908,IN,49335\n1908,KY,3236470\n1908,MO,17355\n1908,OH,387822\n1908,PA,921612\n1909,IL,228788\n1909,IN,68933\n1909,KY,4288326\n1909,MO,68972\n1909,OH,471965\n1909,PA,1114639\n1910,IL,368282\n1910,IN,88726\n1910,KY,5950277\n1910,MO,90179\n1910,OH,795664\n1910,PA,1548983\n1911,IL,559046\n1911,IN,102312\n1911,KY,7095958\n1911,MO,104016\n1911,OH,756218\n1911,PA,1781855\n1912,IL,445870\n1912,IN,117300\n1912,KY,6277845\n1912,MO,61851\n1912,OH,829740\n1912,PA,1686498\n1913,IL,621964\n1913,IN,149676\n1913,KY,6706756\n1913,MO,45071\n1913,OH,952206\n1913,PA,1805902\n1914,IL,660226\n1914,IN,162442\n1914,KY,6593926\n1914,MO,30837\n1914,OH,966116\n1914,PA,1757810\n1915,IL,602720\n1915,IN,216139\n1915,KY,6381863\n1915,MO,37780\n1915,OH,787935\n1915,PA,1499255\n1916,IL,811244\n1916,IN,361497\n1916,KY,8104846\n1916,MO,59166\n1916,OH,1044003\n1916,PA,1910709\n1917,IL,942554\n1917,IN,320259\n1917,KY,10858233\n1917,MO,104072\n1917,OH,1391836\n1917,PA,2582600\n1918,IL,630848\n1918,IN,182757\n1918,KY,6648240\n1918,MO,32062\n1918,OH,754708\n1918,PA,1677916\n1919,IL,781131\n1919,IN,237899\n1919,KY,10274290\n1919,MO,30706\n1919,OH,1068483\n1919,PA,2389728\n1920,IL,170234\n1920,IN,17001\n1920,KY,854520\n1920,MO,2796\n1920,OH,30155\n1920,PA,529473`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  marginLeft: 66,\n  height: 380,\n  x: {label: \"Fiscal year\", tickFormat: \"d\"},\n  y: {label: \"Bonded whiskey withdrawn (gallons)\", grid: true, tickFormat: \"~s\"},\n  color: {legend: true},\n  marks: [\n    Plot.ruleY([0]),\n    Plot.line(bibdata, {x: \"fy\", y: \"bib_gal\", z: \"state\", stroke: \"state\", strokeWidth: 2, curve: \"catmull-rom\"}),\n    Plot.dot(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", stroke: \"state\", r: 4})),\n    Plot.tip(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", channels: {State: \"state\"}, format: {y: d =&gt; d.toLocaleString() + \" gal\"}}))\n  ]\n})"
+    "text": "Bonded whiskey withdrawals by state, 1898–1920\nHover any line to read the exact figure — the certification was overwhelmingly a Kentucky (and Pennsylvania) phenomenon.\n\nbibdata = d3.csvParse(`fy,state,bib_gal\n1898,IL,29792\n1898,IN,3695\n1898,KY,366622\n1898,OH,16290\n1898,PA,108852\n1899,IL,16267\n1899,IN,779\n1899,KY,228614\n1899,OH,3825\n1899,PA,140354\n1900,IL,16769\n1900,IN,1049\n1900,KY,234914\n1900,OH,7512\n1900,PA,156277\n1901,IL,21526\n1901,IN,6999\n1901,KY,288358\n1901,OH,5549\n1901,PA,198172\n1902,IL,29163\n1902,IN,5754\n1902,KY,305220\n1902,OH,6710\n1902,PA,188137\n1903,IL,38858\n1903,IN,5665\n1903,KY,418530\n1903,OH,16364\n1903,PA,238736\n1904,IL,44209\n1904,IN,6298\n1904,KY,657856\n1904,OH,19960\n1904,PA,356339\n1905,IL,50156\n1905,IN,10362\n1905,KY,949751\n1905,OH,29235\n1905,PA,538237\n1906,IL,63010\n1906,IN,12166\n1906,KY,1547093\n1906,OH,33132\n1906,PA,761699\n1907,IL,85983\n1907,IN,25684\n1907,KY,2942260\n1907,MO,5712\n1907,OH,202842\n1907,PA,1122255\n1908,IL,95289\n1908,IN,49335\n1908,KY,3236470\n1908,MO,17355\n1908,OH,387822\n1908,PA,921612\n1909,IL,228788\n1909,IN,68933\n1909,KY,4288326\n1909,MO,68972\n1909,OH,471965\n1909,PA,1114639\n1910,IL,368282\n1910,IN,88726\n1910,KY,5950277\n1910,MO,90179\n1910,OH,795664\n1910,PA,1548983\n1911,IL,559046\n1911,IN,102312\n1911,KY,7095958\n1911,MO,104016\n1911,OH,756218\n1911,PA,1781855\n1912,IL,445870\n1912,IN,117300\n1912,KY,6277845\n1912,MO,61851\n1912,OH,829740\n1912,PA,1686498\n1913,IL,621964\n1913,IN,149676\n1913,KY,6706756\n1913,MO,45071\n1913,OH,952206\n1913,PA,1805902\n1914,IL,660226\n1914,IN,162442\n1914,KY,6593926\n1914,MO,30837\n1914,OH,966116\n1914,PA,1757810\n1915,IL,602720\n1915,IN,216139\n1915,KY,6381863\n1915,MO,37780\n1915,OH,787935\n1915,PA,1499255\n1916,IL,811244\n1916,IN,361497\n1916,KY,8104846\n1916,MO,59166\n1916,OH,1044003\n1916,PA,1910709\n1917,IL,942554\n1917,IN,320259\n1917,KY,10858233\n1917,MO,104072\n1917,OH,1391836\n1917,PA,2582600\n1918,IL,630848\n1918,IN,182757\n1918,KY,6648240\n1918,MO,32062\n1918,OH,754708\n1918,PA,1677916\n1919,IL,781131\n1919,IN,237899\n1919,KY,10274290\n1919,MO,30706\n1919,OH,1068483\n1919,PA,2389728\n1920,IL,170234\n1920,IN,17001\n1920,KY,854520\n1920,MO,2796\n1920,OH,30155\n1920,PA,529473`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  marginLeft: 66,\n  height: 380,\n  x: {label: \"Fiscal year\", tickFormat: \"d\"},\n  y: {label: \"Gallons withdrawn\", grid: true, tickFormat: \"~s\"},\n  color: {legend: true},\n  marks: [\n    Plot.ruleY([0]),\n    Plot.line(bibdata, {x: \"fy\", y: \"bib_gal\", z: \"state\", stroke: \"state\", strokeWidth: 2, curve: \"catmull-rom\"}),\n    Plot.dot(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", stroke: \"state\", r: 4})),\n    Plot.tip(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", title: (d) =&gt; `${d.state} · FY${d.fy}\\n${d.bib_gal.toLocaleString()} gallons`}))\n  ]\n})"
   },
   {
     "objectID": "papers/bottled-in-bond.html#selected-figures",
@@ -312,7 +333,7 @@
     "href": "papers/whiskey-markets.html",
     "title": "Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets",
     "section": "",
-    "text": "Work in progress · with Mark Packard, Macy Scheck, and Daniel J. Smith"
+    "text": "Working paper · with Mark Packard, Macy Scheck, and Daniel J. Smith"
   },
   {
     "objectID": "papers/whiskey-markets.html#overview",
@@ -340,13 +361,20 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My dissertation explores three distinct but related facets of how policy shapes, and is shaped by, individual and institutional behavior when the stakes involve credibility, safety, welfare, and freedom.\nThe first chapter, adapted from my working paper “The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897,” examines the origins of one of the earliest federal consumer-protection statutes. Using archival correspondence, congressional testimony, and newly digitized distillery records, I show how Dr. Harvey Wiley and the USDA Bureau of Chemistry strategically framed the 1897 Act as a pure public-health measure while simultaneously designing costly bonding and labeling requirements to favor large, established distillers who lobbied for the law and to expand the Bureau’s own jurisdiction. The chapter illustrates a classic Bootleggers-and-Baptists coalition long before the modern administrative state, demonstrating that even “Progressive Era” regulation was often captured from day one.\n\n“The Bottled-in-Bond Act of 1897 (BiB) is often framed as one of the earliest consumer protection laws in the United States. Traditionally, it is seen as a measure to safeguard consumers from harmful whiskey adulteration. However, a public choice interpretation suggests that BiB served the interests of both incumbent aged whiskey distillers and federal regulators. Dr. Harvey Wiley, the head of the Bureau of Chemistry, played a central role in legitimizing and enforcing this regulation, expanding the power of his bureau while assisting straight whiskey distillers in their battle against rectifiers. Distillers often quoted statements made by Dr. Wiley in their advertisements to make appeals to authority that their competitors were not eligible to make. This paper reinterprets the BiB through the lens of regulatory capture, examining Wiley’s role as a strategic regulator who used the Act to cement his influence in federal food and drug policy.”"
+    "text": "My research program asks a single question across very different historical and institutional settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide? I combine historical institutional analysis with modern econometric and panel-data methods, in the tradition of Buchanan, Tullock, and Stigler and the Austrian emphasis on knowledge problems and spontaneous order."
   },
   {
-    "objectID": "research.html#dissertation-research",
-    "href": "research.html#dissertation-research",
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
     "title": "Research",
-    "section": "",
-    "text": "My dissertation explores three distinct but related facets of how policy shapes, and is shaped by, individual and institutional behavior when the stakes involve credibility, safety, welfare, and freedom.\nThe first chapter, adapted from my working paper “The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897,” examines the origins of one of the earliest federal consumer-protection statutes. Using archival correspondence, congressional testimony, and newly digitized distillery records, I show how Dr. Harvey Wiley and the USDA Bureau of Chemistry strategically framed the 1897 Act as a pure public-health measure while simultaneously designing costly bonding and labeling requirements to favor large, established distillers who lobbied for the law and to expand the Bureau’s own jurisdiction. The chapter illustrates a classic Bootleggers-and-Baptists coalition long before the modern administrative state, demonstrating that even “Progressive Era” regulation was often captured from day one.\n\n“The Bottled-in-Bond Act of 1897 (BiB) is often framed as one of the earliest consumer protection laws in the United States. Traditionally, it is seen as a measure to safeguard consumers from harmful whiskey adulteration. However, a public choice interpretation suggests that BiB served the interests of both incumbent aged whiskey distillers and federal regulators. Dr. Harvey Wiley, the head of the Bureau of Chemistry, played a central role in legitimizing and enforcing this regulation, expanding the power of his bureau while assisting straight whiskey distillers in their battle against rectifiers. Distillers often quoted statements made by Dr. Wiley in their advertisements to make appeals to authority that their competitors were not eligible to make. This paper reinterprets the BiB through the lens of regulatory capture, examining Wiley’s role as a strategic regulator who used the Act to cement his influence in federal food and drug policy.”"
+    "section": "Dissertation",
+    "text": "Dissertation\nMy dissertation develops this question through three essays.\n\n1. The strategic origins of food-and-drug regulation\nMy job market paper shows how Dr. Harvey Wiley and the USDA Bureau of Chemistry framed the Bottled-in-Bond Act of 1897 as consumer protection while engineering bonding and labeling requirements that favored the incumbent aged distillers who lobbied for it — and that expanded the Bureau’s own jurisdiction. Drawing on a newly hand-collected district-level panel of bonded-whiskey withdrawals, newspaper price data, and the legislative record, it documents a Bootleggers-and-Baptists coalition operating before the modern administrative state. Read more →\n\n\n2. Private order in banking panics\nAssembling a new dataset of 544 bank runs hand-coded from digitized newspapers (1889–1929), this chapter (with Daniel J. Smith) documents how localized runs were contained by a rich toolkit of private, market-based mechanisms — qualifying the standard case for deposit insurance and a fully developed lender of last resort. Read more →\n\n\n3. Protectionism at the ballot box\nSwitzerland’s 1908 vote to ban absinthe is usually read as a public-health triumph. Using a newly assembled canton-level dataset (with Nicholas A. Jensen), this chapter shows that wine-producing cantons — absinthe’s commercial rivals — disproportionately supported the ban once language and confession are held constant, evidence that public-health rhetoric can mask economic self-interest when protectionism is enacted directly by voters. Read more →"
+  },
+  {
+    "objectID": "research.html#beyond-the-dissertation",
+    "href": "research.html#beyond-the-dissertation",
+    "title": "Research",
+    "section": "Beyond the dissertation",
+    "text": "Beyond the dissertation\nWith coauthors, I also study how early American whiskey entrepreneurs privately assured consumers of quality before federal regulation — a market-for-lemons setting that did not unravel (Assuring Consumers of Authenticity, Safety, and Quality). As a 2026 Graduate Fellow at the American Institute for Economic Research, I am beginning new work on economic freedom and state coercion, and ongoing projects examine the asset-pricing consequences of Prohibition’s repeal and the link between welfare generosity and alcohol consumption.\nFor full summaries, figures, and interactive data from each paper, see Explore My Research."
   }
 ]

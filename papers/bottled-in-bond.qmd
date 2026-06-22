@@ -169,13 +169,13 @@ Plot.plot({
   marginLeft: 66,
   height: 380,
   x: {label: "Fiscal year", tickFormat: "d"},
-  y: {label: "Bonded whiskey withdrawn (gallons)", grid: true, tickFormat: "~s"},
+  y: {label: "Gallons withdrawn", grid: true, tickFormat: "~s"},
   color: {legend: true},
   marks: [
     Plot.ruleY([0]),
     Plot.line(bibdata, {x: "fy", y: "bib_gal", z: "state", stroke: "state", strokeWidth: 2, curve: "catmull-rom"}),
     Plot.dot(bibdata, Plot.pointer({x: "fy", y: "bib_gal", stroke: "state", r: 4})),
-    Plot.tip(bibdata, Plot.pointer({x: "fy", y: "bib_gal", channels: {State: "state"}, format: {y: d => d.toLocaleString() + " gal"}}))
+    Plot.tip(bibdata, Plot.pointer({x: "fy", y: "bib_gal", title: (d) => `${d.state} · FY${d.fy}\n${d.bib_gal.toLocaleString()} gallons`}))
   ]
 })
 ```

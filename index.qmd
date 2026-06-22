@@ -27,9 +27,17 @@ Public choice theory, Austrian economics, public-interest regulation, and histor
 
 ## Working Papers
 
-- *"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act"*
+- *"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act"* (job market paper)
 - *"Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929"* (with Daniel J. Smith)
 - *"Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets"* (with Mark Packard, Macy Scheck, and Daniel J. Smith)
+- *"Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum"* (with Nicholas A. Jensen)
+
+## Works in Progress
+
+- *"The End of Prohibition and Alcohol-Firm Stock Prices"* (with Patricia Hummel and Corey Pendleton)
+- *"Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023"*
+
+See [Explore My Research](explore.qmd) for summaries, figures, and interactive charts.
 
 ## About Me
 

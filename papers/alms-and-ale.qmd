@@ -1,0 +1,16 @@
+---
+title: "Alms and Ale"
+subtitle: "A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023"
+description: "Do more generous welfare states inadvertently raise demand for 'vice' goods like alcohol? A panel test of a Malthusian hypothesis across the OECD."
+categories: [Welfare & Public Health, Public Choice, Work in Progress]
+---
+
+*Work in progress*
+
+## Research question
+
+Building on Malthus's insight that subsidized populations may shift consumption toward leisure and intoxicants, this project asks whether more generous welfare provision inadvertently increases the demand for "vice" goods such as alcohol. The approach assembles a multi-decade panel of OECD countries (1995–2023) and estimates fixed-effects, instrumental-variable, and dynamic specifications that control for income, taxation, culture, and time trends.
+
+::: {.callout-note}
+This project is a work in progress. Details are available on request.
+:::
