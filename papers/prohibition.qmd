@@ -1,0 +1,18 @@
+---
+title: "The End of Prohibition and Alcohol-Firm Stock Prices"
+subtitle: "Working title"
+description: "An asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly."
+categories: [Finance, Industrial Organization, Economic History, Work in Progress]
+---
+
+*Work in progress · with Patricia Hummel and Corey Pendleton*
+
+## Research question
+
+Under Prohibition, legal alcohol production was centralized and largely medicinal, leaving a small set of incumbent producers operating as a state-enforced oligopoly. This project asks an asset-pricing question: what happened to those firms' equity value once investors became confident that Prohibition was ending — and that repeal would open the market to new entrants and erode their protected profits?
+
+The design pairs an event study around the repeal signal (the moment the historically driest states moved to ratify) with an industrial-organization extension built from newspaper evidence on market entry and enforcement, testing whether incumbent values fell further as new entrants appeared.
+
+::: {.callout-note}
+This project is in early development (data collection underway). Details available on request.
+:::

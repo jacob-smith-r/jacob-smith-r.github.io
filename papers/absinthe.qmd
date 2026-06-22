@@ -1,0 +1,32 @@
+---
+title: "Bootleggers Behind the Baptists"
+subtitle: "Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum"
+description: "Did wine producers — not just public-health reformers — drive Switzerland's 1908 vote to ban absinthe? A 'Bootleggers and Baptists' test using a newly assembled canton-level dataset built around a previously unanalyzed 1907 enumeration of the absinthe industry."
+categories: [Public Choice, Public Health, Economic History, Working Paper]
+image: /images/papers/absinthe_fig2_scatter_partial-1.png
+image-alt: "Partial-residual plot: vineyard density vs. yes-vote share across Swiss cantons"
+---
+
+*Working paper (preliminary) · with Nicholas A. Jensen (Wabash College)*
+
+## Overview
+
+On 5 July 1908, Switzerland became the first country to ban absinthe by direct popular vote — passing the constitutional ban with **63.5%** support, over the Federal Council's recommendation to reject it. The campaign was led by public-health and temperance reformers, the "Baptists." But absinthe had grown popular during the phylloxera years precisely as a cheap substitute for wine, putting it in direct competition with Switzerland's wine producers. This paper asks whether those producers — the "Bootleggers" — quietly moved the cross-canton vote, using a 25-canton dataset built around a previously unanalyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council.
+
+## Abstract
+
+> "On 5 July 1908 Swiss voters approved a constitutional ban on absinthe by 63.5 percent — the second European country to prohibit it and the first by direct popular ballot. We test whether wine producers — the upstream category whose displaced demand absinthe had absorbed during the phylloxera years — moved the cross-canton vote, using a 25-canton dataset built around a previously un-analyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. The raw wine–Yes correlation is negative; conditioning on French-speaking share flips its sign, the textbook Simpson's-paradox reversal. Fractional-logit average marginal effects then show that a one-percentage-point increase in a canton's national wine-revenue share raises its yes-share by 0.43 percentage points; for the dominant wine canton, Vaud, this implies roughly 15 percentage points of its predicted yes-share. The wine signal is absent from the 1906–07 petition stage and from a same-day commerce-vote placebo: a Bootlegger coalition that consolidated at the vote rather than at the petition."
+
+## The Simpson's-paradox reversal
+
+Across cantons the *raw* relationship between wine-growing and the pro-ban vote is slightly negative — because wine cantons are also French-speaking, and French cantons voted "No" overall. Once language and confession are held constant, the relationship flips: more wine-growing means a higher Yes-share.
+
+![Raw bivariate relationship between vineyard density and the yes-vote — negative before controls.](/images/papers/absinthe_fig1_scatter_raw-1.png)
+
+![Partial-residual plot controlling for Catholic share, French share, and log population — the conditional relationship is positive: wine-growing cantons voted more strongly for the ban.](/images/papers/absinthe_fig2_scatter_partial-1.png)
+
+![Swiss alcohol consumption, 1880–1922 — context for absinthe's rise as a wine substitute during the phylloxera era.](/images/papers/absinthe_consumption.png)
+
+::: {.callout-note}
+This is a preliminary working draft — please do not cite or circulate without permission. A current version is available on request.
+:::

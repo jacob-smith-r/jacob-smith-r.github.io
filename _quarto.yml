@@ -17,6 +17,8 @@ website:
         href: teaching.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Explore My Research"
+        href: explore.qmd
     right:
       - icon: linkedin
         href: "https://www.linkedin.com/in/jacobsmithr"

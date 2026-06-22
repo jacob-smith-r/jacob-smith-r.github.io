@@ -1,13 +1,28 @@
 ---
 title: "Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets"
-description: "How producers, intermediaries, and regulators signaled authenticity, safety, and quality to consumers in early American whiskey markets."
-categories: [Regulation, Economic History, Working Paper]
+description: "Before federal regulation, whiskey was a textbook market for lemons — yet it thrived. How did entrepreneurs privately assure consumers of quality?"
+categories: [Entrepreneurship, Economic History, Regulation, Work in Progress]
 ---
 
-*Working paper — draft in progress*
+*Work in progress · with Mark Packard, Macy Scheck, and Daniel J. Smith*
 
-This paper studies the mechanisms — private and public — through which authenticity, safety, and quality were assured to consumers in early American whiskey markets, and what those mechanisms reveal about the demand for and supply of credibility in markets with uncertain product quality.
+## Overview
+
+Before the 1906 Pure Food and Drugs Act, whiskey was often sold from open barrels, so consumers could not verify authenticity, safety, or quality — and public-health figures loudly warned that it was adulterated with poisons. By the logic of Akerlof's "market for lemons," the market should have unraveled. It did not. Drawing on digitized historical newspaper advertisements, we document the market-based mechanisms entrepreneurs developed to credibly assure buyers, framing them as a process of entrepreneurial trial, discovery, and learning.
+
+## Abstract
+
+> "Do entrepreneurs have the incentives to assure consumers of authenticity, safety, and quality in the presence of asymmetric information? Early American whiskey markets present a classic case of asymmetric information where markets might be expected to unravel because consumers could not discern the authenticity, safety, and quality of whiskey sold out of open barrels. In addition, public health experts claimed whiskey was commonly adulterated with poisons. Despite these market obstacles, early American whiskey markets were robust. Using historical newspapers, we detail the four mechanisms entrepreneurs in the whiskey industry invested in to assure consumers of authenticity, safety, and quality."
+
+## Four entrepreneurial assurance mechanisms
+
+1. **Distinctive processes and ingredients** that gave a whiskey a recognizable look, smell, and taste — turning quality from an unverifiable *credence* attribute into an *experience* one (charred-barrel bourbon, Tennessee charcoal filtering).
+2. **Brands, logos, marks, and guarantees** that staked a reputation on each bottle (Old Overholt, Old Crow, Jack Daniel's).
+3. **Exclusive dealer agreements** that borrowed the reputation of trusted local merchants, whose ongoing rents gave them reason not to adulterate.
+4. **Sealed glass bottles** with tamper-evident caps — the decisive innovation, since earlier mechanisms could still be spoofed from open barrels (Old Forester, the first exclusively bottled brand).
+
+The implication is that market incentives can substitute for regulation in supplying the very quality assurance such regulation claims to provide — an entrepreneurial-institutions story I am continuing to develop.
 
 ::: {.callout-note}
-A full abstract and figures for this paper are in progress and will be added here.
+This paper is being developed. A current draft is available on request.
 :::

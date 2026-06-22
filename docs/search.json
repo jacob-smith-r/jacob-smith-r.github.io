@@ -28,39 +28,109 @@
     "text": "Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators\n\n“The Bottled-In-Bond Act of 1897 (BiB), one of the first consumer protection regulations in the United States, is commonly thought to safeguard consumers from harmful whiskey makers and adulterated whiskey, which were allegedly common practices in the late 19th and early 20th century. The BiB restricted the labeling of whiskey bottles and attempted to guarantee the quality of liquor. While there is no evidence of any consumer being harmed from adulterated or rectified whiskey, alternative explanations for the BiB are wanting.\nContrary to common wisdom, the BiB served a combination of private interests, namely, incumbent aged whiskey distillers and federal regulators. Aged whiskey distillers took advantage of the labeling rules imposed by the BiB in their advertisements, which conveyed signals of quality and credibility from a government authority, e.g., green bottled-in-bond stamps. Fear and uncertainty, combined with public exhibitions and expert statements to promote Bottled-In-Bond whiskey, were cited in advertisements by aged whiskey distillers to shift consumer preferences away from rectified whiskey and towards aged whiskey. Government officials were incentivized to promote bottled-in-bond whiskey and promulgate concern about adulterants in rectified whiskey in order to expand their bureau and secure additional appropriations. I will outline relevant economic theory on rent seeking and market uncertainty and apply it to the Progressive Era whiskey market. I will then show historical evidence of both specific firms and regulators attempting to promulgate consumer uncertainty over quality and reaping the benefits of assuaging consumers’ fear.”"
   },
   {
-    "objectID": "papers/bottled-in-bond.html",
-    "href": "papers/bottled-in-bond.html",
-    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "objectID": "papers/prohibition.html",
+    "href": "papers/prohibition.html",
+    "title": "The End of Prohibition and Alcohol-Firm Stock Prices",
     "section": "",
-    "text": "Working paper — job market paper / dissertation chapter\nThis paper examines the origins of one of the earliest federal consumer-protection statutes. Using archival correspondence, congressional testimony, and newly digitized distillery records, I show how Dr. Harvey Wiley and the USDA Bureau of Chemistry strategically framed the 1897 Act as a pure public-health measure while simultaneously designing costly bonding and labeling requirements that favored large, established distillers who lobbied for the law — and that expanded the Bureau’s own jurisdiction. The paper illustrates a classic Bootleggers-and-Baptists coalition long before the modern administrative state, demonstrating that even “Progressive Era” regulation was often captured from day one."
+    "text": "Work in progress · with Patricia Hummel and Corey Pendleton"
   },
   {
-    "objectID": "papers/bottled-in-bond.html#abstract",
-    "href": "papers/bottled-in-bond.html#abstract",
-    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "objectID": "papers/prohibition.html#research-question",
+    "href": "papers/prohibition.html#research-question",
+    "title": "The End of Prohibition and Alcohol-Firm Stock Prices",
+    "section": "Research question",
+    "text": "Research question\nUnder Prohibition, legal alcohol production was centralized and largely medicinal, leaving a small set of incumbent producers operating as a state-enforced oligopoly. This project asks an asset-pricing question: what happened to those firms’ equity value once investors became confident that Prohibition was ending — and that repeal would open the market to new entrants and erode their protected profits?\nThe design pairs an event study around the repeal signal (the moment the historically driest states moved to ratify) with an industrial-organization extension built from newspaper evidence on market entry and enforcement, testing whether incumbent values fell further as new entrants appeared.\n\n\n\n\n\n\nNote\n\n\n\nThis project is in early development (data collection underway). Details available on request."
+  },
+  {
+    "objectID": "papers/bank-runs.html",
+    "href": "papers/bank-runs.html",
+    "title": "Private Mechanisms for Stopping Diamond-Dybvig Runs",
+    "section": "",
+    "text": "Working paper · with Daniel J. Smith"
+  },
+  {
+    "objectID": "papers/bank-runs.html#overview",
+    "href": "papers/bank-runs.html#overview",
+    "title": "Private Mechanisms for Stopping Diamond-Dybvig Runs",
+    "section": "Overview",
+    "text": "Overview\nTo what extent did U.S. banks and their communities develop private mechanisms to combat Diamond-Dybvig bank runs? Using digitized historical newspapers, we construct a novel dataset of 544 bank runs reported between 1889 and 1929 — spanning the National Banking Era through the early Federal Reserve — and systematically code the strategies banks and communities used to stop them. Beyond the familiar tools (suspension of redemption, clearinghouse assistance, disclosure, management turnover), we document detailed narrative evidence on eight understudied but commonly deployed mechanisms, suggesting private order offered a more robust defense against runs than the canonical model implies."
+  },
+  {
+    "objectID": "papers/bank-runs.html#abstract",
+    "href": "papers/bank-runs.html#abstract",
+    "title": "Private Mechanisms for Stopping Diamond-Dybvig Runs",
     "section": "Abstract",
-    "text": "Abstract\n\n“The Bottled-in-Bond Act of 1897 (BiB) is often framed as one of the earliest consumer protection laws in the United States. Traditionally, it is seen as a measure to safeguard consumers from harmful whiskey adulteration. However, a public choice interpretation suggests that BiB served the interests of both incumbent aged whiskey distillers and federal regulators. Dr. Harvey Wiley, the head of the Bureau of Chemistry, played a central role in legitimizing and enforcing this regulation, expanding the power of his bureau while assisting straight whiskey distillers in their battle against rectifiers. Distillers often quoted statements made by Dr. Wiley in their advertisements to make appeals to authority that their competitors were not eligible to make. This paper reinterprets the BiB through the lens of regulatory capture, examining Wiley’s role as a strategic regulator who used the Act to cement his influence in federal food and drug policy.”"
+    "text": "Abstract\n\n“To what extent did U.S. banks and their communities develop private mechanisms to combat Diamond-Dybvig bank runs? Using digitized historical newspapers, we construct a novel dataset of 544 bank runs reported between 1889 and 1929. We systematically code the mitigation strategies employed by banks and their communities. We confirm the widespread use of several mechanisms previously discussed in the literature, including suspension of redemption, clearinghouse assistance, information disclosure, and management turnover. In addition, we provide detailed narrative evidence on eight understudied but commonly deployed mechanisms: (1) non-invocation of redemption clauses, (2) forfeiture of interest, (3) passbook speculation, (4) direct loans from other financial institutions, (5) assurances from prominent community, business, financial, and governmental actors, (6) prominent displays of reserves, (7) modified banking hours, and (8) expanded clearinghouse roles. The findings suggest that private mechanisms offered a more robust defense against Diamond-Dybvig runs than the canonical model implies, in addition to, or even in the absence of, deposit insurance or a fully developed lender of last resort.”"
   },
   {
-    "objectID": "papers/bottled-in-bond.html#selected-figures",
-    "href": "papers/bottled-in-bond.html#selected-figures",
-    "title": "The Father of Food and Drug Law as Strategic Regulator",
-    "section": "Selected figures",
-    "text": "Selected figures"
+    "objectID": "papers/bank-runs.html#headline-findings",
+    "href": "papers/bank-runs.html#headline-findings",
+    "title": "Private Mechanisms for Stopping Diamond-Dybvig Runs",
+    "section": "Headline findings",
+    "text": "Headline findings\n\n544 bank runs identified from digitized newspapers, 1889–1929; 390 employed at least one private mitigation mechanism.\nA companion paper, “Bank Runs without a Cause,” isolates 273 no-cause runs: roughly 79% were averted in an average of 2.2 days, and only 5 spread beyond the initial bank.\nThe most common responses were market-based — external loans and reserves, credible disclosure, and assurances from prominent local figures — not government backstops."
   },
   {
-    "objectID": "papers/alms-and-ale.html",
-    "href": "papers/alms-and-ale.html",
-    "title": "Alms and Ale",
+    "objectID": "papers/bank-runs.html#where-the-runs-happened",
+    "href": "papers/bank-runs.html#where-the-runs-happened",
+    "title": "Private Mechanisms for Stopping Diamond-Dybvig Runs",
+    "section": "Where the runs happened",
+    "text": "Where the runs happened\n\n\n\nGeographic distribution of the 544 bank runs, 1889–1929."
+  },
+  {
+    "objectID": "papers/bank-runs.html#most-common-mitigation-mechanisms",
+    "href": "papers/bank-runs.html#most-common-mitigation-mechanisms",
+    "title": "Private Mechanisms for Stopping Diamond-Dybvig Runs",
+    "section": "Most common mitigation mechanisms",
+    "text": "Most common mitigation mechanisms\nShare of the 544 runs in which each mechanism appears (hover for exact values).\n\nmech = d3.csvParse(`mechanism,pct\nExternal loans/reserves (or offers),34.2\nInvoked redemption clause,27.2\nStatement of assets & liabilities,21.1\nAssurance of prominent leaders,17.5\nVisible display of cash/gold/silver,13.4\nStatement from regulator/govt. official,12.7\nDid not invoke redemption clause,10.3\nShorter hours,10.1\nLonger hours,9.0\nAssurance from other banks,8.8\nClearinghouse assistance,7.9\nFederal bailout,7.0`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  marginLeft: 250,\n  height: 380,\n  x: {label: \"% of 544 runs\", grid: true},\n  y: {label: null},\n  marks: [\n    Plot.barX(mech, {y: \"mechanism\", x: \"pct\", sort: {y: \"x\", reverse: true}, fill: \"#007BC3\"}),\n    Plot.text(mech, {y: \"mechanism\", x: \"pct\", text: d =&gt; d.pct + \"%\", dx: 16, fontSize: 11}),\n    Plot.tip(mech, Plot.pointerY({y: \"mechanism\", x: \"pct\", format: {x: d =&gt; d + \"%\"}}))\n  ]\n})"
+  },
+  {
+    "objectID": "papers/bank-runs.html#bank-runs-per-year",
+    "href": "papers/bank-runs.html#bank-runs-per-year",
+    "title": "Private Mechanisms for Stopping Diamond-Dybvig Runs",
+    "section": "Bank runs per year",
+    "text": "Bank runs per year\n\nyr = d3.csvParse(`year,runs\n1889,2\n1890,8\n1891,18\n1892,9\n1893,4\n1894,3\n1895,5\n1896,20\n1897,12\n1898,7\n1899,11\n1900,9\n1901,11\n1902,10\n1903,22\n1904,11\n1905,31\n1906,10\n1907,7\n1908,5\n1909,10\n1910,7\n1911,7\n1912,8\n1913,6\n1914,29\n1915,2\n1916,6\n1917,7\n1918,1\n1919,4\n1920,17\n1921,17\n1922,12\n1923,16\n1924,29\n1925,12\n1926,23\n1927,33\n1928,32\n1929,51`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  marginLeft: 50,\n  height: 300,\n  x: {label: \"Year\", tickFormat: \"d\"},\n  y: {label: \"Bank runs\", grid: true},\n  marks: [\n    Plot.areaY(yr, {x: \"year\", y: \"runs\", fill: \"#007BC3\", fillOpacity: 0.15}),\n    Plot.lineY(yr, {x: \"year\", y: \"runs\", stroke: \"#007BC3\", strokeWidth: 2}),\n    Plot.dot(yr, Plot.pointerX({x: \"year\", y: \"runs\", r: 4, fill: \"#007BC3\"})),\n    Plot.tip(yr, Plot.pointerX({x: \"year\", y: \"runs\", format: {x: d =&gt; d, y: d =&gt; d + \" runs\"}}))\n  ]\n})"
+  },
+  {
+    "objectID": "papers/bank-runs.html#draft",
+    "href": "papers/bank-runs.html#draft",
+    "title": "Private Mechanisms for Stopping Diamond-Dybvig Runs",
+    "section": "Draft",
+    "text": "Draft\nA companion paper, “Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889–1929,” is posted on SSRN. A current draft of this paper is available on request."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacob R. Smith",
     "section": "",
-    "text": "Working paper — draft in progress\nThis paper investigates the relationship between the generosity of welfare provision and alcohol consumption across OECD countries from 1995 to 2023, drawing on a Malthusian framing of behavioral responses to changes in economic security.\n\n\n\n\n\n\nNote\n\n\n\nA full abstract and figures for this paper are in progress and will be added here."
+    "text": "I’m Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected May 2027) and a 2026 Graduate Fellow at the American Institute for Economic Research (AIER). My work draws on public choice theory, Austrian economics, and historical political economy to ask a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?\nThis site collects my research, working papers, teaching, and CV.\n\n LinkedIn  Email"
   },
   {
-    "objectID": "explore.html",
-    "href": "explore.html",
-    "title": "Explore My Research",
-    "section": "",
-    "text": "My research sits at the intersection of historical political economy, public choice, and the political economy of regulation. Use the topic and status filters to browse my working papers; click any card to read more.\n\n\n\n\n\n\n\n\n\n\n\nAlms and Ale\n\n\n\nWelfare & Public Health\n\nWorking Paper\n\n\n\nTests how the generosity of welfare provision relates to alcohol consumption across OECD countries over nearly three decades.\n\n\n\n\n\n\n\n\n\nBank Runs without a Cause\n\n\n\nMoney & Banking\n\nEconomic History\n\nWorking Paper\n\n\n\nA historical examination of the frequency of U.S. bank runs, the extent of contagion across institutions, and the measures used to mitigate them.\n\n\n\n\n\n\n\n\n\nThe Father of Food and Drug Law as Strategic Regulator\n\n\n\nRegulation\n\nPublic Choice\n\nWorking Paper\n\n\n\nRegulatory capture in the Progressive Era whiskey market: how the 1897 Act was framed as public health while serving incumbent distillers and an ambitious federal bureau.\n\n\n\n\n\n\n\n\n\nAssuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets\n\n\n\nRegulation\n\nEconomic History\n\nWorking Paper\n\n\n\nHow producers, intermediaries, and regulators signaled authenticity, safety, and quality to consumers in early American whiskey markets.\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jacob R. Smith",
+    "section": "Research Interests",
+    "text": "Research Interests\nPublic choice theory, Austrian economics, public-interest regulation, and historical political economy."
+  },
+  {
+    "objectID": "index.html#working-papers",
+    "href": "index.html#working-papers",
+    "title": "Jacob R. Smith",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act”\n“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929” (with Daniel J. Smith)\n“Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets” (with Mark Packard, Macy Scheck, and Daniel J. Smith)"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jacob R. Smith",
+    "section": "About Me",
+    "text": "About Me\nI am a Ph.D. candidate in economics at Middle Tennessee State University’s Jones College of Business, expecting to graduate in May 2027. In summer 2026 I am a Graduate Fellow at the American Institute for Economic Research (AIER), and I was a Summer 2024 and 2025 Fellow with MTSU’s Political Economy Research Institute (PERI). My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom — often revealing the incentives and coalitions that shape regulatory outcomes.\nI began my academic career at Hampden-Sydney College, graduating magna cum laude in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy. That interdisciplinary foundation shapes the toolkit and perspective I bring to my teaching and research.\nLearn more on my C.V., Teaching, and Research pages."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Jacob R. Smith",
+    "section": "Contact",
+    "text": "Contact\nWhether you’re a fellow researcher, a student, or simply interested in economic questions, I’d be glad to connect. The quickest ways to reach me are below.\n\nLinkedIn: linkedin.com/in/jacobsmithr\nEmail: jacob.rand.smith@gmail.com"
   },
   {
     "objectID": "cv.html",
@@ -140,53 +210,130 @@
     "text": "SERVICE AND LEADERSHIP\nH-SC Student Honor Court Investigator, 2022-2023\nH-SC Journal of the Sciences Editor, Vol. XVII\nAlpha Chi Sigma Beta Chi Chapter Vice Master Alchemist (2022) and Historian (2023)\nAtkinson Museum Student Museum Board Member, 2022-2023\nUnion Philanthropic Literary Society Junior Member, 2021-2023\nUndergraduate Philosophical Association of Virginia Member, 2022-2023\nWilson Center’s Leadership in the Public Interest Four-Year Program Member, 2019-2023"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jacob R. Smith",
+    "objectID": "explore.html",
+    "href": "explore.html",
+    "title": "Explore My Research",
     "section": "",
-    "text": "I’m Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected May 2027) and a 2026 Graduate Fellow at the American Institute for Economic Research (AIER). My work draws on public choice theory, Austrian economics, and historical political economy to ask a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?\nThis site collects my research, working papers, teaching, and CV.\n\n LinkedIn  Email"
+    "text": "My research sits at the intersection of historical political economy, public choice, and the political economy of regulation — when regulation serves the public interest, and when it instead protects incumbents or substitutes for order that markets and communities already supply. Browse below, or filter the working papers by topic. Click any card to read more."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Jacob R. Smith",
-    "section": "Research Interests",
-    "text": "Research Interests\nPublic choice theory, Austrian economics, public-interest regulation, and historical political economy."
-  },
-  {
-    "objectID": "index.html#working-papers",
-    "href": "index.html#working-papers",
-    "title": "Jacob R. Smith",
+    "objectID": "explore.html#working-papers",
+    "href": "explore.html#working-papers",
+    "title": "Explore My Research",
     "section": "Working Papers",
-    "text": "Working Papers\n\n“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act”\n“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929” (with Daniel J. Smith)\n“Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets” (with Mark Packard, Macy Scheck, and Daniel J. Smith)"
+    "text": "Working Papers\n\n\n\n\n\n\n\n\n\n\nThe Father of Food and Drug Law as Strategic Regulator\n\n\nDr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897\n\n\n\nRegulation\n\nPublic Choice\n\nEconomic History\n\nWorking Paper\n\n\n\nA public-choice reinterpretation of the 1897 Act, combining a newly hand-collected district-level panel of bonded-whiskey withdrawals, newspaper price data, and the…\n\n\n\n\n\n\n\n\n\n\n\n\nPrivate Mechanisms for Stopping Diamond-Dybvig Runs\n\n\nEvidence from U.S. Newspapers, 1889–1929\n\n\n\nMoney & Banking\n\nEconomic History\n\nPublic Choice\n\nWorking Paper\n\n\n\nHand-coding 544 bank runs from digitized newspapers shows that banks and their communities stopped runs with a rich toolkit of private, market-based mechanisms — even before…\n\n\n\n\n\n\n\n\n\n\n\n\nBootleggers Behind the Baptists\n\n\nWine-Industry Influence in Switzerland’s 1908 Absinthe Referendum\n\n\n\nPublic Choice\n\nPublic Health\n\nEconomic History\n\nWorking Paper\n\n\n\nDid wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level…\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Jacob R. Smith",
-    "section": "About Me",
-    "text": "About Me\nI am a Ph.D. candidate in economics at Middle Tennessee State University’s Jones College of Business, expecting to graduate in May 2027. In summer 2026 I am a Graduate Fellow at the American Institute for Economic Research (AIER), and I was a Summer 2024 and 2025 Fellow with MTSU’s Political Economy Research Institute (PERI). My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom — often revealing the incentives and coalitions that shape regulatory outcomes.\nI began my academic career at Hampden-Sydney College, graduating magna cum laude in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy. That interdisciplinary foundation shapes the toolkit and perspective I bring to my teaching and research.\nLearn more on my C.V., Teaching, and Research pages."
+    "objectID": "explore.html#works-in-progress",
+    "href": "explore.html#works-in-progress",
+    "title": "Explore My Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\n\n\n\n\n\n\nAssuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets\n\n\n\nEntrepreneurship\n\nEconomic History\n\nRegulation\n\nWork in Progress\n\n\n\nBefore federal regulation, whiskey was a textbook market for lemons — yet it thrived. How did entrepreneurs privately assure consumers of quality?\n\n\n\n\n\n\n\n\n\nThe End of Prohibition and Alcohol-Firm Stock Prices\n\n\nWorking title\n\n\n\nFinance\n\nIndustrial Organization\n\nEconomic History\n\nWork in Progress\n\n\n\nAn asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Jacob R. Smith",
-    "section": "Contact",
-    "text": "Contact\nWhether you’re a fellow researcher, a student, or simply interested in economic questions, I’d be glad to connect. The quickest ways to reach me are below.\n\nLinkedIn: linkedin.com/in/jacobsmithr\nEmail: jacob.rand.smith@gmail.com"
-  },
-  {
-    "objectID": "papers/bank-runs.html",
-    "href": "papers/bank-runs.html",
-    "title": "Bank Runs without a Cause",
+    "objectID": "papers/absinthe.html",
+    "href": "papers/absinthe.html",
+    "title": "Bootleggers Behind the Baptists",
     "section": "",
-    "text": "Working paper — draft in progress\nThis project examines bank runs in the United States between 1889 and 1929 — how often they occurred, the degree to which panic spread contagiously across institutions, and the mitigation measures available before the modern lender-of-last-resort framework.\n\n\n\n\n\n\nNote\n\n\n\nA full abstract and figures for this paper are in progress and will be added here."
+    "text": "Working paper (preliminary) · with Nicholas A. Jensen (Wabash College)"
+  },
+  {
+    "objectID": "papers/absinthe.html#overview",
+    "href": "papers/absinthe.html#overview",
+    "title": "Bootleggers Behind the Baptists",
+    "section": "Overview",
+    "text": "Overview\nOn 5 July 1908, Switzerland became the first country to ban absinthe by direct popular vote — passing the constitutional ban with 63.5% support, over the Federal Council’s recommendation to reject it. The campaign was led by public-health and temperance reformers, the “Baptists.” But absinthe had grown popular during the phylloxera years precisely as a cheap substitute for wine, putting it in direct competition with Switzerland’s wine producers. This paper asks whether those producers — the “Bootleggers” — quietly moved the cross-canton vote, using a 25-canton dataset built around a previously unanalyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council."
+  },
+  {
+    "objectID": "papers/absinthe.html#abstract",
+    "href": "papers/absinthe.html#abstract",
+    "title": "Bootleggers Behind the Baptists",
+    "section": "Abstract",
+    "text": "Abstract\n\n“On 5 July 1908 Swiss voters approved a constitutional ban on absinthe by 63.5 percent — the second European country to prohibit it and the first by direct popular ballot. We test whether wine producers — the upstream category whose displaced demand absinthe had absorbed during the phylloxera years — moved the cross-canton vote, using a 25-canton dataset built around a previously un-analyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. The raw wine–Yes correlation is negative; conditioning on French-speaking share flips its sign, the textbook Simpson’s-paradox reversal. Fractional-logit average marginal effects then show that a one-percentage-point increase in a canton’s national wine-revenue share raises its yes-share by 0.43 percentage points; for the dominant wine canton, Vaud, this implies roughly 15 percentage points of its predicted yes-share. The wine signal is absent from the 1906–07 petition stage and from a same-day commerce-vote placebo: a Bootlegger coalition that consolidated at the vote rather than at the petition.”"
+  },
+  {
+    "objectID": "papers/absinthe.html#the-simpsons-paradox-reversal",
+    "href": "papers/absinthe.html#the-simpsons-paradox-reversal",
+    "title": "Bootleggers Behind the Baptists",
+    "section": "The Simpson’s-paradox reversal",
+    "text": "The Simpson’s-paradox reversal\nAcross cantons the raw relationship between wine-growing and the pro-ban vote is slightly negative — because wine cantons are also French-speaking, and French cantons voted “No” overall. Once language and confession are held constant, the relationship flips: more wine-growing means a higher Yes-share.\n\n\n\nRaw bivariate relationship between vineyard density and the yes-vote — negative before controls.\n\n\n\n\n\nPartial-residual plot controlling for Catholic share, French share, and log population — the conditional relationship is positive: wine-growing cantons voted more strongly for the ban.\n\n\n\n\n\nSwiss alcohol consumption, 1880–1922 — context for absinthe’s rise as a wine substitute during the phylloxera era.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a preliminary working draft — please do not cite or circulate without permission. A current version is available on request."
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html",
+    "href": "papers/bottled-in-bond.html",
+    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "section": "",
+    "text": "Job market paper · sole-authored"
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#overview",
+    "href": "papers/bottled-in-bond.html#overview",
+    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "section": "Overview",
+    "text": "Overview\nThe Bottled-in-Bond Act of 1897 is usually remembered as one of America’s first consumer-protection laws — a federal guarantee against adulterated whiskey. This paper reinterprets it through public choice, marshalling three kinds of new evidence: a hand-collected district-level panel of bonded-whiskey withdrawals (FY1898–1920) re-digitized from the Commissioner of Internal Revenue’s annual reports, a set of newspaper price quotations used to value the federal “green stamp,” and the legislative and lobbying record around the Act’s passage. Together they tell a consistent story: the certification was genuinely valued in the market, its gains accrued to a concentrated set of incumbent aged distillers, and the regulator who championed it — Dr. Harvey Wiley’s Bureau of Chemistry — grew alongside the policy."
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#abstract",
+    "href": "papers/bottled-in-bond.html#abstract",
+    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "section": "Abstract",
+    "text": "Abstract\n\n“The Bottled-in-Bond Act of 1897 (BiB) is often framed as one of the earliest consumer protection laws in the United States. Traditionally, it is seen as a measure to safeguard consumers from harmful whiskey adulteration. However, a public choice interpretation suggests that BiB served the interests of both incumbent aged whiskey distillers and federal regulators. Dr. Harvey Wiley, the head of the Bureau of Chemistry, played a central role in legitimizing and enforcing this regulation, expanding the power of his bureau while assisting straight whiskey distillers in their battle against rectifiers. Distillers often quoted statements made by Dr. Wiley in their advertisements to make appeals to authority that their competitors were not eligible to make. This paper reinterprets the BiB through the lens of regulatory capture, examining Wiley’s role as a strategic regulator who used the Act to cement his influence in federal food and drug policy.”"
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#three-findings",
+    "href": "papers/bottled-in-bond.html#three-findings",
+    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "section": "Three findings",
+    "text": "Three findings\n1. The certification was a priced quality signal. In a hedonic model of newspaper whiskey prices, bottled-in-bond whiskey carried a premium of about +9.6% (significant at the 10% level), on top of a steep and highly significant +7.4% per year age gradient (N = 187, R² = 0.66). Quality was genuinely priced — and the federal stamp was a credible way to signal it.\n2. The gains were captured by incumbents. Rather than a jump in whiskey prices at 1897, the action is on the adoption margin. Bonded withdrawals grew from ~0.5 million gallons in 1898 (≈0.4% of all tax-paid withdrawals) to ~16.5 million in 1917 (≈11%) — about 140 million gallons certified cumulatively — and the bonded segment pulled away from rectified whiskey at roughly +24% per year. That growth was extraordinarily concentrated: Kentucky alone supplied ~59–66% of national bottled-in-bond output across the period (≈65% cumulatively), and Kentucky plus Pennsylvania about 81% — exactly the established aged-whiskey producers who had lobbied for the law.\n3. The regulator grew with the rule. The legislative record shows Wiley’s Bureau of Chemistry actively shaping and enforcing the standard. Wiley’s congressional testimony could not name a specific harmful ingredient in blended whiskey and leaned on outside informants; the Act passed the Senate by unanimous consent; and the Bureau’s appropriations rose from $155,000 (1906) to $963,780 (1912) as its staff grew from 110 to 146."
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#bonded-whiskey-withdrawals-by-state-18981920",
+    "href": "papers/bottled-in-bond.html#bonded-whiskey-withdrawals-by-state-18981920",
+    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "section": "Bonded whiskey withdrawals by state, 1898–1920",
+    "text": "Bonded whiskey withdrawals by state, 1898–1920\nHover any line to read the exact figure — the certification was overwhelmingly a Kentucky (and Pennsylvania) phenomenon.\n\nbibdata = d3.csvParse(`fy,state,bib_gal\n1898,IL,29792\n1898,IN,3695\n1898,KY,366622\n1898,OH,16290\n1898,PA,108852\n1899,IL,16267\n1899,IN,779\n1899,KY,228614\n1899,OH,3825\n1899,PA,140354\n1900,IL,16769\n1900,IN,1049\n1900,KY,234914\n1900,OH,7512\n1900,PA,156277\n1901,IL,21526\n1901,IN,6999\n1901,KY,288358\n1901,OH,5549\n1901,PA,198172\n1902,IL,29163\n1902,IN,5754\n1902,KY,305220\n1902,OH,6710\n1902,PA,188137\n1903,IL,38858\n1903,IN,5665\n1903,KY,418530\n1903,OH,16364\n1903,PA,238736\n1904,IL,44209\n1904,IN,6298\n1904,KY,657856\n1904,OH,19960\n1904,PA,356339\n1905,IL,50156\n1905,IN,10362\n1905,KY,949751\n1905,OH,29235\n1905,PA,538237\n1906,IL,63010\n1906,IN,12166\n1906,KY,1547093\n1906,OH,33132\n1906,PA,761699\n1907,IL,85983\n1907,IN,25684\n1907,KY,2942260\n1907,MO,5712\n1907,OH,202842\n1907,PA,1122255\n1908,IL,95289\n1908,IN,49335\n1908,KY,3236470\n1908,MO,17355\n1908,OH,387822\n1908,PA,921612\n1909,IL,228788\n1909,IN,68933\n1909,KY,4288326\n1909,MO,68972\n1909,OH,471965\n1909,PA,1114639\n1910,IL,368282\n1910,IN,88726\n1910,KY,5950277\n1910,MO,90179\n1910,OH,795664\n1910,PA,1548983\n1911,IL,559046\n1911,IN,102312\n1911,KY,7095958\n1911,MO,104016\n1911,OH,756218\n1911,PA,1781855\n1912,IL,445870\n1912,IN,117300\n1912,KY,6277845\n1912,MO,61851\n1912,OH,829740\n1912,PA,1686498\n1913,IL,621964\n1913,IN,149676\n1913,KY,6706756\n1913,MO,45071\n1913,OH,952206\n1913,PA,1805902\n1914,IL,660226\n1914,IN,162442\n1914,KY,6593926\n1914,MO,30837\n1914,OH,966116\n1914,PA,1757810\n1915,IL,602720\n1915,IN,216139\n1915,KY,6381863\n1915,MO,37780\n1915,OH,787935\n1915,PA,1499255\n1916,IL,811244\n1916,IN,361497\n1916,KY,8104846\n1916,MO,59166\n1916,OH,1044003\n1916,PA,1910709\n1917,IL,942554\n1917,IN,320259\n1917,KY,10858233\n1917,MO,104072\n1917,OH,1391836\n1917,PA,2582600\n1918,IL,630848\n1918,IN,182757\n1918,KY,6648240\n1918,MO,32062\n1918,OH,754708\n1918,PA,1677916\n1919,IL,781131\n1919,IN,237899\n1919,KY,10274290\n1919,MO,30706\n1919,OH,1068483\n1919,PA,2389728\n1920,IL,170234\n1920,IN,17001\n1920,KY,854520\n1920,MO,2796\n1920,OH,30155\n1920,PA,529473`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  marginLeft: 66,\n  height: 380,\n  x: {label: \"Fiscal year\", tickFormat: \"d\"},\n  y: {label: \"Bonded whiskey withdrawn (gallons)\", grid: true, tickFormat: \"~s\"},\n  color: {legend: true},\n  marks: [\n    Plot.ruleY([0]),\n    Plot.line(bibdata, {x: \"fy\", y: \"bib_gal\", z: \"state\", stroke: \"state\", strokeWidth: 2, curve: \"catmull-rom\"}),\n    Plot.dot(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", stroke: \"state\", r: 4})),\n    Plot.tip(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", channels: {State: \"state\"}, format: {y: d =&gt; d.toLocaleString() + \" gal\"}}))\n  ]\n})"
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#selected-figures",
+    "href": "papers/bottled-in-bond.html#selected-figures",
+    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "section": "Selected figures",
+    "text": "Selected figures\n\n\n\nPanel A: bottled-in-bond withdrawals and their share of all tax-paid withdrawals, 1898–1920. Panel B: Kentucky’s persistent dominance of national bottled-in-bond output.\n\n\n\n\n\nThe price–age gradient: each additional year of age commands roughly +7.4%, evidence that quality was genuinely priced.\n\n\n\n\n\nPrice event-study coefficients around the 1897 Act."
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#key-estimate",
+    "href": "papers/bottled-in-bond.html#key-estimate",
+    "title": "The Father of Food and Drug Law as Strategic Regulator",
+    "section": "Key estimate",
+    "text": "Key estimate\nHedonic price model (log per-proof-gallon price):\n\n\n\nVariable\nCoefficient\nStd. error\n\n\n\n\nBottled-in-bond\n+0.096*\n0.058\n\n\nAge (per year)\n+0.074***\n0.009\n\n\n\nN = 187; R² = 0.66. p &lt; 0.10, **p &lt; 0.01.\n\n\n\n\n\n\nNote\n\n\n\nActive working paper: the manuscript is being assembled and FY1918–1920 (wartime) figures are still being finalized. A current draft is available on request."
   },
   {
     "objectID": "papers/whiskey-markets.html",
     "href": "papers/whiskey-markets.html",
     "title": "Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets",
     "section": "",
-    "text": "Working paper — draft in progress\nThis paper studies the mechanisms — private and public — through which authenticity, safety, and quality were assured to consumers in early American whiskey markets, and what those mechanisms reveal about the demand for and supply of credibility in markets with uncertain product quality.\n\n\n\n\n\n\nNote\n\n\n\nA full abstract and figures for this paper are in progress and will be added here."
+    "text": "Work in progress · with Mark Packard, Macy Scheck, and Daniel J. Smith"
+  },
+  {
+    "objectID": "papers/whiskey-markets.html#overview",
+    "href": "papers/whiskey-markets.html#overview",
+    "title": "Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets",
+    "section": "Overview",
+    "text": "Overview\nBefore the 1906 Pure Food and Drugs Act, whiskey was often sold from open barrels, so consumers could not verify authenticity, safety, or quality — and public-health figures loudly warned that it was adulterated with poisons. By the logic of Akerlof’s “market for lemons,” the market should have unraveled. It did not. Drawing on digitized historical newspaper advertisements, we document the market-based mechanisms entrepreneurs developed to credibly assure buyers, framing them as a process of entrepreneurial trial, discovery, and learning."
+  },
+  {
+    "objectID": "papers/whiskey-markets.html#abstract",
+    "href": "papers/whiskey-markets.html#abstract",
+    "title": "Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets",
+    "section": "Abstract",
+    "text": "Abstract\n\n“Do entrepreneurs have the incentives to assure consumers of authenticity, safety, and quality in the presence of asymmetric information? Early American whiskey markets present a classic case of asymmetric information where markets might be expected to unravel because consumers could not discern the authenticity, safety, and quality of whiskey sold out of open barrels. In addition, public health experts claimed whiskey was commonly adulterated with poisons. Despite these market obstacles, early American whiskey markets were robust. Using historical newspapers, we detail the four mechanisms entrepreneurs in the whiskey industry invested in to assure consumers of authenticity, safety, and quality.”"
+  },
+  {
+    "objectID": "papers/whiskey-markets.html#four-entrepreneurial-assurance-mechanisms",
+    "href": "papers/whiskey-markets.html#four-entrepreneurial-assurance-mechanisms",
+    "title": "Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets",
+    "section": "Four entrepreneurial assurance mechanisms",
+    "text": "Four entrepreneurial assurance mechanisms\n\nDistinctive processes and ingredients that gave a whiskey a recognizable look, smell, and taste — turning quality from an unverifiable credence attribute into an experience one (charred-barrel bourbon, Tennessee charcoal filtering).\nBrands, logos, marks, and guarantees that staked a reputation on each bottle (Old Overholt, Old Crow, Jack Daniel’s).\nExclusive dealer agreements that borrowed the reputation of trusted local merchants, whose ongoing rents gave them reason not to adulterate.\nSealed glass bottles with tamper-evident caps — the decisive innovation, since earlier mechanisms could still be spoofed from open barrels (Old Forester, the first exclusively bottled brand).\n\nThe implication is that market incentives can substitute for regulation in supplying the very quality assurance such regulation claims to provide — an entrepreneurial-institutions story I am continuing to develop.\n\n\n\n\n\n\nNote\n\n\n\nThis paper is being developed. A current draft is available on request."
   },
   {
     "objectID": "research.html",

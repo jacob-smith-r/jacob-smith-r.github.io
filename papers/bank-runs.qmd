@@ -1,14 +1,132 @@
 ---
-title: "Bank Runs without a Cause"
-subtitle: "Frequency, Contagion, and Mitigation Measures in the U.S., 1889–1929"
-description: "A historical examination of the frequency of U.S. bank runs, the extent of contagion across institutions, and the measures used to mitigate them."
-categories: [Money & Banking, Economic History, Working Paper]
+title: "Private Mechanisms for Stopping Diamond-Dybvig Runs"
+subtitle: "Evidence from U.S. Newspapers, 1889–1929"
+description: "Hand-coding 544 bank runs from digitized newspapers shows that banks and their communities stopped runs with a rich toolkit of private, market-based mechanisms — even before deposit insurance or a lender of last resort."
+categories: [Money & Banking, Economic History, Public Choice, Working Paper]
+image: /images/papers/bankruns_map.png
+image-alt: "Map of U.S. bank runs, 1889–1929"
 ---
 
-*Working paper — draft in progress*
+*Working paper · with Daniel J. Smith*
 
-This project examines bank runs in the United States between 1889 and 1929 — how often they occurred, the degree to which panic spread contagiously across institutions, and the mitigation measures available before the modern lender-of-last-resort framework.
+## Overview
 
-::: {.callout-note}
-A full abstract and figures for this paper are in progress and will be added here.
-:::
+To what extent did U.S. banks and their communities develop private mechanisms to combat Diamond-Dybvig bank runs? Using digitized historical newspapers, we construct a novel dataset of **544 bank runs reported between 1889 and 1929** — spanning the National Banking Era through the early Federal Reserve — and systematically code the strategies banks and communities used to stop them. Beyond the familiar tools (suspension of redemption, clearinghouse assistance, disclosure, management turnover), we document detailed narrative evidence on **eight understudied but commonly deployed mechanisms**, suggesting private order offered a more robust defense against runs than the canonical model implies.
+
+## Abstract
+
+> "To what extent did U.S. banks and their communities develop private mechanisms to combat Diamond-Dybvig bank runs? Using digitized historical newspapers, we construct a novel dataset of 544 bank runs reported between 1889 and 1929. We systematically code the mitigation strategies employed by banks and their communities. We confirm the widespread use of several mechanisms previously discussed in the literature, including suspension of redemption, clearinghouse assistance, information disclosure, and management turnover. In addition, we provide detailed narrative evidence on eight understudied but commonly deployed mechanisms: (1) non-invocation of redemption clauses, (2) forfeiture of interest, (3) passbook speculation, (4) direct loans from other financial institutions, (5) assurances from prominent community, business, financial, and governmental actors, (6) prominent displays of reserves, (7) modified banking hours, and (8) expanded clearinghouse roles. The findings suggest that private mechanisms offered a more robust defense against Diamond-Dybvig runs than the canonical model implies, in addition to, or even in the absence of, deposit insurance or a fully developed lender of last resort."
+
+## Headline findings
+
+- **544 bank runs** identified from digitized newspapers, 1889–1929; **390** employed at least one private mitigation mechanism.
+- A companion paper, *"Bank Runs without a Cause,"* isolates **273 no-cause runs**: roughly **79% were averted in an average of 2.2 days**, and only **5** spread beyond the initial bank.
+- The most common responses were market-based — external loans and reserves, credible disclosure, and assurances from prominent local figures — not government backstops.
+
+## Where the runs happened
+
+![Geographic distribution of the 544 bank runs, 1889–1929.](/images/papers/bankruns_map.png)
+
+## Most common mitigation mechanisms
+
+Share of the 544 runs in which each mechanism appears (hover for exact values).
+
+```{ojs}
+//| echo: false
+mech = d3.csvParse(`mechanism,pct
+External loans/reserves (or offers),34.2
+Invoked redemption clause,27.2
+Statement of assets & liabilities,21.1
+Assurance of prominent leaders,17.5
+Visible display of cash/gold/silver,13.4
+Statement from regulator/govt. official,12.7
+Did not invoke redemption clause,10.3
+Shorter hours,10.1
+Longer hours,9.0
+Assurance from other banks,8.8
+Clearinghouse assistance,7.9
+Federal bailout,7.0`, d3.autoType)
+```
+
+```{ojs}
+//| echo: false
+Plot.plot({
+  marginLeft: 250,
+  height: 380,
+  x: {label: "% of 544 runs", grid: true},
+  y: {label: null},
+  marks: [
+    Plot.barX(mech, {y: "mechanism", x: "pct", sort: {y: "x", reverse: true}, fill: "#007BC3"}),
+    Plot.text(mech, {y: "mechanism", x: "pct", text: d => d.pct + "%", dx: 16, fontSize: 11}),
+    Plot.tip(mech, Plot.pointerY({y: "mechanism", x: "pct", format: {x: d => d + "%"}}))
+  ]
+})
+```
+
+## Bank runs per year
+
+```{ojs}
+//| echo: false
+yr = d3.csvParse(`year,runs
+1889,2
+1890,8
+1891,18
+1892,9
+1893,4
+1894,3
+1895,5
+1896,20
+1897,12
+1898,7
+1899,11
+1900,9
+1901,11
+1902,10
+1903,22
+1904,11
+1905,31
+1906,10
+1907,7
+1908,5
+1909,10
+1910,7
+1911,7
+1912,8
+1913,6
+1914,29
+1915,2
+1916,6
+1917,7
+1918,1
+1919,4
+1920,17
+1921,17
+1922,12
+1923,16
+1924,29
+1925,12
+1926,23
+1927,33
+1928,32
+1929,51`, d3.autoType)
+```
+
+```{ojs}
+//| echo: false
+Plot.plot({
+  marginLeft: 50,
+  height: 300,
+  x: {label: "Year", tickFormat: "d"},
+  y: {label: "Bank runs", grid: true},
+  marks: [
+    Plot.areaY(yr, {x: "year", y: "runs", fill: "#007BC3", fillOpacity: 0.15}),
+    Plot.lineY(yr, {x: "year", y: "runs", stroke: "#007BC3", strokeWidth: 2}),
+    Plot.dot(yr, Plot.pointerX({x: "year", y: "runs", r: 4, fill: "#007BC3"})),
+    Plot.tip(yr, Plot.pointerX({x: "year", y: "runs", format: {x: d => d, y: d => d + " runs"}}))
+  ]
+})
+```
+
+## Draft
+
+A companion paper, *"Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889–1929,"* is posted on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5641472). A current draft of this paper is available on request.

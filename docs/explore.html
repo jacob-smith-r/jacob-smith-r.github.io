@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>C.V. – Jacob R. Smith</title>
+<title>Explore My Research – Jacob R. Smith</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -72,6 +74,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-working-papers .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-description','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-working-papers'] = new List('listing-working-papers', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-works-in-progress .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-works-in-progress'] = new List('listing-works-in-progress', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <!-- Icon fonts for contact / academic profile links -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3w==" crossorigin="anonymous" referrerpolicy="no-referrer">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" referrerpolicy="no-referrer">
@@ -81,10 +140,39 @@ ul.task-list li input[type="checkbox"] {
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -270,7 +358,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page"> 
+    <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">C.V.</span></a>
   </li>  
   <li class="nav-item">
@@ -282,7 +370,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./explore.html"> 
+    <a class="nav-link active" href="./explore.html" aria-current="page"> 
 <span class="menu-text">Explore My Research</span></a>
   </li>  
 </ul>
@@ -306,22 +394,23 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="RWNvbm9taWMlMjBIaXN0b3J5">Economic History <span class="quarto-category-count">(5)</span></div><div class="category" data-category="RW50cmVwcmVuZXVyc2hpcA==">Entrepreneurship <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmluYW5jZQ==">Finance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5kdXN0cmlhbCUyME9yZ2FuaXphdGlvbg==">Industrial Organization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9uZXklMjAlMjYlMjBCYW5raW5n">Money &amp; Banking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHVibGljJTIwQ2hvaWNl">Public Choice <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UHVibGljJTIwSGVhbHRo">Public Health <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVndWxhdGlvbg==">Regulation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V29yayUyMGluJTIwUHJvZ3Jlc3M=">Work in Progress <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V29ya2luZyUyMFBhcGVy">Working Paper <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">C.V.</h1>
+<h1 class="title">Explore My Research</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -333,114 +422,164 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Jacob R. Smith</strong><br> Department of Economics and Finance · Jones College of Business<br> Middle Tennessee State University<br> Email: <a href="mailto:jacob.rand.smith@gmail.com">jacob.rand.smith@gmail.com</a> · Website: <a href="https://jacob-smith-r.github.io">jacob-smith-r.github.io</a></p>
-<hr>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education"><strong>EDUCATION</strong></h2>
-<p>Ph.D.&nbsp;Economics, Middle Tennessee State University, Murfreesboro, TN (Expected May 2027)</p>
-<p>M.A.&nbsp;Economics, Middle Tennessee State University, Murfreesboro, TN (2025)</p>
-<p>B.S. Mathematical Economics &amp; Philosophy, <em>magna cum laude</em>, Hampden-Sydney College, Hampden Sydney, VA (2023)</p>
-<hr>
-</section>
-<section id="research-interests" class="level2">
-<h2 class="anchored" data-anchor-id="research-interests"><strong>RESEARCH INTERESTS</strong></h2>
-<p>Public Choice Theory, Austrian Economics, Public Interest Regulation, Historical Political Economy</p>
-<hr>
-</section>
+<p>My research sits at the intersection of historical political economy, public choice, and the political economy of regulation — when regulation serves the public interest, and when it instead protects incumbents or substitutes for order that markets and communities already supply. Browse below, or filter the working papers by topic. Click any card to read more.</p>
 <section id="working-papers" class="level2">
-<h2 class="anchored" data-anchor-id="working-papers"><strong>WORKING PAPERS</strong></h2>
-<p>“The Father of Food and Drug Law as Strategic Regulator: Dr.&nbsp;Harvey Wiley and the Political Economy of the Bottled-In-Bond Act”</p>
-<p>“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929”</p>
-<p>“Assuring Consumers of Authenticity, Safety, &amp; Quality in Early American Whiskey Markets”</p>
-<hr>
+<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
+<div id="listing-working-papers" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-categories="UmVndWxhdGlvbiUyQ1B1YmxpYyUyMENob2ljZSUyQ0Vjb25vbWljJTIwSGlzdG9yeSUyQ1dvcmtpbmclMjBQYXBlcg==" data-listing-file-modified-sort="1782086678514" data-listing-reading-time-sort="4" data-listing-word-count-sort="720">
+<a href="./papers/bottled-in-bond.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/papers/bib_withdrawals.png" class="thumbnail-image card-img" style="height: 150px;" alt="Growth and concentration of bottled-in-bond whiskey withdrawals, 1898–1920">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The Father of Food and Drug Law as Strategic Regulator
+</h5>
+<div class="card-subtitle listing-subtitle">
+Dr.&nbsp;Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVndWxhdGlvbg=='); return false;">Regulation</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwQ2hvaWNl'); return false;">Public Choice</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWMlMjBIaXN0b3J5'); return false;">Economic History</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('V29ya2luZyUyMFBhcGVy'); return false;">Working Paper</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>A public-choice reinterpretation of the 1897 Act, combining a newly hand-collected district-level panel of bonded-whiskey withdrawals, newspaper price data, and the…</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="TW9uZXklMjAlMjYlMjBCYW5raW5nJTJDRWNvbm9taWMlMjBIaXN0b3J5JTJDUHVibGljJTIwQ2hvaWNlJTJDV29ya2luZyUyMFBhcGVy" data-listing-file-modified-sort="1782084457726" data-listing-reading-time-sort="3" data-listing-word-count-sort="600">
+<a href="./papers/bank-runs.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/papers/bankruns_map.png" class="thumbnail-image card-img" style="height: 150px;" alt="Map of U.S. bank runs, 1889–1929">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Private Mechanisms for Stopping Diamond-Dybvig Runs
+</h5>
+<div class="card-subtitle listing-subtitle">
+Evidence from U.S. Newspapers, 1889–1929
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TW9uZXklMjAlMjYlMjBCYW5raW5n'); return false;">Money &amp; Banking</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWMlMjBIaXN0b3J5'); return false;">Economic History</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwQ2hvaWNl'); return false;">Public Choice</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('V29ya2luZyUyMFBhcGVy'); return false;">Working Paper</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Hand-coding 544 bank runs from digitized newspapers shows that banks and their communities stopped runs with a rich toolkit of private, market-based mechanisms — even before…</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="UHVibGljJTIwQ2hvaWNlJTJDUHVibGljJTIwSGVhbHRoJTJDRWNvbm9taWMlMjBIaXN0b3J5JTJDV29ya2luZyUyMFBhcGVy" data-listing-file-modified-sort="1782086721332" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
+<a href="./papers/absinthe.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/papers/absinthe_fig2_scatter_partial-1.png" class="thumbnail-image card-img" style="height: 150px;" alt="Partial-residual plot: vineyard density vs. yes-vote share across Swiss cantons">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bootleggers Behind the Baptists
+</h5>
+<div class="card-subtitle listing-subtitle">
+Wine-Industry Influence in Switzerland’s 1908 Absinthe Referendum
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwQ2hvaWNl'); return false;">Public Choice</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwSGVhbHRo'); return false;">Public Health</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWMlMjBIaXN0b3J5'); return false;">Economic History</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('V29ya2luZyUyMFBhcGVy'); return false;">Working Paper</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Did wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level…</p>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 </section>
-<section id="conference-presentations" class="level2">
-<h2 class="anchored" data-anchor-id="conference-presentations"><strong>CONFERENCE PRESENTATIONS</strong></h2>
-<p>“Bottled in Bondage”, <em>Southern Economic Association Annual Meeting</em>. Fort Lauderdale, Florida, November 19-21, 2022</p>
-<p>“Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators”, <em>Public Choice Society Meetings</em>. Plano, Texas, March 14-16, 2024</p>
-<p>“Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators”, <em>Southern Economic Association Annual Meeting</em>. Washington, DC, November 23-25, 2024</p>
-<p>“The Father of Food and Drug Law as Strategic Regulator: Dr.&nbsp;Harvey Wiley and the Bottled-In-Bond Act”, <em>Public Choice Society Meetings</em>. Louisville, Kentucky, March 6-8, 2025</p>
-<p>“Panic Before Protection: Bank Runs, Contagion, and Mitigation Measures in the United States, 1889-1929”, <em>Southern Economic Association Annual Meeting</em>. Tampa, Florida, November 22-24, 2025</p>
-<p>“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption”, <em>Southern Economic Association Annual Meeting</em>. Tampa, Florida, November 22-24, 2025</p>
-<hr>
-</section>
-<section id="colloquia-workshops-attended" class="level2">
-<h2 class="anchored" data-anchor-id="colloquia-workshops-attended"><strong>COLLOQUIA &amp; WORKSHOPS ATTENDED</strong></h2>
-<p>Public Choice Outreach Conference, <em>Center for Study of Public Choice</em>, GMU (2023)</p>
-<p>Harwood Graduate Colloquium on Public Choice, <em>American Institute for Economic Research</em> (2024)</p>
-<p>Harwood Graduate Colloquium on Defending Classical Liberalism, <em>AIER</em> (2025)</p>
-<p>Summer Seminar on Classical Liberalism and Business, <em>AIER</em>, UIC (2025)</p>
-<p>Summer Seminar on Classical Liberalism and The Market, <em>AIER</em>, UIS (2025)</p>
-<p>Summer Seminar on Classical Liberalism, <em>AIER</em>, Wabash College (2025)</p>
-<p>Economic Freedom Research Colloquium, <em>Bridwell Institute</em>, SMU Cox (2025)</p>
-<p>Law &amp; Economics with Public Choice Insights Workshop, <em>Stephenson Institute for Classical Liberalism</em> (2025)</p>
-<p>The Untold Stories Behind Financial Crises Workshop, <em>INET-YSI-University of Lyon 2</em> (2025)</p>
-<p>“Giving an Effective Job Talk” Graduate Papers Workshop, <em>Institute for Humane Studies</em> (2026)</p>
-<hr>
-</section>
-<section id="awards-fellowships-and-grants" class="level2">
-<h2 class="anchored" data-anchor-id="awards-fellowships-and-grants"><strong>AWARDS, FELLOWSHIPS, AND GRANTS</strong></h2>
-<p>American Institute for Economic Research Graduate Fellowship (Summer 2026)</p>
-<p>Political Economy Research Institute Ph.D.&nbsp;Summer Fellowship, $5,000 (2024, 2025)</p>
-<p>Economic Freedom Research Colloquium Honorarium, Bridwell Institute, $3,000 (2025)</p>
-<p>Center for the Study of Political Economy Fellowship (2019-2023)</p>
-<p>Beta Gamma Sigma, International Business Honor Society (2026)</p>
-<p>Pi Mu Epsilon, US Honorary Mathematics Society (2022)</p>
-<hr>
-</section>
-<section id="teaching-experience" class="level2">
-<h2 class="anchored" data-anchor-id="teaching-experience"><strong>TEACHING EXPERIENCE</strong></h2>
-<p><strong>Principles of Microeconomics, Middle Tennessee State University (2025)</strong> — Instructor Evaluation Mean: 4.40/5</p>
-<p><em>Selected student comments:</em></p>
-<ul>
-<li><p>“Professor Smith was a great teacher and would love to see him stick around at MTSU, he provided clear knowledge on each topic that was taught.”</p></li>
-<li><p>“Great lecturer and always willing and able to help students.”</p></li>
-<li><p>“When explaining material, he gives examples that stick to the memory of the student.”</p></li>
-<li><p>“He was organized and formatted the course work efficiently which helped a lot in the workload and getting all the work done in a timely manner.”</p></li>
-</ul>
-<p><strong>Principles of Macroeconomics, Middle Tennessee State University (2026)</strong> — Instructor Evaluation Mean: 4.02/5</p>
-<p><em>Selected student comments:</em></p>
-<ul>
-<li><p>“Professor Smith is very knowledgeable in the material he covers. He cares about his students and wants them to succeed.”</p></li>
-<li><p>“His course is well organized and easy to follow. He explains the material clearly and provides helpful resources that support student learning.”</p></li>
-<li><p>“Very easygoing and willing to work around any struggles a student may have. He makes it feel like a real college course.”</p></li>
-</ul>
-<hr>
-</section>
-<section id="professional-service" class="level2">
-<h2 class="anchored" data-anchor-id="professional-service"><strong>PROFESSIONAL SERVICE</strong></h2>
-<p>Referee, <em>Virginia Economic Journal</em> (2026)</p>
-<hr>
-</section>
-<section id="experience" class="level2">
-<h2 class="anchored" data-anchor-id="experience"><strong>EXPERIENCE</strong></h2>
-<p><strong>Defense Logistics Agency – Aviation, Richmond, VA</strong> — May 2021 – Current</p>
-<ul>
-<li><em>Post-Award Contract Specialist (Trainee)</em>
-<ul>
-<li>Received comprehensive cradle-to-grave government contracting training (FAR/DFARS) with hands-on proficiency in information systems including SAP EBS, WAWF, and federal records management</li>
-<li>Collaborated with Subject Matter Experts (SMEs) and OEM vendors to resolve government contract discrepancies and ensure compliance/technical alignment</li>
-</ul></li>
-</ul>
-<p><strong>Tyger Strategies Consulting Group, Midlothian, VA (Remote)</strong> — June 2020 – August 2020</p>
-<ul>
-<li><em>Business Analyst Intern</em>
-<ul>
-<li>Performed market research and data analysis for a 501(c)(3) nonprofit consulting group</li>
-<li>Developed and presented actionable marketing and strategic recommendations to clients</li>
-</ul></li>
-</ul>
-<hr>
-</section>
-<section id="service-and-leadership" class="level2">
-<h2 class="anchored" data-anchor-id="service-and-leadership"><strong>SERVICE AND LEADERSHIP</strong></h2>
-<p>H-SC Student Honor Court Investigator, 2022-2023</p>
-<p>H-SC <em>Journal of the Sciences</em> Editor, Vol. XVII</p>
-<p>Alpha Chi Sigma Beta Chi Chapter Vice Master Alchemist (2022) and Historian (2023)</p>
-<p>Atkinson Museum Student Museum Board Member, 2022-2023</p>
-<p>Union Philanthropic Literary Society Junior Member, 2021-2023</p>
-<p>Undergraduate Philosophical Association of Virginia Member, 2022-2023</p>
-<p>Wilson Center’s Leadership in the Public Interest Four-Year Program Member, 2019-2023</p>
+<section id="works-in-progress" class="level2">
+<h2 class="anchored" data-anchor-id="works-in-progress">Works in Progress</h2>
+<div id="listing-works-in-progress" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-categories="RW50cmVwcmVuZXVyc2hpcCUyQ0Vjb25vbWljJTIwSGlzdG9yeSUyQ1JlZ3VsYXRpb24lMkNXb3JrJTIwaW4lMjBQcm9ncmVzcw==" data-listing-file-modified-sort="1782084520688" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
+<a href="./papers/whiskey-markets.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RW50cmVwcmVuZXVyc2hpcA=='); return false;">Entrepreneurship</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWMlMjBIaXN0b3J5'); return false;">Economic History</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVndWxhdGlvbg=='); return false;">Regulation</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('V29yayUyMGluJTIwUHJvZ3Jlc3M='); return false;">Work in Progress</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Before federal regulation, whiskey was a textbook market for lemons — yet it thrived. How did entrepreneurs privately assure consumers of quality?</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="RmluYW5jZSUyQ0luZHVzdHJpYWwlMjBPcmdhbml6YXRpb24lMkNFY29ub21pYyUyMEhpc3RvcnklMkNXb3JrJTIwaW4lMjBQcm9ncmVzcw==" data-listing-file-modified-sort="1782086743560" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
+<a href="./papers/prohibition.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The End of Prohibition and Alcohol-Firm Stock Prices
+</h5>
+<div class="card-subtitle listing-subtitle">
+Working title
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmluYW5jZQ=='); return false;">Finance</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SW5kdXN0cmlhbCUyME9yZ2FuaXphdGlvbg=='); return false;">Industrial Organization</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWMlMjBIaXN0b3J5'); return false;">Economic History</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('V29yayUyMGluJTIwUHJvZ3Jlc3M='); return false;">Work in Progress</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>An asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly.</p>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+
 
 
 </section>

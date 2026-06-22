@@ -1,23 +1,204 @@
 ---
 title: "The Father of Food and Drug Law as Strategic Regulator"
 subtitle: "Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897"
-description: "Regulatory capture in the Progressive Era whiskey market: how the 1897 Act was framed as public health while serving incumbent distillers and an ambitious federal bureau."
-categories: [Regulation, Public Choice, Working Paper]
-image: /images/kyrectbib.png
+description: "A public-choice reinterpretation of the 1897 Act, combining a newly hand-collected district-level panel of bonded-whiskey withdrawals, newspaper price data, and the legislative record to show how a 'consumer-protection' law functioned as a quality signal for incumbent distillers and a vehicle for bureaucratic growth."
+categories: [Regulation, Public Choice, Economic History, Working Paper]
+image: /images/papers/bib_withdrawals.png
+image-alt: "Growth and concentration of bottled-in-bond whiskey withdrawals, 1898–1920"
 ---
 
-*Working paper — job market paper / dissertation chapter*
+*Job market paper · sole-authored*
 
-This paper examines the origins of one of the earliest federal consumer-protection statutes. Using archival correspondence, congressional testimony, and newly digitized distillery records, I show how Dr. Harvey Wiley and the USDA Bureau of Chemistry strategically framed the 1897 Act as a pure public-health measure while simultaneously designing costly bonding and labeling requirements that favored large, established distillers who lobbied for the law — and that expanded the Bureau's own jurisdiction. The paper illustrates a classic Bootleggers-and-Baptists coalition long before the modern administrative state, demonstrating that even "Progressive Era" regulation was often captured from day one.
+## Overview
+
+The Bottled-in-Bond Act of 1897 is usually remembered as one of America's first consumer-protection laws — a federal guarantee against adulterated whiskey. This paper reinterprets it through public choice, marshalling three kinds of new evidence: a **hand-collected district-level panel of bonded-whiskey withdrawals (FY1898–1920)** re-digitized from the Commissioner of Internal Revenue's annual reports, a set of **newspaper price quotations** used to value the federal "green stamp," and the **legislative and lobbying record** around the Act's passage. Together they tell a consistent story: the certification was genuinely valued in the market, its gains accrued to a concentrated set of incumbent aged distillers, and the regulator who championed it — Dr. Harvey Wiley's Bureau of Chemistry — grew alongside the policy.
 
 ## Abstract
 
 > "The Bottled-in-Bond Act of 1897 (BiB) is often framed as one of the earliest consumer protection laws in the United States. Traditionally, it is seen as a measure to safeguard consumers from harmful whiskey adulteration. However, a public choice interpretation suggests that BiB served the interests of both incumbent aged whiskey distillers and federal regulators. Dr. Harvey Wiley, the head of the Bureau of Chemistry, played a central role in legitimizing and enforcing this regulation, expanding the power of his bureau while assisting straight whiskey distillers in their battle against rectifiers. Distillers often quoted statements made by Dr. Wiley in their advertisements to make appeals to authority that their competitors were not eligible to make. This paper reinterprets the BiB through the lens of regulatory capture, examining Wiley's role as a strategic regulator who used the Act to cement his influence in federal food and drug policy."
 
+## Three findings
+
+**1. The certification was a priced quality signal.** In a hedonic model of newspaper whiskey prices, bottled-in-bond whiskey carried a premium of about **+9.6%** (significant at the 10% level), on top of a steep and highly significant **+7.4% per year** age gradient (N = 187, R² = 0.66). Quality was genuinely priced — and the federal stamp was a credible way to signal it.
+
+**2. The gains were captured by incumbents.** Rather than a jump in whiskey prices at 1897, the action is on the *adoption* margin. Bonded withdrawals grew from **~0.5 million gallons in 1898 (≈0.4% of all tax-paid withdrawals) to ~16.5 million in 1917 (≈11%)** — about **140 million gallons** certified cumulatively — and the bonded segment pulled away from rectified whiskey at roughly **+24% per year**. That growth was extraordinarily concentrated: **Kentucky alone supplied ~59–66%** of national bottled-in-bond output across the period (≈65% cumulatively), and **Kentucky plus Pennsylvania about 81%** — exactly the established aged-whiskey producers who had lobbied for the law.
+
+**3. The regulator grew with the rule.** The legislative record shows Wiley's Bureau of Chemistry actively shaping and enforcing the standard. Wiley's congressional testimony could not name a specific harmful ingredient in blended whiskey and leaned on outside informants; the Act passed the Senate by unanimous consent; and the Bureau's appropriations rose from **\$155,000 (1906) to \$963,780 (1912)** as its staff grew from 110 to 146.
+
+## Bonded whiskey withdrawals by state, 1898–1920
+
+Hover any line to read the exact figure — the certification was overwhelmingly a Kentucky (and Pennsylvania) phenomenon.
+
+```{ojs}
+//| echo: false
+bibdata = d3.csvParse(`fy,state,bib_gal
+1898,IL,29792
+1898,IN,3695
+1898,KY,366622
+1898,OH,16290
+1898,PA,108852
+1899,IL,16267
+1899,IN,779
+1899,KY,228614
+1899,OH,3825
+1899,PA,140354
+1900,IL,16769
+1900,IN,1049
+1900,KY,234914
+1900,OH,7512
+1900,PA,156277
+1901,IL,21526
+1901,IN,6999
+1901,KY,288358
+1901,OH,5549
+1901,PA,198172
+1902,IL,29163
+1902,IN,5754
+1902,KY,305220
+1902,OH,6710
+1902,PA,188137
+1903,IL,38858
+1903,IN,5665
+1903,KY,418530
+1903,OH,16364
+1903,PA,238736
+1904,IL,44209
+1904,IN,6298
+1904,KY,657856
+1904,OH,19960
+1904,PA,356339
+1905,IL,50156
+1905,IN,10362
+1905,KY,949751
+1905,OH,29235
+1905,PA,538237
+1906,IL,63010
+1906,IN,12166
+1906,KY,1547093
+1906,OH,33132
+1906,PA,761699
+1907,IL,85983
+1907,IN,25684
+1907,KY,2942260
+1907,MO,5712
+1907,OH,202842
+1907,PA,1122255
+1908,IL,95289
+1908,IN,49335
+1908,KY,3236470
+1908,MO,17355
+1908,OH,387822
+1908,PA,921612
+1909,IL,228788
+1909,IN,68933
+1909,KY,4288326
+1909,MO,68972
+1909,OH,471965
+1909,PA,1114639
+1910,IL,368282
+1910,IN,88726
+1910,KY,5950277
+1910,MO,90179
+1910,OH,795664
+1910,PA,1548983
+1911,IL,559046
+1911,IN,102312
+1911,KY,7095958
+1911,MO,104016
+1911,OH,756218
+1911,PA,1781855
+1912,IL,445870
+1912,IN,117300
+1912,KY,6277845
+1912,MO,61851
+1912,OH,829740
+1912,PA,1686498
+1913,IL,621964
+1913,IN,149676
+1913,KY,6706756
+1913,MO,45071
+1913,OH,952206
+1913,PA,1805902
+1914,IL,660226
+1914,IN,162442
+1914,KY,6593926
+1914,MO,30837
+1914,OH,966116
+1914,PA,1757810
+1915,IL,602720
+1915,IN,216139
+1915,KY,6381863
+1915,MO,37780
+1915,OH,787935
+1915,PA,1499255
+1916,IL,811244
+1916,IN,361497
+1916,KY,8104846
+1916,MO,59166
+1916,OH,1044003
+1916,PA,1910709
+1917,IL,942554
+1917,IN,320259
+1917,KY,10858233
+1917,MO,104072
+1917,OH,1391836
+1917,PA,2582600
+1918,IL,630848
+1918,IN,182757
+1918,KY,6648240
+1918,MO,32062
+1918,OH,754708
+1918,PA,1677916
+1919,IL,781131
+1919,IN,237899
+1919,KY,10274290
+1919,MO,30706
+1919,OH,1068483
+1919,PA,2389728
+1920,IL,170234
+1920,IN,17001
+1920,KY,854520
+1920,MO,2796
+1920,OH,30155
+1920,PA,529473`, d3.autoType)
+```
+
+```{ojs}
+//| echo: false
+Plot.plot({
+  marginLeft: 66,
+  height: 380,
+  x: {label: "Fiscal year", tickFormat: "d"},
+  y: {label: "Bonded whiskey withdrawn (gallons)", grid: true, tickFormat: "~s"},
+  color: {legend: true},
+  marks: [
+    Plot.ruleY([0]),
+    Plot.line(bibdata, {x: "fy", y: "bib_gal", z: "state", stroke: "state", strokeWidth: 2, curve: "catmull-rom"}),
+    Plot.dot(bibdata, Plot.pointer({x: "fy", y: "bib_gal", stroke: "state", r: 4})),
+    Plot.tip(bibdata, Plot.pointer({x: "fy", y: "bib_gal", channels: {State: "state"}, format: {y: d => d.toLocaleString() + " gal"}}))
+  ]
+})
+```
+
 ## Selected figures
 
-![](/images/kyallvar.png){width="700" fig-align="center"}
+![Panel A: bottled-in-bond withdrawals and their share of all tax-paid withdrawals, 1898–1920. Panel B: Kentucky's persistent dominance of national bottled-in-bond output.](/images/papers/bib_withdrawals.png)
 
-![](/images/kyrectbib.png){width="700" fig-align="center"}
+![The price–age gradient: each additional year of age commands roughly +7.4%, evidence that quality was genuinely priced.](/images/papers/bib_age_gradient.png)
 
-![](/images/regioperplotky.png){width="700" fig-align="center"}
+![Price event-study coefficients around the 1897 Act.](/images/papers/bib_event_study_coefs.png)
+
+## Key estimate
+
+**Hedonic price model** (log per-proof-gallon price):
+
+| Variable | Coefficient | Std. error |
+|---|---:|---:|
+| Bottled-in-bond | +0.096* | 0.058 |
+| Age (per year) | +0.074*** | 0.009 |
+
+N = 187; R² = 0.66. *p < 0.10, ***p < 0.01.
+
+::: {.callout-note}
+Active working paper: the manuscript is being assembled and FY1918–1920 (wartime) figures are still being finalized. A current draft is available on request.
+:::

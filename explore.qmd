@@ -1,13 +1,35 @@
 ---
 title: "Explore My Research"
 listing:
-  contents: papers
-  type: grid
-  grid-columns: 2
-  categories: true
-  sort: false
-  fields: [title, description, categories]
+  - id: working-papers
+    contents:
+      - papers/bottled-in-bond.qmd
+      - papers/bank-runs.qmd
+      - papers/absinthe.qmd
+    type: grid
+    grid-columns: 2
+    categories: true
+    sort: false
+    fields: [title, subtitle, description, categories, image]
+  - id: works-in-progress
+    contents:
+      - papers/whiskey-markets.qmd
+      - papers/prohibition.qmd
+    type: grid
+    grid-columns: 2
+    sort: false
+    fields: [title, subtitle, description, categories]
 page-layout: full
 ---
 
-My research sits at the intersection of historical political economy, public choice, and the political economy of regulation. Use the topic and status filters to browse my working papers; click any card to read more.
+My research sits at the intersection of historical political economy, public choice, and the political economy of regulation — when regulation serves the public interest, and when it instead protects incumbents or substitutes for order that markets and communities already supply. Browse below, or filter the working papers by topic. Click any card to read more.
+
+## Working Papers
+
+:::{#working-papers}
+:::
+
+## Works in Progress
+
+:::{#works-in-progress}
+:::
