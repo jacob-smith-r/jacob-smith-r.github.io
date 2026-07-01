@@ -10,7 +10,7 @@ My dissertation develops this question through three essays.
 
 ### 1. The strategic origins of food-and-drug regulation
 
-My job market paper shows how Dr. Harvey Wiley and the USDA Bureau of Chemistry framed the Bottled-in-Bond Act of 1897 as consumer protection while engineering bonding and labeling requirements that favored the incumbent aged distillers who lobbied for it — and that expanded the Bureau's own jurisdiction. Drawing on a newly hand-collected district-level panel of bonded-whiskey withdrawals, newspaper price data, and the legislative record, it documents a Bootleggers-and-Baptists coalition operating before the modern administrative state. [Read more →](papers/bottled-in-bond.qmd)
+My job market paper reinterprets the Bottled-in-Bond Act of 1897 — conventionally remembered as America's first consumer-protection law — as a government-administered solution to a credence-goods problem the incumbent straight distillers could not solve privately. Using a newly digitized state-by-fiscal-year panel built from the Commissioner of Internal Revenue's annual reports (FY1877–1920), it shows the Act did not foreclose the rival rectifier trade; instead it manufactured a certified premium segment that grew roughly 24% per year from a near-zero base, with 92% of the rents flowing to the Kentucky and Pennsylvania producers who organized for passage. Capture, the paper argues, need not look like foreclosure: a regulation can genuinely certify quality and still redistribute toward the incumbents who design it. [Read more →](papers/bottled-in-bond.qmd)
 
 ### 2. Private order in banking panics
 
