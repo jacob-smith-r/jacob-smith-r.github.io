@@ -5,6 +5,7 @@ page-layout: full
 
 ::: {.jrs-home}
 
+```{=html}
 <header class="jrs-hero">
   <div class="jrs-hero-text">
     <div class="jrs-eyebrow">Economics · Political Economy</div>
@@ -86,5 +87,6 @@ page-layout: full
     </div>
   </div>
 </section>
+```
 
 :::
