@@ -1,6 +1,6 @@
 ---
-title: "The Father of Food and Drug Law as Strategic Regulator"
-subtitle: "Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act of 1897"
+title: "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897"
+subtitle: "Dr. Harvey Wiley and the political economy of regulatory capture"
 description: "A public-choice reinterpretation of the 1897 Act, combining a newly hand-collected district-level panel of bonded-whiskey withdrawals, newspaper price data, and the legislative record to show how a 'consumer-protection' law functioned as a quality signal for incumbent distillers and a vehicle for bureaucratic growth."
 categories: [Regulation, Public Choice, Economic History, Working Paper]
 image: /images/papers/bib_withdrawals.png

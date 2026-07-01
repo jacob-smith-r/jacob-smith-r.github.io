@@ -1,55 +1,90 @@
 ---
-title: "Jacob R. Smith"
+pagetitle: "Jacob R. Smith — Economics"
+page-layout: full
 ---
 
-:::: {.hero}
-<img src="images/profile.jpg" alt="Jacob R. Smith" class="profile-pic">
+::: {.jrs-home}
 
-::: {.hero-text}
-I'm Jacob Smith, an Economics Ph.D. candidate at Middle Tennessee State University (expected May 2027) and a 2026 Graduate Fellow at the American Institute for Economic Research (AIER). My work draws on public choice theory, Austrian economics, and historical political economy to ask a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?
+<header class="jrs-hero">
+  <div class="jrs-hero-text">
+    <div class="jrs-eyebrow">Economics · Political Economy</div>
+    <h1 class="jrs-name">Jacob R. <em>Smith</em></h1>
+    <p class="jrs-role">Ph.D. Candidate in Economics, Middle Tennessee State University — 2026 Graduate Fellow, American Institute for Economic Research</p>
+    <div class="jrs-fields">
+      <span>Public Choice</span>
+      <span>Austrian Economics</span>
+      <span>Historical Political Economy</span>
+    </div>
+    <p class="jrs-intro"><span class="jrs-drop">M</span>y work asks a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for the order that markets and communities already provide?</p>
+    <div class="jrs-actions">
+      <a class="jrs-btn solid" href="research.html">Read the research</a>
+      <a class="jrs-btn" href="cv.html">Curriculum Vitae</a>
+    </div>
+  </div>
+  <figure class="jrs-portrait">
+    <img src="images/profile.jpg" alt="Jacob R. Smith">
+  </figure>
+</header>
 
-This site collects my research, working papers, teaching, and CV.
+<section class="jrs-section">
+  <div class="jrs-rule"><span class="no">01</span><h2>Working Papers</h2></div>
+  <div class="jrs-papers">
+    <div class="jrs-paper">
+      <span class="idx">01</span>
+      <a class="ttl" href="papers/bottled-in-bond.html">Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897</a>
+      <span class="jrs-tag">Job Market Paper</span>
+    </div>
+    <div class="jrs-paper">
+      <span class="idx">02</span>
+      <div>
+        <a class="ttl" href="papers/bank-runs.html">Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929</a>
+        <div class="meta">with Daniel J. Smith</div>
+      </div>
+      <span class="jrs-tag" style="visibility:hidden">—</span>
+    </div>
+    <div class="jrs-paper">
+      <span class="idx">03</span>
+      <div>
+        <a class="ttl" href="papers/whiskey-markets.html">Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets</a>
+        <div class="meta">with Mark Packard, Macy Scheck &amp; Daniel J. Smith</div>
+      </div>
+      <span class="jrs-tag" style="visibility:hidden">—</span>
+    </div>
+    <div class="jrs-paper">
+      <span class="idx">04</span>
+      <div>
+        <a class="ttl" href="papers/absinthe.html">Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum</a>
+        <div class="meta">with Nicholas A. Jensen</div>
+      </div>
+      <span class="jrs-tag" style="visibility:hidden">—</span>
+    </div>
+  </div>
+</section>
 
-<div class="social-row">
-  <a href="https://www.linkedin.com/in/jacobsmithr" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
-  <a href="mailto:jacob.rand.smith@gmail.com"><i class="fas fa-envelope"></i> Email</a>
-  <!-- Add your profile URLs and uncomment to display these icons:
-  <a href="GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-  <a href="ORCID_URL" target="_blank" rel="noopener"><i class="ai ai-orcid"></i> ORCID</a>
-  -->
-</div>
+<section class="jrs-section">
+  <div class="jrs-rule"><span class="no">02</span><h2>Works in Progress</h2></div>
+  <ul class="jrs-wip">
+    <li><a href="papers/prohibition.html">The End of Prohibition and Alcohol-Firm Stock Prices</a><span>with Patricia Hummel &amp; Corey Pendleton</span></li>
+    <li><a href="papers/alms-and-ale.html">Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023</a></li>
+  </ul>
+</section>
+
+<section class="jrs-section">
+  <div class="jrs-rule"><span class="no">03</span><h2>About</h2></div>
+  <div class="jrs-about">
+    <p>A Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate May 2027. Summer 2026 Graduate Fellow at AIER; Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute. My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom.</p>
+    <p>My academic career began at Hampden-Sydney College, graduating <em>magna cum laude</em> in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy — an interdisciplinary foundation that shapes the toolkit I bring to teaching and research. Learn more on my <a href="cv.html">C.V.</a>, <a href="teaching.html">Teaching</a>, and <a href="research.html">Research</a> pages.</p>
+  </div>
+</section>
+
+<section class="jrs-cta">
+  <div>
+    <h2>Let's connect.</h2>
+    <div class="jrs-cta-links">
+      <a href="mailto:jacob.rand.smith@gmail.com">jacob.rand.smith@gmail.com</a>
+      <a href="https://www.linkedin.com/in/jacobsmithr" target="_blank" rel="noopener">LinkedIn / jacobsmithr</a>
+    </div>
+  </div>
+</section>
+
 :::
-::::
-
-## Research Interests
-
-Public choice theory, Austrian economics, public-interest regulation, and historical political economy.
-
-## Working Papers
-
-- *"The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Political Economy of the Bottled-in-Bond Act"* (job market paper)
-- *"Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929"* (with Daniel J. Smith)
-- *"Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets"* (with Mark Packard, Macy Scheck, and Daniel J. Smith)
-- *"Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum"* (with Nicholas A. Jensen)
-
-## Works in Progress
-
-- *"The End of Prohibition and Alcohol-Firm Stock Prices"* (with Patricia Hummel and Corey Pendleton)
-- *"Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023"*
-
-See [Explore My Research](explore.qmd) for summaries, figures, and interactive charts.
-
-## About Me
-
-I am a Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate in May 2027. In summer 2026 I am a Graduate Fellow at the American Institute for Economic Research (AIER), and I was a Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute (PERI). My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom — often revealing the incentives and coalitions that shape regulatory outcomes.
-
-I began my academic career at Hampden-Sydney College, graduating *magna cum laude* in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy. That interdisciplinary foundation shapes the toolkit and perspective I bring to my teaching and research.
-
-Learn more on my [C.V.](cv.qmd), [Teaching](teaching.qmd), and [Research](research.qmd) pages.
-
-## Contact
-
-Whether you're a fellow researcher, a student, or simply interested in economic questions, I'd be glad to connect. The quickest ways to reach me are below.
-
-- **LinkedIn:** [linkedin.com/in/jacobsmithr](https://www.linkedin.com/in/jacobsmithr)
-- **Email:** [jacob.rand.smith@gmail.com](mailto:jacob.rand.smith@gmail.com)

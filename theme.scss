@@ -1,69 +1,147 @@
 /*-- scss:defaults --*/
-// Fonts
-$font-family-sans-serif: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
-$headings-font-family: 'Source Serif 4', Georgia, "Times New Roman", serif !default;
+// Fonts — editorial system
+$font-family-sans-serif: 'Spectral', Georgia, "Times New Roman", serif !default;
+$headings-font-family: 'Newsreader', Georgia, serif !default;
 $font-size-root: 17px;
 $line-height-base: 1.72;
 
-// Color: MTSU blue as accent (links/highlights); deep slate for text & headings
-$primary:        #007BC3;
-$link-color:     #00679f;
-$link-hover-color: #007BC3;
-$body-color:     #23303a;
-$headings-color: #1b2730;
+// Palette: warm paper, ink, oxblood accent
+$body-bg:          #f7f3ea;
+$primary:          #7a2f2a;
+$link-color:       #7a2f2a;
+$link-hover-color: #5c211d;
+$body-color:       #3a362e;
+$headings-color:   #23201b;
 
 /*-- scss:rules --*/
-@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Source+Sans+3:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&family=Spectral:ital,wght@0,300;0,400;0,500;1,300;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
-h1, h2, h3, h4, h5, h6 { font-weight: 600; letter-spacing: -0.01em; }
+body { background: #f7f3ea; }
+
+// ---------- Headings ----------
+h1, h2, h3, h4, h5, h6 { font-family: 'Newsreader', Georgia, serif; font-weight: 500; letter-spacing: -0.01em; color: #23201b; }
+h1 { font-weight: 400; }
 h2 {
-  border-bottom: 2px solid rgba(0,0,0,0.08);
-  padding-bottom: 0.28em;
+  border-bottom: 1px solid #ded6c5;
+  padding-bottom: 0.3em;
   margin-top: 1.9em;
+  font-weight: 500;
 }
-h3 { color: $primary; }
+h3 { color: #7a2f2a; font-weight: 500; }
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-// Navbar polish
-.navbar { border-bottom: 1px solid rgba(0,0,0,0.08); }
-.navbar-brand { font-family: $headings-font-family; font-weight: 700; }
-
-// Home hero
-.hero { display: flex; align-items: flex-start; gap: 26px; margin: 1rem 0 1.4rem; }
-.hero .hero-text { flex: 1; }
-.profile-pic {
-  width: 190px; height: 190px; object-fit: cover; border-radius: 50%;
-  box-shadow: 0 6px 22px rgba(20,40,60,0.18); border: 4px solid #fff;
-  outline: 1px solid rgba(0,0,0,0.08);
+// ---------- Navbar ----------
+.navbar {
+  background: rgba(247,243,234,0.9) !important;
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid #ded6c5;
 }
-@media (max-width: 600px) {
-  .hero { flex-direction: column; text-align: center; }
-  .social-row { justify-content: center; }
+.navbar .navbar-brand {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600;
+  font-size: 1.55rem; color: #23201b; letter-spacing: 0.005em;
+}
+.navbar .nav-link { color: #4a463d !important; font-size: 1rem; }
+.navbar .nav-link:hover { color: #23201b !important; }
+.navbar .nav-link.active { color: #23201b !important; box-shadow: inset 0 -2px 0 #7a2f2a; }
+.navbar .navbar-nav .nav-link { letter-spacing: 0.01em; }
+
+// ---------- Site footer ----------
+.nav-footer {
+  border-top: 1px solid #ded6c5;
+  font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem;
+  letter-spacing: 0.04em; color: #8a8272;
 }
 
-// Contact / profile pills
+// ============================================================
+//  HOME PAGE  (.jrs-home)
+// ============================================================
+.jrs-home { max-width: 1180px; margin: 0 auto; padding: 0 clamp(20px, 4vw, 40px); }
+
+.jrs-hero {
+  display: grid; grid-template-columns: 1.35fr 1fr; gap: clamp(36px, 5vw, 68px);
+  align-items: start; padding: clamp(30px, 5vw, 60px) 0 clamp(40px, 5vw, 60px);
+}
+.jrs-eyebrow { font-family: 'IBM Plex Mono', monospace; font-size: 0.74rem; letter-spacing: 0.22em; text-transform: uppercase; color: #7a2f2a; margin-bottom: 24px; }
+.jrs-name {
+  font-family: 'Cormorant Garamond', serif; font-weight: 500;
+  font-size: clamp(58px, 7.5vw, 96px); line-height: 0.9; letter-spacing: -0.005em;
+  color: #23201b; margin: 0 0 22px;
+}
+.jrs-name em { font-style: italic; color: #7a2f2a; font-weight: 500; }
+.jrs-role { font-family: 'Newsreader', serif; font-style: italic; font-weight: 300; font-size: clamp(19px, 2.1vw, 24px); line-height: 1.4; color: #504a3f; margin-bottom: 28px; max-width: 560px; }
+.jrs-fields { display: flex; flex-wrap: wrap; gap: 9px; margin-bottom: 32px; }
+.jrs-fields span { font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.06em; text-transform: uppercase; color: #5a5346; border: 1px solid #d3c9b6; border-radius: 100px; padding: 8px 15px; }
+.jrs-intro { font-size: 1.12rem; line-height: 1.62; color: #3a362e; max-width: 620px; }
+.jrs-drop { float: left; font-family: 'Cormorant Garamond', serif; font-size: 5.1rem; line-height: 0.66; padding: 10px 14px 0 0; color: #7a2f2a; font-weight: 600; }
+.jrs-actions { display: flex; flex-wrap: wrap; gap: 13px; margin-top: 32px; }
+.jrs-btn { font-family: 'IBM Plex Mono', monospace; font-size: 0.76rem; letter-spacing: 0.06em; text-transform: uppercase; padding: 14px 24px; border: 1px solid #23201b; color: #23201b !important; transition: background .18s, color .18s, border-color .18s; }
+.jrs-btn:hover { background: #23201b; color: #f7f3ea !important; text-decoration: none; }
+.jrs-btn.solid { background: #23201b; color: #f7f3ea !important; }
+.jrs-btn.solid:hover { background: #7a2f2a; border-color: #7a2f2a; }
+
+.jrs-portrait { margin: 0; }
+.jrs-portrait img { width: 100%; display: block; filter: grayscale(0.15) sepia(0.12); border: 1px solid #ded6c5; border-radius: 0; box-shadow: none; }
+.jrs-portrait figcaption { font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; letter-spacing: 0.1em; text-transform: uppercase; color: #8a8272; margin-top: 11px; text-align: right; }
+
+.jrs-section { padding-bottom: clamp(40px, 5vw, 60px); }
+.jrs-rule { border-top: 1px solid #ded6c5; padding-top: 20px; margin-bottom: clamp(26px, 3vw, 40px); display: flex; align-items: baseline; gap: 18px; }
+.jrs-rule .no { font-family: 'IBM Plex Mono', monospace; font-size: 0.76rem; color: #7a2f2a; letter-spacing: 0.1em; }
+.jrs-home .jrs-rule h2 { border: none; margin: 0; padding: 0; font-family: 'Newsreader', serif; font-weight: 400; font-size: clamp(26px, 3vw, 32px); }
+
+.jrs-papers { display: flex; flex-direction: column; }
+.jrs-paper { display: grid; grid-template-columns: 42px 1fr auto; gap: 22px; padding: 22px 0; border-bottom: 1px solid #e6ddcd; align-items: baseline; transition: padding-left .2s; }
+.jrs-paper:hover { padding-left: 8px; }
+.jrs-paper .idx { font-family: 'IBM Plex Mono', monospace; font-size: 0.8rem; color: #a99e88; }
+.jrs-paper .ttl { font-family: 'Newsreader', serif; font-size: clamp(19px, 2vw, 22px); font-weight: 400; line-height: 1.32; color: #26231d !important; }
+.jrs-paper a.ttl:hover { color: #7a2f2a !important; text-decoration: none; }
+.jrs-paper .meta { font-size: 0.92rem; font-style: italic; color: #6d6656; margin-top: 5px; }
+.jrs-tag { align-self: center; font-family: 'IBM Plex Mono', monospace; font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase; color: #7a2f2a; border: 1px solid #d8b7a0; white-space: nowrap; padding: 6px 12px; }
+
+.jrs-wip { columns: 2; column-gap: 46px; margin: 0; padding: 0; list-style: none; }
+.jrs-wip li { break-inside: avoid; font-family: 'Newsreader', serif; font-size: clamp(17px, 1.9vw, 19px); line-height: 1.4; color: #33302a; padding: 14px 0 14px 22px; border-left: 2px solid #d8cdb8; margin-bottom: 16px; list-style: none; }
+.jrs-wip li a { color: #33302a !important; }
+.jrs-wip li a:hover { color: #7a2f2a !important; text-decoration: none; }
+.jrs-wip li span { display: block; font-family: 'Spectral', serif; font-style: italic; font-size: 0.86rem; color: #837a67; margin-top: 5px; }
+
+.jrs-about { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(30px, 5vw, 56px); font-size: 1.05rem; line-height: 1.64; color: #3a362e; }
+.jrs-about p { margin: 0; }
+
+.jrs-cta { margin-top: 8px; background: #23201b; color: #ddd4c2; border-radius: 2px; padding: clamp(34px, 5vw, 52px) clamp(28px, 5vw, 52px); display: flex; flex-wrap: wrap; gap: 24px; justify-content: space-between; align-items: flex-end; }
+.jrs-home .jrs-cta h2 { border: none; margin: 0 0 16px; padding: 0; font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 500; font-size: clamp(30px, 4vw, 40px); color: #f7f3ea; }
+.jrs-cta-links { display: flex; flex-wrap: wrap; gap: 24px; font-family: 'IBM Plex Mono', monospace; font-size: 0.82rem; letter-spacing: 0.03em; }
+.jrs-cta-links a { color: #ddd4c2 !important; border-bottom: 1px solid #6b6355; padding-bottom: 3px; }
+.jrs-cta-links a:hover { color: #fff !important; border-color: #f7f3ea; text-decoration: none; }
+
+@media (max-width: 860px) {
+  .jrs-hero { grid-template-columns: 1fr; }
+  .jrs-portrait { max-width: 340px; }
+  .jrs-about { grid-template-columns: 1fr; }
+  .jrs-wip { columns: 1; }
+  .jrs-paper { grid-template-columns: 30px 1fr; }
+  .jrs-paper .jrs-tag { grid-column: 2; justify-self: start; margin-top: 4px; }
+}
+
+// ---------- Shared components (recolored) ----------
 .social-row { margin: 1.1em 0 0.4em; display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
 .social-row a {
   display: inline-flex; align-items: center; gap: 7px;
-  border: 1px solid rgba(0,0,0,0.12); border-radius: 999px;
+  border: 1px solid rgba(35,32,27,0.18); border-radius: 999px;
   padding: 6px 14px; font-size: 0.95rem; font-weight: 500;
-  color: $body-color; background: #fff; transition: all 0.15s ease;
+  color: #3a362e; background: #fbf8f1; transition: all 0.15s ease;
 }
-.social-row a:hover { color: #fff; background: $primary; border-color: $primary; text-decoration: none; }
+.social-row a:hover { color: #f7f3ea; background: #7a2f2a; border-color: #7a2f2a; text-decoration: none; }
 
-// Abstract blockquotes
 blockquote, .blockquote {
-  font-style: italic; font-size: 1rem; color: #4a5560;
-  background: rgba(0,123,195,0.05); border-left: 4px solid $primary;
+  font-style: italic; font-size: 1rem; color: #514a3e;
+  background: rgba(122,47,42,0.05); border-left: 4px solid #7a2f2a;
   border-radius: 0 6px 6px 0; padding: 16px 20px;
 }
 
-// Figures
-p img, .quarto-figure img { border-radius: 6px; max-width: 100%; height: auto; }
+p img, .quarto-figure img { border-radius: 4px; max-width: 100%; height: auto; }
 
-// Research listing cards
-.quarto-listing .card { border: 1px solid rgba(0,0,0,0.10); border-radius: 10px; transition: box-shadow 0.15s ease, transform 0.15s ease; }
-.quarto-listing .card:hover { box-shadow: 0 6px 20px rgba(20,40,60,0.10); transform: translateY(-2px); }
-.listing-category { background: rgba(0,123,195,0.08) !important; color: #00679f !important; border-radius: 999px; }
+.quarto-listing .card { border: 1px solid #ded6c5; border-radius: 6px; background: #fbf8f1; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+.quarto-listing .card:hover { box-shadow: 0 8px 24px rgba(35,32,27,0.10); transform: translateY(-2px); }
+.quarto-listing .card .card-title { font-family: 'Newsreader', serif; font-weight: 500; }
+.listing-category { background: rgba(122,47,42,0.08) !important; color: #7a2f2a !important; border-radius: 999px; font-family: 'IBM Plex Mono', monospace !important; font-size: 0.66rem !important; letter-spacing: 0.04em; }
