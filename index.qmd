@@ -23,7 +23,7 @@ page-layout: full
     </div>
   </div>
   <figure class="jrs-portrait">
-    <img src="images/alamo.jpg" alt="Jacob R. Smith at the Alamo">
+    <img src="images/aier.jpg" alt="Jacob R. Smith">
   </figure>
 </header>
 
