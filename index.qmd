@@ -82,7 +82,7 @@ page-layout: full
   <div>
     <h2>Let's connect.</h2>
     <div class="jrs-cta-links">
-      <a href="mailto:jacob.rand.smith@gmail.com">jacob.rand.smith@gmail.com</a>
+      <a href="mailto:jrs2ge@mtmail.mtsu.edu">jrs2ge@mtmail.mtsu.edu</a>
       <a href="https://www.linkedin.com/in/jacobsmithr" target="_blank" rel="noopener">LinkedIn / jacobsmithr</a>
     </div>
   </div>

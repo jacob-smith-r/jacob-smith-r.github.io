@@ -6,6 +6,12 @@ website:
   title: "Jacob R. Smith"
   favicon: favicon.png
   site-url: "https://jacob-smith-r.github.io"
+  description: "Jacob R. Smith — Ph.D. candidate in economics at Middle Tennessee State University. Public choice, Austrian economics, and historical political economy."
+  image: images/aier.jpg
+  open-graph: true
+  twitter-card:
+    creator: "@sosGrayMatter"
+    card-style: summary
   navbar:
     pinned: true
     left:
@@ -24,7 +30,7 @@ website:
         href: "https://www.linkedin.com/in/jacobsmithr"
         aria-label: LinkedIn
       - icon: envelope
-        href: "mailto:jacob.rand.smith@gmail.com"
+        href: "mailto:jrs2ge@mtmail.mtsu.edu"
         aria-label: Email
   page-footer:
     center: "© 2026 Jacob R. Smith"
