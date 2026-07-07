@@ -3,6 +3,8 @@ title: "The End of Prohibition and Alcohol-Firm Stock Prices"
 subtitle: "Working title"
 description: "An asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly."
 categories: [Finance, Industrial Organization, Economic History, Work in Progress]
+image: /images/papers/prohibition_banner.png
+image-alt: "Decorative stock-price line rising after a dashed event line"
 ---
 
 *Work in progress · with Patricia Hummel and Corey Pendleton*

@@ -3,6 +3,8 @@ title: "Bootleggers Behind the Baptists"
 subtitle: "Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum"
 description: "Did wine producers — not just public-health reformers — drive Switzerland's 1908 vote to ban absinthe? A 'Bootleggers and Baptists' test using a newly assembled canton-level dataset built around a previously unanalyzed 1907 enumeration of the absinthe industry."
 categories: [Public Choice, Public Health, Economic History, Working Paper]
+image: /images/papers/absinthe_fig1_scatter_raw-1.png
+image-alt: "Scatter of canton yes-vote share in the 1908 referendum against 1905 vineyard area"
 ---
 
 *Working paper (preliminary) · with Nicholas A. Jensen (Wabash College)*
