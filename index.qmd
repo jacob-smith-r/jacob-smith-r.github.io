@@ -84,6 +84,10 @@ page-layout: full
     <div class="jrs-cta-links">
       <a href="mailto:jrs2ge@mtmail.mtsu.edu">jrs2ge@mtmail.mtsu.edu</a>
       <a href="https://www.linkedin.com/in/jacobsmithr" target="_blank" rel="noopener">LinkedIn / jacobsmithr</a>
+      <a href="https://scholar.google.com/citations?hl=en&user=XybWLzwAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://orcid.org/0009-0005-7221-3245" target="_blank" rel="noopener">ORCID / 0009-0005-7221-3245</a>
+      <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=7065908" target="_blank" rel="noopener">SSRN</a>
+      <a href="https://github.com/jacob-smith-r" target="_blank" rel="noopener">GitHub / jacob-smith-r</a>
     </div>
   </div>
 </section>

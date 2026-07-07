@@ -26,6 +26,18 @@ website:
       - text: "Explore My Research"
         href: explore.qmd
     right:
+      - text: "Scholar"
+        href: "https://scholar.google.com/citations?hl=en&user=XybWLzwAAAAJ"
+        aria-label: Google Scholar
+      - text: "ORCID"
+        href: "https://orcid.org/0009-0005-7221-3245"
+        aria-label: ORCID
+      - text: "SSRN"
+        href: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=7065908"
+        aria-label: SSRN
+      - icon: github
+        href: "https://github.com/jacob-smith-r"
+        aria-label: GitHub
       - icon: linkedin
         href: "https://www.linkedin.com/in/jacobsmithr"
         aria-label: LinkedIn
