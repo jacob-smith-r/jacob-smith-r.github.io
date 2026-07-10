@@ -41,7 +41,6 @@ page-layout: full
         <a class="ttl" href="papers/bank-runs.html">Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929</a>
         <div class="meta">with Daniel J. Smith</div>
       </div>
-      <span class="jrs-tag" style="visibility:hidden">—</span>
     </div>
     <div class="jrs-paper">
       <span class="idx">03</span>
@@ -49,7 +48,6 @@ page-layout: full
         <a class="ttl" href="papers/whiskey-markets.html">Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets</a>
         <div class="meta">with Mark Packard, Macy Scheck &amp; Daniel J. Smith</div>
       </div>
-      <span class="jrs-tag" style="visibility:hidden">—</span>
     </div>
     <div class="jrs-paper">
       <span class="idx">04</span>
@@ -57,7 +55,6 @@ page-layout: full
         <a class="ttl" href="papers/absinthe.html">Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum</a>
         <div class="meta">with Nicholas A. Jensen</div>
       </div>
-      <span class="jrs-tag" style="visibility:hidden">—</span>
     </div>
   </div>
 </section>
@@ -82,6 +79,7 @@ page-layout: full
   <div>
     <h2>Let's connect.</h2>
     <div class="jrs-cta-links">
+      <a href="mailto:jacob.rand.smith@gmail.com">jacob.rand.smith@gmail.com</a>
       <a href="mailto:jrs2ge@mtmail.mtsu.edu">jrs2ge@mtmail.mtsu.edu</a>
       <a href="https://www.linkedin.com/in/jacobsmithr" target="_blank" rel="noopener">LinkedIn / jacobsmithr</a>
       <a href="https://scholar.google.com/citations?hl=en&user=XybWLzwAAAAJ" target="_blank" rel="noopener">Google Scholar</a>

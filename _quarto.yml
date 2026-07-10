@@ -23,16 +23,16 @@ website:
         href: teaching.qmd
       - text: "Research"
         href: research.qmd
-      - text: "Explore My Research"
+      - text: "Papers & Data"
         href: explore.qmd
     right:
-      - text: "Scholar"
+      - text: "<i class='ai ai-google-scholar' aria-hidden='true'></i>"
         href: "https://scholar.google.com/citations?hl=en&user=XybWLzwAAAAJ"
         aria-label: Google Scholar
-      - text: "ORCID"
+      - text: "<i class='ai ai-orcid' aria-hidden='true'></i>"
         href: "https://orcid.org/0009-0005-7221-3245"
         aria-label: ORCID
-      - text: "SSRN"
+      - text: "<i class='ai ai-ssrn' aria-hidden='true'></i>"
         href: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=7065908"
         aria-label: SSRN
       - icon: github
@@ -42,7 +42,7 @@ website:
         href: "https://www.linkedin.com/in/jacobsmithr"
         aria-label: LinkedIn
       - icon: envelope
-        href: "mailto:jrs2ge@mtmail.mtsu.edu"
+        href: "mailto:jacob.rand.smith@gmail.com"
         aria-label: Email
   page-footer:
     center: "© 2026 Jacob R. Smith"

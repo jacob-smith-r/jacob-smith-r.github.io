@@ -1,0 +1,15 @@
+---
+pagetitle: "Page not found — Jacob R. Smith"
+---
+
+::: {style="text-align:center; padding: 4rem 1rem;"}
+
+# 404 {style="font-family:'IBM Plex Mono',monospace;"}
+
+## Page not found
+
+The page you're looking for may have moved or no longer exists.
+
+[Home](index.qmd) · [Research](research.qmd) · [Papers & Data](explore.qmd) · [C.V.](cv.qmd)
+
+:::
