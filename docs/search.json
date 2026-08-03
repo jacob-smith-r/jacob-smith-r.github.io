@@ -49,200 +49,67 @@
     "text": "Four entrepreneurial assurance mechanisms\n\nDistinctive processes and ingredients that gave a whiskey a recognizable look, smell, and taste — turning quality from an unverifiable credence attribute into an experience one (charred-barrel bourbon, Tennessee charcoal filtering).\nBrands, logos, marks, and guarantees that staked a reputation on each bottle (Old Overholt, Old Crow, Jack Daniel’s).\nExclusive dealer agreements that borrowed the reputation of trusted local merchants, whose ongoing rents gave them reason not to adulterate.\nSealed glass bottles with tamper-evident caps — the decisive innovation, since earlier mechanisms could still be spoofed from open barrels (Old Forester, the first exclusively bottled brand).\n\nThe implication is that market incentives can substitute for regulation in supplying the very quality assurance such regulation claims to provide — an entrepreneurial-institutions story I am continuing to develop.\n\n\n\n\n\n\nNote\n\n\n\nThis paper is being developed. A current draft is available on request."
   },
   {
-    "objectID": "papers/bottled-in-bond.html",
-    "href": "papers/bottled-in-bond.html",
-    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "objectID": "papers/crisis-local-leviathan.html",
+    "href": "papers/crisis-local-leviathan.html",
+    "title": "Crisis and Local Leviathan",
     "section": "",
-    "text": "Job market paper · sole-authored"
+    "text": "Working paper · sole-authored · 2026 Graduate Fellow, American Institute for Economic Research"
   },
   {
-    "objectID": "papers/bottled-in-bond.html#overview",
-    "href": "papers/bottled-in-bond.html#overview",
-    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "objectID": "papers/crisis-local-leviathan.html#overview",
+    "href": "papers/crisis-local-leviathan.html#overview",
+    "title": "Crisis and Local Leviathan",
     "section": "Overview",
-    "text": "Overview\nThe Bottled-in-Bond Act of 1897 is usually remembered as one of America’s first consumer-protection laws — a federal guarantee, in an age of rampant adulteration, that what the label promised was what the bottle held. This paper reads the Act through public choice instead: as a government-administered solution to a credence-goods problem the straight distillers of Kentucky and Pennsylvania could not solve privately. Their brands and marks were freely counterfeited down a distribution chain they could not police; a Treasury strip stamp, backed by federal criminal law, made their quality signal excludable in a way no private mark ever had.\nThe reframing yields a sharp, testable distinction. If the Act worked by raising rivals’ costs, certified output should have grown at the expense of the rectifiers (blenders of cheaper neutral spirit) and a scarcity rent should have opened in relative prices. If it worked by certifying quality, a new premium tier should have grown from a near-zero base without the rectifying trade falling. The two mechanisms make opposite predictions — and the data can tell them apart.\nThe evidence comes from a newly digitized state-by-fiscal-year panel built from the Annual Reports of the Commissioner of Internal Revenue, FY1877–1920 — whiskey deposited into bond, tax-paid withdrawals, spirits rectified, distilleries operated, grain consumed, and (after 1897) withdrawals under the bottled-in-bond stamp — validated against the printed totals through 458 cross-year chain assertions."
+    "text": "Overview\nRobert Higgs’s Crisis and Leviathan argues that emergencies permanently enlarge government: a crisis legitimates new spending, agencies, and powers; the crisis passes; the government stays. The evidence for the ratchet is federal — war, depression, the New Deal — and in every one of those episodes the government doing the growing was a monopoly its citizens could not escape.\nThis paper asks whether the ratchet survives the removal of that condition. Metropolitan governments face real emergencies, but they face them with residents who can move across the county line and with disaster money that arrives largely from Washington. If the ratchet is a general property of government under stress, it should appear here too. If it is instead a property of insulation from exit, it should vanish.\nThe test uses natural disasters as locality-specific crises, linking county-level losses from SHELDUS (1960–2012) to the U.S. Metropolitan Area Economic Freedom Index — the metropolitan extension of the Fraser Institute’s Economic Freedom of North America index — across 383 metropolitan areas over ten waves, 1972–2017. A large hit is a metro’s first year with at least $2,000 per resident in real damage, which yields 83 treated metros across nine event cohorts. The twenty largest hits alone span eleven distinct disasters across five decades: Katrina and New Orleans, Andrew and Naples, the Grand Forks flood, Mount St. Helens, Joplin."
   },
   {
-    "objectID": "papers/bottled-in-bond.html#abstract",
-    "href": "papers/bottled-in-bond.html#abstract",
-    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "objectID": "papers/crisis-local-leviathan.html#abstract",
+    "href": "papers/crisis-local-leviathan.html#abstract",
+    "title": "Crisis and Local Leviathan",
     "section": "Abstract",
-    "text": "Abstract\n\n“The Bottled-in-Bond Act of 1897 allowed whiskey to be sold under a federal strip stamp certifying it as the unblended product of a single distillery and season, aged four years in a government-supervised bonded warehouse. Conventionally read as consumer protection, the Act is reinterpreted here, through public choice, as a government-administered credence-goods certification. Using a newly digitized state-by-fiscal-year panel built from the reports of the Commissioner of Internal Revenue, we estimate a common-treatment-date event study and difference-in-differences and find that the Act did not foreclose the rectifier trade: rectified output grew at least as fast as straight whiskey after 1897. Instead it created a distinct certified premium segment that expanded roughly twenty-four percent per year from a near-zero base, with its rents concentrated overwhelmingly among incumbent Kentucky and Pennsylvania producers. Capture operated not by raising rivals’ costs but through the geographic distribution of a manufactured premium segment.”"
+    "text": "Abstract\n\n“Higgs’s ratchet hypothesis holds that crises permanently enlarge government. I test it at the level of American government where exit is cheapest: the metropolitan area. I link county-level natural-disaster losses (SHELDUS, 1960–2012) to the U.S. Metropolitan Area Economic Freedom Index, the metropolitan extension of the Fraser Institute’s Economic Freedom of North America index, covering 383 metropolitan areas over ten waves (1972–2017). Stacked event-study regressions compare the 83 metros hit by large disasters — at least $2,000 per resident in real damage — to never-hit metros. Within states, disaster-struck metros show no decline in economic freedom at any horizon: the post-event effect is 0.003 index points (SE 0.047), precise enough to rule out losses larger than 0.13 points, about a sixth of the cross-metro standard deviation. Government spending rises after disasters, but only in step with a rebuilding income boom, and both revert. Crisis does not grow local Leviathan.”"
   },
   {
-    "objectID": "papers/bottled-in-bond.html#a-preview-of-the-findings",
-    "href": "papers/bottled-in-bond.html#a-preview-of-the-findings",
-    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "objectID": "papers/crisis-local-leviathan.html#a-preview-of-the-findings",
+    "href": "papers/crisis-local-leviathan.html#a-preview-of-the-findings",
+    "title": "Crisis and Local Leviathan",
     "section": "A preview of the findings",
-    "text": "A preview of the findings\n1. No foreclosure. Indexed to 1896, rectified output reaches 186.1 by 1905 against straight whiskey’s 170.6 — the trade the bill’s proponents complained of grew faster, not slower, after the Act. The within-state difference-in-differences on the straight–rectified gap is near zero, and the rectified series rises rather than falls.\n2. A manufactured premium segment. The genuine expansion is the certified sub-segment itself: bottled-in-bond withdrawals grew from 0.54 million gallons in FY1898 to 16.51 million in FY1917 — a thirty-one-fold increase — at roughly 24% per year relative to rectified output. And it is net-new volume, not relabeling: within adopting states, bonded gallons did not displace non-bonded straight output (elasticity ≈ −0.10, far from the −1 that one-for-one relabeling implies). A hedonic model of hand-collected price quotes attaches a ~9.6% premium to the bonded label, conditional on age and channel, while the certifiable–rectified price gap does not widen — the price pattern a quality-signaling mechanism predicts and a scarcity-rent mechanism does not.\n3. Geographically captured rents. Kentucky and Pennsylvania together supplied 92.2% of all bonded withdrawals over 1898–1904, with the Louisville collection district — home market of the Act’s chief proponent, E. H. Taylor Jr. — alone taking nearly a third of the national total. The demand for certified whiskey was actively cultivated by Harvey Wiley’s federal purity chemists, whose authority the distillers enrolled to teach buyers to distrust uncertified spirit. The mechanism is credence-segment creation; the distribution is geographic rent capture.\nThe upshot: capture need not look like foreclosure. A regulation can expand a market, resolve a real information asymmetry, and still function as capture through who collects the rents it manufactures."
+    "text": "A preview of the findings\n1. No ratchet, and a tight zero rather than a shrug. Comparing hit metros to unhit metros in the same state, every event-time coefficient falls between −0.015 and +0.043 index points on a 0–10 scale. The average post-event effect is +0.003 points (SE 0.047), a zero under clustered inference (p = 0.94), randomization inference across 999 within-cohort permutations (p = 0.90), and a wild-cluster bootstrap with 999 draws (p = 0.95). At 80 percent power the design would detect a decline of 0.133 points — one-sixth of the cross-metro standard deviation, and nearly two-fifths of a typical five-year within-metro change. A ratchet of any economically meaningful size in overall economic freedom is ruled out, not merely undetected.\nThe government-spending area, where a ratchet ought to concentrate, gives the same answer with less precision: +0.028 (SE 0.093; randomization inference p = 0.38, wild bootstrap p = 0.92), against a minimum detectable decline near 0.26 points. On that margin the evidence rules out large spending ratchets but not small ones — a limit worth stating plainly rather than folding into the headline.\n2. The naive design finds a ratchet, and the pre-trends say why not to believe it. Compare hit metros to unhit metros anywhere in the country and the post-event effect is −0.121 points (p = 0.09; randomization inference rejects zero at p = 0.003, though the wild-cluster bootstrap, which respects the small number of state clusters, does not, p = 0.13) — a result a careless reading would report as confirmation. But the same specification puts treated metros +0.164 and +0.131 points above their controls three and two waves before the disaster, already converging downward before anything happens. Disaster-exposed metros are coastal, southern, and riverine; they sit in states whose institutional standing was drifting for reasons that predate any particular storm. Once state-by-wave effects absorb those trajectories the gap collapses to zero. The paper reports this specification, and reports it as the cautionary contrast rather than as a result.\n3. The mechanism is a joint government-and-income boom. Among the twenty hardest-hit metros, real local government consumption rises 5.5 log points relative to matched controls in the wave after the hit — the relief surge is real and visible in the raw data. But real personal income rises 4.8 log points at the same time, so government’s share of the local economy, which is the ratio the index actually scores, moves 0.3 log points: nothing. The surge is federally financed and the rebuilding is a private-sector boom. A metropolitan emergency imports resources across the federal system rather than converting them into a permanent local claim."
   },
   {
-    "objectID": "papers/bottled-in-bond.html#bonded-whiskey-withdrawals-by-state-18981920",
-    "href": "papers/bottled-in-bond.html#bonded-whiskey-withdrawals-by-state-18981920",
-    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
-    "section": "Bonded whiskey withdrawals by state, 1898–1920",
-    "text": "Bonded whiskey withdrawals by state, 1898–1920\nHover any line to read the exact figure — the certification was overwhelmingly a Kentucky (and Pennsylvania) phenomenon.\n\nbibdata = d3.csvParse(`fy,state,bib_gal\n1898,IL,29792\n1898,IN,3695\n1898,KY,366622\n1898,OH,16290\n1898,PA,108852\n1899,IL,16267\n1899,IN,779\n1899,KY,228614\n1899,OH,3825\n1899,PA,140354\n1900,IL,16769\n1900,IN,1049\n1900,KY,234914\n1900,OH,7512\n1900,PA,156277\n1901,IL,21526\n1901,IN,6999\n1901,KY,288358\n1901,OH,5549\n1901,PA,198172\n1902,IL,29163\n1902,IN,5754\n1902,KY,305220\n1902,OH,6710\n1902,PA,188137\n1903,IL,38858\n1903,IN,5665\n1903,KY,418530\n1903,OH,16364\n1903,PA,238736\n1904,IL,44209\n1904,IN,6298\n1904,KY,657856\n1904,OH,19960\n1904,PA,356339\n1905,IL,50156\n1905,IN,10362\n1905,KY,949751\n1905,OH,29235\n1905,PA,538237\n1906,IL,63010\n1906,IN,12166\n1906,KY,1547093\n1906,OH,33132\n1906,PA,761699\n1907,IL,85983\n1907,IN,25684\n1907,KY,2942260\n1907,MO,5712\n1907,OH,202842\n1907,PA,1122255\n1908,IL,95289\n1908,IN,49335\n1908,KY,3236470\n1908,MO,17355\n1908,OH,387822\n1908,PA,921612\n1909,IL,228788\n1909,IN,68933\n1909,KY,4288326\n1909,MO,68972\n1909,OH,471965\n1909,PA,1114639\n1910,IL,368282\n1910,IN,88726\n1910,KY,5950277\n1910,MO,90179\n1910,OH,795664\n1910,PA,1548983\n1911,IL,559046\n1911,IN,102312\n1911,KY,7095958\n1911,MO,104016\n1911,OH,756218\n1911,PA,1781855\n1912,IL,445870\n1912,IN,117300\n1912,KY,6277845\n1912,MO,61851\n1912,OH,829740\n1912,PA,1686498\n1913,IL,621964\n1913,IN,149676\n1913,KY,6706756\n1913,MO,45071\n1913,OH,952206\n1913,PA,1805902\n1914,IL,660226\n1914,IN,162442\n1914,KY,6593926\n1914,MO,30837\n1914,OH,966116\n1914,PA,1757810\n1915,IL,602720\n1915,IN,216139\n1915,KY,6381863\n1915,MO,37780\n1915,OH,787935\n1915,PA,1499255\n1916,IL,811244\n1916,IN,361497\n1916,KY,8104846\n1916,MO,59166\n1916,OH,1044003\n1916,PA,1910709\n1917,IL,942554\n1917,IN,320259\n1917,KY,10858233\n1917,MO,104072\n1917,OH,1391836\n1917,PA,2582600\n1918,IL,630848\n1918,IN,182757\n1918,KY,6648240\n1918,MO,32062\n1918,OH,754708\n1918,PA,1677916\n1919,IL,781131\n1919,IN,237899\n1919,KY,10274290\n1919,MO,30706\n1919,OH,1068483\n1919,PA,2389728\n1920,IL,170234\n1920,IN,17001\n1920,KY,854520\n1920,MO,2796\n1920,OH,30155\n1920,PA,529473`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  marginLeft: 66,\n  height: 380,\n  x: {label: \"Fiscal year\", tickFormat: \"d\"},\n  y: {label: \"Gallons withdrawn\", grid: true, tickFormat: \"~s\"},\n  color: {legend: true},\n  marks: [\n    Plot.ruleY([0]),\n    Plot.line(bibdata, {x: \"fy\", y: \"bib_gal\", z: \"state\", stroke: \"state\", strokeWidth: 2, curve: \"catmull-rom\"}),\n    Plot.dot(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", stroke: \"state\", r: 4})),\n    Plot.tip(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", title: (d) =&gt; `${d.state} · FY${d.fy}\\n${d.bib_gal.toLocaleString()} gallons`}))\n  ]\n})"
+    "objectID": "papers/crisis-local-leviathan.html#the-event-study",
+    "href": "papers/crisis-local-leviathan.html#the-event-study",
+    "title": "Crisis and Local Leviathan",
+    "section": "The event study",
+    "text": "The event study\nEvent-time coefficients under the two comparisons. Hover any point for the coefficient and its standard error; bars are 95 percent confidence intervals, standard errors clustered by state.\n\nes = d3.csvParse(`spec,tau,coef,se\nCross-state (wave FE),-3,0.164,0.101\nCross-state (wave FE),-2,0.131,0.065\nCross-state (wave FE),-1,0.039,0.035\nCross-state (wave FE),0,0,0\nCross-state (wave FE),1,-0.050,0.058\nCross-state (wave FE),2,-0.017,0.059\nCross-state (wave FE),3,-0.080,0.071\nWithin-state (state×wave FE),-3,0.014,0.042\nWithin-state (state×wave FE),-2,0.028,0.051\nWithin-state (state×wave FE),-1,-0.015,0.022\nWithin-state (state×wave FE),0,0,0\nWithin-state (state×wave FE),1,0.001,0.026\nWithin-state (state×wave FE),2,-0.010,0.035\nWithin-state (state×wave FE),3,0.043,0.056`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  height: 360,\n  marginLeft: 58,\n  marginRight: 16,\n  x: {label: \"Event time (5-year waves)\", tickFormat: \"d\", ticks: 7},\n  y: {label: \"Overall EF: treated − control\", grid: true, domain: [-0.28, 0.40]},\n  color: {domain: [\"Cross-state (wave FE)\", \"Within-state (state×wave FE)\"], range: [\"#9AA0A6\", \"#007BC3\"], legend: false},\n  fx: {label: null},\n  marks: [\n    Plot.ruleY([0], {stroke: \"#666\", strokeWidth: 1}),\n    Plot.ruleX([0], {stroke: \"#bbb\", strokeDasharray: \"2,3\"}),\n    Plot.ruleX(es, {fx: \"spec\", x: \"tau\", y1: d =&gt; d.coef - 1.96 * d.se, y2: d =&gt; d.coef + 1.96 * d.se, stroke: \"spec\", strokeWidth: 1.4}),\n    Plot.line(es, {fx: \"spec\", x: \"tau\", y: \"coef\", stroke: \"spec\", strokeWidth: 2}),\n    Plot.dot(es, {fx: \"spec\", x: \"tau\", y: \"coef\", fill: \"spec\", r: 4.5}),\n    Plot.tip(es, Plot.pointer({fx: \"spec\", x: \"tau\", y: \"coef\", title: d =&gt; `τ${d.tau &gt; 0 ? \"+\" : \"\"}${d.tau}\\n${d.coef &gt;= 0 ? \"+\" : \"\"}${d.coef.toFixed(3)} (SE ${d.se.toFixed(3)})`}))\n  ]\n})\n\n\n\n\n\n\nThe left panel is the selection problem; the right panel is the answer. The 0.13-point minimum detectable effect means the flat line on the right is a finding, not an absence of one."
   },
   {
-    "objectID": "papers/bottled-in-bond.html#selected-figures",
-    "href": "papers/bottled-in-bond.html#selected-figures",
-    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "objectID": "papers/crisis-local-leviathan.html#why-the-relief-surge-leaves-no-institutional-residue",
+    "href": "papers/crisis-local-leviathan.html#why-the-relief-surge-leaves-no-institutional-residue",
+    "title": "Crisis and Local Leviathan",
+    "section": "Why the relief surge leaves no institutional residue",
+    "text": "Why the relief surge leaves no institutional residue\nChanges in the treated-minus-control gap from the last pre-event wave to the wave after the hit, top-twenty hits versus matched controls, in log points.\n\nmech = d3.csvParse(`series,logpts\nReal government consumption,5.5\nReal personal income,4.8\nPopulation,-1.9\nGovernment spending ÷ income (what the index scores),0.3`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  marginLeft: 265,\n  marginRight: 40,\n  height: 240,\n  x: {label: \"Change in treated − control gap, τ0 → τ+1 (log points)\", grid: true},\n  y: {label: null},\n  marks: [\n    Plot.ruleX([0], {stroke: \"#666\"}),\n    Plot.barX(mech, {y: \"series\", x: \"logpts\", fill: d =&gt; d.logpts &lt; 0 ? \"#B3182C\" : \"#007BC3\"}),\n    Plot.text(mech.filter(d =&gt; d.logpts &gt;= 0), {y: \"series\", x: \"logpts\", text: d =&gt; \"+\" + d.logpts, dx: 18, fontSize: 11}),\n    Plot.text(mech.filter(d =&gt; d.logpts &lt; 0), {y: \"series\", x: \"logpts\", text: d =&gt; String(d.logpts), dx: -18, fontSize: 11}),\n    Plot.tip(mech, Plot.pointerY({y: \"series\", x: \"logpts\", format: {x: d =&gt; (d &gt; 0 ? \"+\" : \"\") + d + \" log points\"}}))\n  ]\n})\n\n\n\n\n\n\nSpending and income move together; the ratio does not move at all. Real income per capita ends 6.6 log points higher three waves out. This is the pattern the null requires, and it is visible without any regression."
+  },
+  {
+    "objectID": "papers/crisis-local-leviathan.html#selected-figures",
+    "href": "papers/crisis-local-leviathan.html#selected-figures",
+    "title": "Crisis and Local Leviathan",
     "section": "Selected figures",
-    "text": "Selected figures\n\n\n\nBottled-in-bond withdrawals and their geographic concentration, FY1898–1920. National bonded withdrawals rise from 0.54 million gallons in FY1898 to 16.51 million in FY1917; Kentucky and Pennsylvania account for the bulk of the volume throughout.\n\n\n\n\n\nThe certified sub-segment against straight and rectified output: a small tier expanding on top of an existing trade, not a redistribution of it.\n\n\n\n\n\nThe quantity horse-race: rectified output grew at least as fast as straight whiskey after 1897 — the pattern that rejects the foreclosure reading."
+    "text": "Selected figures\n\n\n\nStacked event studies for overall economic freedom, 83 treated metros and 164 clean controls. Left: the cross-state comparison, whose pre-event coefficients reject the causal reading. Right: the within-state comparison, the paper’s central result.\n\n\n\n\n\nThe twenty largest per-capita hits against matched controls, raw index levels. The dotted vertical line marks the event year. No common break appears at the event.\n\n\n\n\n\nDecomposing the post-disaster response into the index’s numerators and denominators: component scores, component ratios, real dollar spending against real income, and per-capita terms with population."
   },
   {
-    "objectID": "papers/bottled-in-bond.html#key-estimate",
-    "href": "papers/bottled-in-bond.html#key-estimate",
-    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
-    "section": "Key estimate",
-    "text": "Key estimate\nHedonic price model (log price per proof gallon; rectified spirits the omitted category; channel, state, and year fixed effects):\n\n\n\nVariable\nCoefficient\nStd. error\n\n\n\n\nBottled-in-bond\n+0.096*\n0.058\n\n\nAge (per year)\n+0.074***\n0.009\n\n\n\nN = 187; R² = 0.66. *p &lt; 0.10, ***p &lt; 0.01. Stable across real-price and high-confidence-quote specifications.\n\nJEL codes: N41 · L51 · D72 · K23\nKeywords: bottled-in-bond, regulatory capture, credence goods, certification, whiskey\nSuggested citation: Smith, Jacob R. (2026). “Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897.” Working paper, Middle Tennessee State University.\n\n\n\n\n\n\nNote\n\n\n\nThis page is a preview. The full draft — including the common-treatment-date event study, the relabeling test, the legislative and archival record on intent (the committee report, the Aldrich “or owner” amendment, the organized rectifier remonstrances), and the complete robustness battery — is available on request at jrs2ge@mtmail.mtsu.edu."
+    "objectID": "papers/crisis-local-leviathan.html#robustness",
+    "href": "papers/crisis-local-leviathan.html#robustness",
+    "title": "Crisis and Local Leviathan",
+    "section": "Robustness",
+    "text": "Robustness\nThe within-state null survives every perturbation, including several designed to break it.\n\n\n\nSpecification\nPost-event effect\nSE\np\n\n\n\n\nBaseline (within-state)\n+0.003\n0.047\n0.94\n\n\nBaseline, Area 1 (government spending)\n+0.028\n0.093\n0.76\n\n\nDamage cutoff $1,000/capita (124 treated)\n−0.007\n0.045\n0.87\n\n\nDamage cutoff $5,000/capita (31 treated)\n−0.005\n0.051\n0.92\n\n\nDrop the 2002 cohort (Katrina, 2004 Florida)\n+0.007\n0.053\n0.89\n\n\nDrop the 2007 and 2012 cohorts\n+0.033\n0.050\n0.51\n\n\nPre-1997 cohorts only\n−0.003\n0.039\n0.94\n\n\nDrop 14 serially hit metros\n+0.003\n0.055\n0.96\n\n\nExclude same-CSA controls (spillovers)\n−0.006\n0.041\n0.89\n\n\nCallaway–Sant’Anna, state-by-wave-demeaned\n−0.016\n0.018\n0.37\n\n\nRaw ratio outcome (log spending ÷ income)\n+0.008\n0.025\n0.75\n\n\n\nEstimator choice does not matter: Callaway–Sant’Anna group-time estimates with never-treated controls reproduce the stacked results in both comparisons, pre-trends included. Nor does the index’s construction: replacing the score with the raw log ratio of government consumption to personal income, which bypasses the within-wave renormalization entirely, gives the same zero. Because SHELDUS ends in 2012, five years before the last index wave, FEMA obligations were used to check for late contamination of the control group — exactly one control metro crosses $500 per capita in 2013–2017, and dropping it leaves the estimate unchanged."
   },
   {
-    "objectID": "papers/alms-and-ale.html",
-    "href": "papers/alms-and-ale.html",
-    "title": "Alms and Ale",
-    "section": "",
-    "text": "Work in progress"
-  },
-  {
-    "objectID": "papers/alms-and-ale.html#research-question",
-    "href": "papers/alms-and-ale.html#research-question",
-    "title": "Alms and Ale",
-    "section": "Research question",
-    "text": "Research question\nBuilding on Malthus’s insight that subsidized populations may shift consumption toward leisure and intoxicants, this project asks whether more generous welfare provision inadvertently increases the demand for “vice” goods such as alcohol. The approach assembles a multi-decade panel of OECD countries (1995–2023) and estimates fixed-effects, instrumental-variable, and dynamic specifications that control for income, taxation, culture, and time trends.\n\n\n\n\n\n\nNote\n\n\n\nThis project is a work in progress. Details are available on request."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jacob R. Smith",
-    "section": "",
-    "text": "Economics · Political Economy\n    Jacob R. Smith\n    Ph.D. Candidate in Economics, Middle Tennessee State University — 2026 Graduate Fellow, American Institute for Economic Research\n    \n      Public Choice\n      Austrian Economics\n      Historical Political Economy\n    \n    My work asks a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for the order that markets and communities already provide?\n    \n      Read the research\n      Curriculum Vitae\n    \n  \n  \n    \n  \n\n\n\n  01Working Papers\n  \n    \n      01\n      Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897\n      Job Market Paper\n    \n    \n      02\n      \n        Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929\n        with Daniel J. Smith\n      \n    \n    \n      03\n      \n        Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets\n        with Mark Packard, Macy Scheck & Daniel J. Smith\n      \n    \n    \n      04\n      \n        Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum\n        with Nicholas A. Jensen\n      \n    \n  \n\n\n\n  02Works in Progress\n  \n    The End of Prohibition and Alcohol-Firm Stock Priceswith Patricia Hummel & Corey Pendleton\n    Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023\n  \n\n\n\n  03About\n  \n    A Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate May 2027. Summer 2026 Graduate Fellow at AIER; Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute. My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom.\n    My academic career began at Hampden-Sydney College, graduating magna cum laude in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy — an interdisciplinary foundation that shapes the toolkit I bring to teaching and research. Learn more on my C.V., Teaching, and Research pages.\n  \n\n\n\n  \n    Let's connect.\n    \n      jacob.rand.smith@gmail.com\n      jrs2ge@mtmail.mtsu.edu\n      LinkedIn / jacobsmithr\n      Google Scholar\n      ORCID / 0009-0005-7221-3245\n      SSRN\n      GitHub / jacob-smith-r"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "C.V.",
-    "section": "",
-    "text": "Download PDF\nJacob R. Smith Department of Economics and Finance · Jones College of Business Middle Tennessee State University Email: jrs2ge@mtmail.mtsu.edu · Website: jacob-smith-r.github.io Google Scholar · ORCID · SSRN · GitHub"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "C.V.",
-    "section": "EDUCATION",
-    "text": "EDUCATION\nPh.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected May 2027)\nM.A. Economics, Middle Tennessee State University, Murfreesboro, TN (2025)\nB.S. Mathematical Economics & Philosophy, magna cum laude, Hampden-Sydney College, Hampden Sydney, VA (2023)"
-  },
-  {
-    "objectID": "cv.html#research-interests",
-    "href": "cv.html#research-interests",
-    "title": "C.V.",
-    "section": "RESEARCH INTERESTS",
-    "text": "RESEARCH INTERESTS\nPublic Choice Theory, Austrian Economics, Public Interest Regulation, Historical Political Economy"
-  },
-  {
-    "objectID": "cv.html#working-papers",
-    "href": "cv.html#working-papers",
-    "title": "C.V.",
-    "section": "WORKING PAPERS",
-    "text": "WORKING PAPERS\n“Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897” (job market paper)\n“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929” (with Daniel J. Smith)\n“Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets” (with Mark Packard, Macy Scheck, and Daniel J. Smith)\n“Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland’s 1908 Absinthe Referendum” (with Nicholas A. Jensen)"
-  },
-  {
-    "objectID": "cv.html#works-in-progress",
-    "href": "cv.html#works-in-progress",
-    "title": "C.V.",
-    "section": "WORKS IN PROGRESS",
-    "text": "WORKS IN PROGRESS\n“The End of Prohibition and Alcohol-Firm Stock Prices” (with Patricia Hummel and Corey Pendleton)\n“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023”"
-  },
-  {
-    "objectID": "cv.html#conference-presentations",
-    "href": "cv.html#conference-presentations",
-    "title": "C.V.",
-    "section": "CONFERENCE PRESENTATIONS",
-    "text": "CONFERENCE PRESENTATIONS\n“Bottled in Bondage”, Southern Economic Association Annual Meeting. Fort Lauderdale, Florida, November 19-21, 2022\n“Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators”, Public Choice Society Meetings. Plano, Texas, March 14-16, 2024\n“Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators”, Southern Economic Association Annual Meeting. Washington, DC, November 23-25, 2024\n“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Bottled-In-Bond Act”, Public Choice Society Meetings. Louisville, Kentucky, March 6-8, 2025\n“Panic Before Protection: Bank Runs, Contagion, and Mitigation Measures in the United States, 1889-1929”, Southern Economic Association Annual Meeting. Tampa, Florida, November 22-24, 2025\n“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption”, Southern Economic Association Annual Meeting. Tampa, Florida, November 22-24, 2025"
-  },
-  {
-    "objectID": "cv.html#colloquia-workshops-attended",
-    "href": "cv.html#colloquia-workshops-attended",
-    "title": "C.V.",
-    "section": "COLLOQUIA & WORKSHOPS ATTENDED",
-    "text": "COLLOQUIA & WORKSHOPS ATTENDED\nPublic Choice Outreach Conference, Center for Study of Public Choice, GMU (2023)\nHarwood Graduate Colloquium on Public Choice, American Institute for Economic Research (2024)\nHarwood Graduate Colloquium on Defending Classical Liberalism, AIER (2025)\nSummer Seminar on Classical Liberalism and Business, AIER, UIC (2025)\nSummer Seminar on Classical Liberalism and The Market, AIER, UIS (2025)\nSummer Seminar on Classical Liberalism, AIER, Wabash College (2025)\nEconomic Freedom Research Colloquium, Bridwell Institute, SMU Cox (2025)\nLaw & Economics with Public Choice Insights Workshop, Stephenson Institute for Classical Liberalism (2025)\nThe Untold Stories Behind Financial Crises Workshop, INET-YSI-University of Lyon 2 (2025)\n“Giving an Effective Job Talk” Graduate Papers Workshop, Institute for Humane Studies (2026)"
-  },
-  {
-    "objectID": "cv.html#awards-fellowships-and-grants",
-    "href": "cv.html#awards-fellowships-and-grants",
-    "title": "C.V.",
-    "section": "AWARDS, FELLOWSHIPS, AND GRANTS",
-    "text": "AWARDS, FELLOWSHIPS, AND GRANTS\nAmerican Institute for Economic Research Graduate Fellowship (Summer 2026)\nPolitical Economy Research Institute Ph.D. Summer Fellowship, $5,000 (2024, 2025)\nEconomic Freedom Research Colloquium Honorarium, Bridwell Institute, $3,000 (2025)\nCenter for the Study of Political Economy Fellowship (2019-2023)\nBeta Gamma Sigma, International Business Honor Society (2026)\nPi Mu Epsilon, US Honorary Mathematics Society (2022)"
-  },
-  {
-    "objectID": "cv.html#teaching-experience",
-    "href": "cv.html#teaching-experience",
-    "title": "C.V.",
-    "section": "TEACHING EXPERIENCE",
-    "text": "TEACHING EXPERIENCE\nPrinciples of Microeconomics, Middle Tennessee State University (2025) — Instructor Evaluation Mean: 4.40/5\nSelected student comments:\n\n“Professor Smith was a great teacher and would love to see him stick around at MTSU, he provided clear knowledge on each topic that was taught.”\n“Great lecturer and always willing and able to help students.”\n“When explaining material, he gives examples that stick to the memory of the student.”\n“He was organized and formatted the course work efficiently which helped a lot in the workload and getting all the work done in a timely manner.”\n\nPrinciples of Macroeconomics, Middle Tennessee State University (2026) — Instructor Evaluation Mean: 4.02/5\nSelected student comments:\n\n“Professor Smith is very knowledgeable in the material he covers. He cares about his students and wants them to succeed.”\n“His course is well organized and easy to follow. He explains the material clearly and provides helpful resources that support student learning.”\n“Very easygoing and willing to work around any struggles a student may have. He makes it feel like a real college course.”"
-  },
-  {
-    "objectID": "cv.html#professional-service",
-    "href": "cv.html#professional-service",
-    "title": "C.V.",
-    "section": "PROFESSIONAL SERVICE",
-    "text": "PROFESSIONAL SERVICE\nReferee, Virginia Economic Journal (2026)"
-  },
-  {
-    "objectID": "cv.html#service-and-leadership",
-    "href": "cv.html#service-and-leadership",
-    "title": "C.V.",
-    "section": "SERVICE AND LEADERSHIP",
-    "text": "SERVICE AND LEADERSHIP\nH-SC Student Honor Court Investigator, 2022-2023\nH-SC Journal of the Sciences Editor, Vol. XVII\nAlpha Chi Sigma Beta Chi Chapter Vice Master Alchemist (2022) and Historian (2023)\nAtkinson Museum Student Museum Board Member, 2022-2023\nUnion Philanthropic Literary Society Junior Member, 2021-2023\nUndergraduate Philosophical Association of Virginia Member, 2022-2023\nWilson Center’s Leadership in the Public Interest Four-Year Program Member, 2019-2023"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "C.V.",
-    "section": "EXPERIENCE",
-    "text": "EXPERIENCE\nDefense Logistics Agency – Aviation, Richmond, VA — May 2021 – Current\n\nPost-Award Contract Specialist (Trainee)\n\nReceived comprehensive cradle-to-grave government contracting training (FAR/DFARS) with hands-on proficiency in information systems including SAP EBS, WAWF, and federal records management\nCollaborated with Subject Matter Experts (SMEs) and OEM vendors to resolve government contract discrepancies and ensure compliance/technical alignment\n\n\nTyger Strategies Consulting Group, Midlothian, VA (Remote) — June 2020 – August 2020\n\nBusiness Analyst Intern\n\nPerformed market research and data analysis for a 501(c)(3) nonprofit consulting group\nDeveloped and presented actionable marketing and strategic recommendations to clients"
-  },
-  {
-    "objectID": "explore.html",
-    "href": "explore.html",
-    "title": "Explore My Research",
-    "section": "",
-    "text": "My research sits at the intersection of historical political economy, public choice, and the political economy of regulation — when regulation serves the public interest, and when it instead protects incumbents or substitutes for order that markets and communities already supply. Browse below, or filter the working papers by topic. Click any card to read more."
-  },
-  {
-    "objectID": "explore.html#working-papers",
-    "href": "explore.html#working-papers",
-    "title": "Explore My Research",
-    "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n\n\n\n\n\nDistillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897\n\n\nCapture without foreclosure: how a consumer-protection law manufactured a premium segment and handed the rents to incumbents\n\n\n\nRegulation\n\nPublic Choice\n\nEconomic History\n\nWorking Paper\n\n\n\nA public-choice reinterpretation of America’s first quality-certification law. Using a newly digitized state-by-fiscal-year panel (FY1877–1920) built from the Commissioner…\n\n\n\n\n\n\n\n\n\n\n\n\nPrivate Mechanisms for Stopping Diamond-Dybvig Runs\n\n\nEvidence from U.S. Newspapers, 1889–1929\n\n\n\nMoney & Banking\n\nEconomic History\n\nPublic Choice\n\nWorking Paper\n\n\n\nHand-coding 544 bank runs from digitized newspapers shows that banks and their communities stopped runs with a rich toolkit of private, market-based mechanisms — even before…\n\n\n\n\n\n\n\n\n\n\n\n\nAssuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets\n\n\n\nEntrepreneurship\n\nEconomic History\n\nRegulation\n\nWorking Paper\n\n\n\nBefore federal regulation, whiskey was a textbook market for lemons — yet it thrived. How did entrepreneurs privately assure consumers of quality?\n\n\n\n\n\n\n\n\n\n\n\n\nBootleggers Behind the Baptists\n\n\nWine-Industry Influence in Switzerland’s 1908 Absinthe Referendum\n\n\n\nPublic Choice\n\nPublic Health\n\nEconomic History\n\nWorking Paper\n\n\n\nDid wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level…\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "explore.html#works-in-progress",
-    "href": "explore.html#works-in-progress",
-    "title": "Explore My Research",
-    "section": "Works in Progress",
-    "text": "Works in Progress\n\n\n\n\n\n\n\n\n\n\nThe End of Prohibition and Alcohol-Firm Stock Prices\n\n\nWorking title\n\n\n\nFinance\n\nIndustrial Organization\n\nEconomic History\n\nWork in Progress\n\n\n\nAn asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly.\n\n\n\n\n\n\n\n\n\n\n\n\nAlms and Ale\n\n\nA Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023\n\n\n\nWelfare & Public Health\n\nPublic Choice\n\nWork in Progress\n\n\n\nDo more generous welfare states inadvertently raise demand for ‘vice’ goods like alcohol? A panel test of a Malthusian hypothesis across the OECD.\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "papers/absinthe.html",
-    "href": "papers/absinthe.html",
-    "title": "Bootleggers Behind the Baptists",
-    "section": "",
-    "text": "Working paper (preliminary) · with Nicholas A. Jensen (Wabash College)"
-  },
-  {
-    "objectID": "papers/absinthe.html#overview",
-    "href": "papers/absinthe.html#overview",
-    "title": "Bootleggers Behind the Baptists",
-    "section": "Overview",
-    "text": "Overview\nOn 5 July 1908, Switzerland became the first country to ban absinthe by direct popular vote — passing the constitutional ban with 63.5% support, over the Federal Council’s recommendation to reject it. The campaign was led by public-health and temperance reformers, the “Baptists.” But absinthe had grown popular during the phylloxera years precisely as a cheap substitute for wine, putting it in direct competition with Switzerland’s wine producers. This paper asks whether those producers — the “Bootleggers” — quietly moved the cross-canton vote, using a 25-canton dataset built around a previously unanalyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. It is part of my broader interest in how public-health rhetoric can mask economic self-interest, especially when protectionism is enacted directly by voters."
-  },
-  {
-    "objectID": "papers/absinthe.html#abstract",
-    "href": "papers/absinthe.html#abstract",
-    "title": "Bootleggers Behind the Baptists",
-    "section": "Abstract",
-    "text": "Abstract\n\n“On 5 July 1908 Swiss voters approved a constitutional ban on absinthe by 63.5 percent — the second European country to prohibit it and the first by direct popular ballot. We test whether wine producers — the upstream category whose displaced demand absinthe had absorbed during the phylloxera years — moved the cross-canton vote, using a 25-canton dataset built around a previously un-analyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. The raw wine–Yes correlation is negative; conditioning on French-speaking share flips its sign, the textbook Simpson’s-paradox reversal. Fractional-logit average marginal effects then show that a one-percentage-point increase in a canton’s national wine-revenue share raises its yes-share by 0.43 percentage points; for the dominant wine canton, Vaud, this implies roughly 15 percentage points of its predicted yes-share. The wine signal is absent from the 1906–07 petition stage and from a same-day commerce-vote placebo: a Bootlegger coalition that consolidated at the vote rather than at the petition.”\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a preliminary working draft — please do not cite or circulate without permission. A current version is available on request."
+    "objectID": "papers/crisis-local-leviathan.html#what-the-finding-does-and-does-not-say",
+    "href": "papers/crisis-local-leviathan.html#what-the-finding-does-and-does-not-say",
+    "title": "Crisis and Local Leviathan",
+    "section": "What the finding does and does not say",
+    "text": "What the finding does and does not say\nThe result disciplines the ratchet hypothesis rather than refuting it. Higgs built the ratchet on episodes in which a monopoly government met a national emergency with nowhere for its citizens to go. Metropolitan governments meet the same emergencies with neither feature: the money is largely federal, and the residents who would pay for a permanently larger local state can leave. Under exit and external finance, crisis produces no ratchet — which suggests the ratchet is a property of insulation from competition rather than of government as such, the same conclusion the Leviathan literature reaches from evidence on tax structure and fragmentation.\nThe natural next test sits one level up, where insulation is intermediate: state governments, whose fiscal responses to disasters, recessions, and emergency declarations could be measured with the state-level index back to 1981 and with historical fiscal data before that.\n\nJEL codes: D72 · H11 · H77 · Q54 · R11\nKeywords: economic freedom, natural disasters, ratchet effect, Leviathan, local government\nSuggested citation: Smith, Jacob R. (2026). “Crisis and Local Leviathan: Natural Disasters and Economic Freedom in U.S. Metropolitan Areas, 1972–2017.” Working paper, Middle Tennessee State University.\n\n\n\n\n\n\nNote\n\n\n\nThis page is a preview of a July 2026 workshop draft. The full paper — including the identification strategy, the complete inference battery (randomization inference, wild-cluster bootstrap, and Callaway–Sant’Anna estimates), and the power analysis behind the minimum detectable effect — is available on request at jrs2ge@mtmail.mtsu.edu."
   },
   {
     "objectID": "papers/bank-runs.html",
@@ -301,6 +168,202 @@
     "text": "Draft\nA companion paper, “Bank Runs without a Cause: Frequency, Contagion, and Mitigation Measures in the U.S., 1889–1929,” is posted on SSRN. A current draft of this paper is available on request."
   },
   {
+    "objectID": "papers/absinthe.html",
+    "href": "papers/absinthe.html",
+    "title": "Bootleggers Behind the Baptists",
+    "section": "",
+    "text": "Working paper (preliminary) · with Nicholas A. Jensen (Wabash College)"
+  },
+  {
+    "objectID": "papers/absinthe.html#overview",
+    "href": "papers/absinthe.html#overview",
+    "title": "Bootleggers Behind the Baptists",
+    "section": "Overview",
+    "text": "Overview\nOn 5 July 1908, Switzerland became the first country to ban absinthe by direct popular vote — passing the constitutional ban with 63.5% support, over the Federal Council’s recommendation to reject it. The campaign was led by public-health and temperance reformers, the “Baptists.” But absinthe had grown popular during the phylloxera years precisely as a cheap substitute for wine, putting it in direct competition with Switzerland’s wine producers. This paper asks whether those producers — the “Bootleggers” — quietly moved the cross-canton vote, using a 25-canton dataset built around a previously unanalyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. It is part of my broader interest in how public-health rhetoric can mask economic self-interest, especially when protectionism is enacted directly by voters."
+  },
+  {
+    "objectID": "papers/absinthe.html#abstract",
+    "href": "papers/absinthe.html#abstract",
+    "title": "Bootleggers Behind the Baptists",
+    "section": "Abstract",
+    "text": "Abstract\n\n“On 5 July 1908 Swiss voters approved a constitutional ban on absinthe by 63.5 percent — the second European country to prohibit it and the first by direct popular ballot. We test whether wine producers — the upstream category whose displaced demand absinthe had absorbed during the phylloxera years — moved the cross-canton vote, using a 25-canton dataset built around a previously un-analyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. The raw wine–Yes correlation is negative; conditioning on French-speaking share flips its sign, the textbook Simpson’s-paradox reversal. Fractional-logit average marginal effects then show that a one-percentage-point increase in a canton’s national wine-revenue share raises its yes-share by 0.43 percentage points; for the dominant wine canton, Vaud, this implies roughly 15 percentage points of its predicted yes-share. The wine signal is absent from the 1906–07 petition stage and from a same-day commerce-vote placebo: a Bootlegger coalition that consolidated at the vote rather than at the petition.”\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a preliminary working draft — please do not cite or circulate without permission. A current version is available on request."
+  },
+  {
+    "objectID": "explore.html",
+    "href": "explore.html",
+    "title": "Explore My Research",
+    "section": "",
+    "text": "My research sits at the intersection of historical political economy, public choice, and the political economy of regulation — when regulation serves the public interest, and when it instead protects incumbents or substitutes for order that markets and communities already supply. Browse below, or filter the working papers by topic. Click any card to read more."
+  },
+  {
+    "objectID": "explore.html#working-papers",
+    "href": "explore.html#working-papers",
+    "title": "Explore My Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n\n\n\n\n\n\n\n\nDistillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897\n\n\nCapture without foreclosure: how a consumer-protection law manufactured a premium segment and handed the rents to incumbents\n\n\n\nRegulation\n\nPublic Choice\n\nEconomic History\n\nWorking Paper\n\n\n\nA public-choice reinterpretation of America’s first quality-certification law. Using a newly digitized state-by-fiscal-year panel (FY1877–1920) built from the Commissioner…\n\n\n\n\n\n\n\n\n\n\n\n\nPrivate Mechanisms for Stopping Diamond-Dybvig Runs\n\n\nEvidence from U.S. Newspapers, 1889–1929\n\n\n\nMoney & Banking\n\nEconomic History\n\nPublic Choice\n\nWorking Paper\n\n\n\nHand-coding 544 bank runs from digitized newspapers shows that banks and their communities stopped runs with a rich toolkit of private, market-based mechanisms — even before…\n\n\n\n\n\n\n\n\n\n\n\n\nAssuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets\n\n\n\nEntrepreneurship\n\nEconomic History\n\nRegulation\n\nWorking Paper\n\n\n\nBefore federal regulation, whiskey was a textbook market for lemons — yet it thrived. How did entrepreneurs privately assure consumers of quality?\n\n\n\n\n\n\n\n\n\n\n\n\nBootleggers Behind the Baptists\n\n\nWine-Industry Influence in Switzerland’s 1908 Absinthe Referendum\n\n\n\nPublic Choice\n\nPublic Health\n\nEconomic History\n\nWorking Paper\n\n\n\nDid wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level…\n\n\n\n\n\n\n\n\n\n\n\n\nCrisis and Local Leviathan\n\n\nNatural Disasters and Economic Freedom in U.S. Metropolitan Areas, 1972–2017\n\n\n\nPublic Choice\n\nEconomic Freedom\n\nLocal Government\n\nWorking Paper\n\n\n\nHiggs’s ratchet was built on federal emergencies. Does crisis also grow government where citizens can leave? Linking half a century of county disaster losses to the…\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "explore.html#works-in-progress",
+    "href": "explore.html#works-in-progress",
+    "title": "Explore My Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\n\n\n\n\n\n\n\n\n\nThe End of Prohibition and Alcohol-Firm Stock Prices\n\n\nWorking title\n\n\n\nFinance\n\nIndustrial Organization\n\nEconomic History\n\nWork in Progress\n\n\n\nAn asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly.\n\n\n\n\n\n\n\n\n\n\n\n\nAlms and Ale\n\n\nA Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023\n\n\n\nWelfare & Public Health\n\nPublic Choice\n\nWork in Progress\n\n\n\nDo more generous welfare states inadvertently raise demand for ‘vice’ goods like alcohol? A panel test of a Malthusian hypothesis across the OECD.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "C.V.",
+    "section": "",
+    "text": "Download PDF\nJacob R. Smith Department of Economics and Finance · Jones College of Business Middle Tennessee State University Email: jrs2ge@mtmail.mtsu.edu · Website: jacob-smith-r.github.io Google Scholar · ORCID · SSRN · GitHub"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "C.V.",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nPh.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected May 2027)\nM.A. Economics, Middle Tennessee State University, Murfreesboro, TN (2025)\nB.S. Mathematical Economics & Philosophy, magna cum laude, Hampden-Sydney College, Hampden Sydney, VA (2023)"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "C.V.",
+    "section": "RESEARCH INTERESTS",
+    "text": "RESEARCH INTERESTS\nPublic Choice Theory, Austrian Economics, Public Interest Regulation, Historical Political Economy"
+  },
+  {
+    "objectID": "cv.html#working-papers",
+    "href": "cv.html#working-papers",
+    "title": "C.V.",
+    "section": "WORKING PAPERS",
+    "text": "WORKING PAPERS\n“Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897” (job market paper)\n“Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929” (with Daniel J. Smith)\n“Assuring Consumers of Authenticity, Safety, & Quality in Early American Whiskey Markets” (with Mark Packard, Macy Scheck, and Daniel J. Smith)\n“Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland’s 1908 Absinthe Referendum” (with Nicholas A. Jensen)\n“Crisis and Local Leviathan: Natural Disasters and Economic Freedom in U.S. Metropolitan Areas, 1972–2017”"
+  },
+  {
+    "objectID": "cv.html#works-in-progress",
+    "href": "cv.html#works-in-progress",
+    "title": "C.V.",
+    "section": "WORKS IN PROGRESS",
+    "text": "WORKS IN PROGRESS\n“The End of Prohibition and Alcohol-Firm Stock Prices” (with Patricia Hummel and Corey Pendleton)\n“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023”"
+  },
+  {
+    "objectID": "cv.html#conference-presentations",
+    "href": "cv.html#conference-presentations",
+    "title": "C.V.",
+    "section": "CONFERENCE PRESENTATIONS",
+    "text": "CONFERENCE PRESENTATIONS\n“Bottled in Bondage”, Southern Economic Association Annual Meeting. Fort Lauderdale, Florida, November 19-21, 2022\n“Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators”, Public Choice Society Meetings. Plano, Texas, March 14-16, 2024\n“Distillers and Chemists: Strategic use of the Bottled-In-Bond Act of 1897 by both firms and regulators”, Southern Economic Association Annual Meeting. Washington, DC, November 23-25, 2024\n“The Father of Food and Drug Law as Strategic Regulator: Dr. Harvey Wiley and the Bottled-In-Bond Act”, Public Choice Society Meetings. Louisville, Kentucky, March 6-8, 2025\n“Panic Before Protection: Bank Runs, Contagion, and Mitigation Measures in the United States, 1889-1929”, Southern Economic Association Annual Meeting. Tampa, Florida, November 22-24, 2025\n“Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption”, Southern Economic Association Annual Meeting. Tampa, Florida, November 22-24, 2025"
+  },
+  {
+    "objectID": "cv.html#colloquia-workshops-attended",
+    "href": "cv.html#colloquia-workshops-attended",
+    "title": "C.V.",
+    "section": "COLLOQUIA & WORKSHOPS ATTENDED",
+    "text": "COLLOQUIA & WORKSHOPS ATTENDED\nPublic Choice Outreach Conference, Center for Study of Public Choice, GMU (2023)\nHarwood Graduate Colloquium on Public Choice, American Institute for Economic Research (2024)\nHarwood Graduate Colloquium on Defending Classical Liberalism, AIER (2025)\nSummer Seminar on Classical Liberalism and Business, AIER, UIC (2025)\nSummer Seminar on Classical Liberalism and The Market, AIER, UIS (2025)\nSummer Seminar on Classical Liberalism, AIER, Wabash College (2025)\nEconomic Freedom Research Colloquium, Bridwell Institute, SMU Cox (2025)\nLaw & Economics with Public Choice Insights Workshop, Stephenson Institute for Classical Liberalism (2025)\nThe Untold Stories Behind Financial Crises Workshop, INET-YSI-University of Lyon 2 (2025)\n“Giving an Effective Job Talk” Graduate Papers Workshop, Institute for Humane Studies (2026)"
+  },
+  {
+    "objectID": "cv.html#awards-fellowships-and-grants",
+    "href": "cv.html#awards-fellowships-and-grants",
+    "title": "C.V.",
+    "section": "AWARDS, FELLOWSHIPS, AND GRANTS",
+    "text": "AWARDS, FELLOWSHIPS, AND GRANTS\nAmerican Institute for Economic Research Graduate Fellowship (Summer 2026)\nPolitical Economy Research Institute Ph.D. Summer Fellowship, $5,000 (2024, 2025)\nEconomic Freedom Research Colloquium Honorarium, Bridwell Institute, $3,000 (2025)\nCenter for the Study of Political Economy Fellowship (2019-2023)\nBeta Gamma Sigma, International Business Honor Society (2026)\nPi Mu Epsilon, US Honorary Mathematics Society (2022)"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "C.V.",
+    "section": "TEACHING EXPERIENCE",
+    "text": "TEACHING EXPERIENCE\nPrinciples of Microeconomics, Middle Tennessee State University (2025) — Instructor Evaluation Mean: 4.40/5\nSelected student comments:\n\n“Professor Smith was a great teacher and would love to see him stick around at MTSU, he provided clear knowledge on each topic that was taught.”\n“Great lecturer and always willing and able to help students.”\n“When explaining material, he gives examples that stick to the memory of the student.”\n“He was organized and formatted the course work efficiently which helped a lot in the workload and getting all the work done in a timely manner.”\n\nPrinciples of Macroeconomics, Middle Tennessee State University (2026) — Instructor Evaluation Mean: 4.02/5\nSelected student comments:\n\n“Professor Smith is very knowledgeable in the material he covers. He cares about his students and wants them to succeed.”\n“His course is well organized and easy to follow. He explains the material clearly and provides helpful resources that support student learning.”\n“Very easygoing and willing to work around any struggles a student may have. He makes it feel like a real college course.”"
+  },
+  {
+    "objectID": "cv.html#professional-service",
+    "href": "cv.html#professional-service",
+    "title": "C.V.",
+    "section": "PROFESSIONAL SERVICE",
+    "text": "PROFESSIONAL SERVICE\nReferee, Virginia Economic Journal (2026)"
+  },
+  {
+    "objectID": "cv.html#service-and-leadership",
+    "href": "cv.html#service-and-leadership",
+    "title": "C.V.",
+    "section": "SERVICE AND LEADERSHIP",
+    "text": "SERVICE AND LEADERSHIP\nH-SC Student Honor Court Investigator, 2022-2023\nH-SC Journal of the Sciences Editor, Vol. XVII\nAlpha Chi Sigma Beta Chi Chapter Vice Master Alchemist (2022) and Historian (2023)\nAtkinson Museum Student Museum Board Member, 2022-2023\nUnion Philanthropic Literary Society Junior Member, 2021-2023\nUndergraduate Philosophical Association of Virginia Member, 2022-2023\nWilson Center’s Leadership in the Public Interest Four-Year Program Member, 2019-2023"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "C.V.",
+    "section": "EXPERIENCE",
+    "text": "EXPERIENCE\nDefense Logistics Agency – Aviation, Richmond, VA — May 2021 – Current\n\nPost-Award Contract Specialist (Trainee)\n\nReceived comprehensive cradle-to-grave government contracting training (FAR/DFARS) with hands-on proficiency in information systems including SAP EBS, WAWF, and federal records management\nCollaborated with Subject Matter Experts (SMEs) and OEM vendors to resolve government contract discrepancies and ensure compliance/technical alignment\n\n\nTyger Strategies Consulting Group, Midlothian, VA (Remote) — June 2020 – August 2020\n\nBusiness Analyst Intern\n\nPerformed market research and data analysis for a 501(c)(3) nonprofit consulting group\nDeveloped and presented actionable marketing and strategic recommendations to clients"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacob R. Smith",
+    "section": "",
+    "text": "Economics · Political Economy\n    Jacob R. Smith\n    Ph.D. Candidate in Economics, Middle Tennessee State University — 2026 Graduate Fellow, American Institute for Economic Research\n    \n      Public Choice\n      Austrian Economics\n      Historical Political Economy\n    \n    My work asks a single question across very different settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for the order that markets and communities already provide?\n    \n      Read the research\n      Curriculum Vitae\n    \n  \n  \n    \n  \n\n\n\n  01Working Papers\n  \n    \n      01\n      Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897\n      Job Market Paper\n    \n    \n      02\n      \n        Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929\n        with Daniel J. Smith\n      \n    \n    \n      03\n      \n        Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets\n        with Mark Packard, Macy Scheck & Daniel J. Smith\n      \n    \n    \n      04\n      \n        Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum\n        with Nicholas A. Jensen\n      \n    \n    \n      05\n      Crisis and Local Leviathan: Natural Disasters and Economic Freedom in U.S. Metropolitan Areas, 1972–2017\n      AIER Fellowship\n    \n  \n\n\n\n  02Works in Progress\n  \n    The End of Prohibition and Alcohol-Firm Stock Priceswith Patricia Hummel & Corey Pendleton\n    Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023\n  \n\n\n\n  03About\n  \n    A Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate May 2027. Summer 2026 Graduate Fellow at AIER; Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute. My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom.\n    My academic career began at Hampden-Sydney College, graduating magna cum laude in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy — an interdisciplinary foundation that shapes the toolkit I bring to teaching and research. Learn more on my C.V., Teaching, and Research pages.\n  \n\n\n\n  \n    Let's connect.\n    \n      jacob.rand.smith@gmail.com\n      jrs2ge@mtmail.mtsu.edu\n      LinkedIn / jacobsmithr\n      Google Scholar\n      ORCID / 0009-0005-7221-3245\n      SSRN\n      GitHub / jacob-smith-r"
+  },
+  {
+    "objectID": "papers/alms-and-ale.html",
+    "href": "papers/alms-and-ale.html",
+    "title": "Alms and Ale",
+    "section": "",
+    "text": "Work in progress"
+  },
+  {
+    "objectID": "papers/alms-and-ale.html#research-question",
+    "href": "papers/alms-and-ale.html#research-question",
+    "title": "Alms and Ale",
+    "section": "Research question",
+    "text": "Research question\nBuilding on Malthus’s insight that subsidized populations may shift consumption toward leisure and intoxicants, this project asks whether more generous welfare provision inadvertently increases the demand for “vice” goods such as alcohol. The approach assembles a multi-decade panel of OECD countries (1995–2023) and estimates fixed-effects, instrumental-variable, and dynamic specifications that control for income, taxation, culture, and time trends.\n\n\n\n\n\n\nNote\n\n\n\nThis project is a work in progress. Details are available on request."
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html",
+    "href": "papers/bottled-in-bond.html",
+    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "section": "",
+    "text": "Job market paper · sole-authored"
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#overview",
+    "href": "papers/bottled-in-bond.html#overview",
+    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "section": "Overview",
+    "text": "Overview\nThe Bottled-in-Bond Act of 1897 is usually remembered as one of America’s first consumer-protection laws — a federal guarantee, in an age of rampant adulteration, that what the label promised was what the bottle held. This paper reads the Act through public choice instead: as a government-administered solution to a credence-goods problem the straight distillers of Kentucky and Pennsylvania could not solve privately. Their brands and marks were freely counterfeited down a distribution chain they could not police; a Treasury strip stamp, backed by federal criminal law, made their quality signal excludable in a way no private mark ever had.\nThe reframing yields a sharp, testable distinction. If the Act worked by raising rivals’ costs, certified output should have grown at the expense of the rectifiers (blenders of cheaper neutral spirit) and a scarcity rent should have opened in relative prices. If it worked by certifying quality, a new premium tier should have grown from a near-zero base without the rectifying trade falling. The two mechanisms make opposite predictions — and the data can tell them apart.\nThe evidence comes from a newly digitized state-by-fiscal-year panel built from the Annual Reports of the Commissioner of Internal Revenue, FY1877–1920 — whiskey deposited into bond, tax-paid withdrawals, spirits rectified, distilleries operated, grain consumed, and (after 1897) withdrawals under the bottled-in-bond stamp — validated against the printed totals through 458 cross-year chain assertions."
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#abstract",
+    "href": "papers/bottled-in-bond.html#abstract",
+    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "section": "Abstract",
+    "text": "Abstract\n\n“The Bottled-in-Bond Act of 1897 allowed whiskey to be sold under a federal strip stamp certifying it as the unblended product of a single distillery and season, aged four years in a government-supervised bonded warehouse. Conventionally read as consumer protection, the Act is reinterpreted here, through public choice, as a government-administered credence-goods certification. Using a newly digitized state-by-fiscal-year panel built from the reports of the Commissioner of Internal Revenue, we estimate a common-treatment-date event study and difference-in-differences and find that the Act did not foreclose the rectifier trade: rectified output grew at least as fast as straight whiskey after 1897. Instead it created a distinct certified premium segment that expanded roughly twenty-four percent per year from a near-zero base, with its rents concentrated overwhelmingly among incumbent Kentucky and Pennsylvania producers. Capture operated not by raising rivals’ costs but through the geographic distribution of a manufactured premium segment.”"
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#a-preview-of-the-findings",
+    "href": "papers/bottled-in-bond.html#a-preview-of-the-findings",
+    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "section": "A preview of the findings",
+    "text": "A preview of the findings\n1. No foreclosure. Indexed to 1896, rectified output reaches 186.1 by 1905 against straight whiskey’s 170.6 — the trade the bill’s proponents complained of grew faster, not slower, after the Act. The within-state difference-in-differences on the straight–rectified gap is near zero, and the rectified series rises rather than falls.\n2. A manufactured premium segment. The genuine expansion is the certified sub-segment itself: bottled-in-bond withdrawals grew from 0.54 million gallons in FY1898 to 16.51 million in FY1917 — a thirty-one-fold increase — at roughly 24% per year relative to rectified output. And it is net-new volume, not relabeling: within adopting states, bonded gallons did not displace non-bonded straight output (elasticity ≈ −0.10, far from the −1 that one-for-one relabeling implies). A hedonic model of hand-collected price quotes attaches a ~9.6% premium to the bonded label, conditional on age and channel, while the certifiable–rectified price gap does not widen — the price pattern a quality-signaling mechanism predicts and a scarcity-rent mechanism does not.\n3. Geographically captured rents. Kentucky and Pennsylvania together supplied 92.2% of all bonded withdrawals over 1898–1904, with the Louisville collection district — home market of the Act’s chief proponent, E. H. Taylor Jr. — alone taking nearly a third of the national total. The demand for certified whiskey was actively cultivated by Harvey Wiley’s federal purity chemists, whose authority the distillers enrolled to teach buyers to distrust uncertified spirit. The mechanism is credence-segment creation; the distribution is geographic rent capture.\nThe upshot: capture need not look like foreclosure. A regulation can expand a market, resolve a real information asymmetry, and still function as capture through who collects the rents it manufactures."
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#bonded-whiskey-withdrawals-by-state-18981920",
+    "href": "papers/bottled-in-bond.html#bonded-whiskey-withdrawals-by-state-18981920",
+    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "section": "Bonded whiskey withdrawals by state, 1898–1920",
+    "text": "Bonded whiskey withdrawals by state, 1898–1920\nHover any line to read the exact figure — the certification was overwhelmingly a Kentucky (and Pennsylvania) phenomenon.\n\nbibdata = d3.csvParse(`fy,state,bib_gal\n1898,IL,29792\n1898,IN,3695\n1898,KY,366622\n1898,OH,16290\n1898,PA,108852\n1899,IL,16267\n1899,IN,779\n1899,KY,228614\n1899,OH,3825\n1899,PA,140354\n1900,IL,16769\n1900,IN,1049\n1900,KY,234914\n1900,OH,7512\n1900,PA,156277\n1901,IL,21526\n1901,IN,6999\n1901,KY,288358\n1901,OH,5549\n1901,PA,198172\n1902,IL,29163\n1902,IN,5754\n1902,KY,305220\n1902,OH,6710\n1902,PA,188137\n1903,IL,38858\n1903,IN,5665\n1903,KY,418530\n1903,OH,16364\n1903,PA,238736\n1904,IL,44209\n1904,IN,6298\n1904,KY,657856\n1904,OH,19960\n1904,PA,356339\n1905,IL,50156\n1905,IN,10362\n1905,KY,949751\n1905,OH,29235\n1905,PA,538237\n1906,IL,63010\n1906,IN,12166\n1906,KY,1547093\n1906,OH,33132\n1906,PA,761699\n1907,IL,85983\n1907,IN,25684\n1907,KY,2942260\n1907,MO,5712\n1907,OH,202842\n1907,PA,1122255\n1908,IL,95289\n1908,IN,49335\n1908,KY,3236470\n1908,MO,17355\n1908,OH,387822\n1908,PA,921612\n1909,IL,228788\n1909,IN,68933\n1909,KY,4288326\n1909,MO,68972\n1909,OH,471965\n1909,PA,1114639\n1910,IL,368282\n1910,IN,88726\n1910,KY,5950277\n1910,MO,90179\n1910,OH,795664\n1910,PA,1548983\n1911,IL,559046\n1911,IN,102312\n1911,KY,7095958\n1911,MO,104016\n1911,OH,756218\n1911,PA,1781855\n1912,IL,445870\n1912,IN,117300\n1912,KY,6277845\n1912,MO,61851\n1912,OH,829740\n1912,PA,1686498\n1913,IL,621964\n1913,IN,149676\n1913,KY,6706756\n1913,MO,45071\n1913,OH,952206\n1913,PA,1805902\n1914,IL,660226\n1914,IN,162442\n1914,KY,6593926\n1914,MO,30837\n1914,OH,966116\n1914,PA,1757810\n1915,IL,602720\n1915,IN,216139\n1915,KY,6381863\n1915,MO,37780\n1915,OH,787935\n1915,PA,1499255\n1916,IL,811244\n1916,IN,361497\n1916,KY,8104846\n1916,MO,59166\n1916,OH,1044003\n1916,PA,1910709\n1917,IL,942554\n1917,IN,320259\n1917,KY,10858233\n1917,MO,104072\n1917,OH,1391836\n1917,PA,2582600\n1918,IL,630848\n1918,IN,182757\n1918,KY,6648240\n1918,MO,32062\n1918,OH,754708\n1918,PA,1677916\n1919,IL,781131\n1919,IN,237899\n1919,KY,10274290\n1919,MO,30706\n1919,OH,1068483\n1919,PA,2389728\n1920,IL,170234\n1920,IN,17001\n1920,KY,854520\n1920,MO,2796\n1920,OH,30155\n1920,PA,529473`, d3.autoType)\n\n\n\n\n\n\n\nPlot.plot({\n  marginLeft: 66,\n  height: 380,\n  x: {label: \"Fiscal year\", tickFormat: \"d\"},\n  y: {label: \"Gallons withdrawn\", grid: true, tickFormat: \"~s\"},\n  color: {legend: true},\n  marks: [\n    Plot.ruleY([0]),\n    Plot.line(bibdata, {x: \"fy\", y: \"bib_gal\", z: \"state\", stroke: \"state\", strokeWidth: 2, curve: \"catmull-rom\"}),\n    Plot.dot(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", stroke: \"state\", r: 4})),\n    Plot.tip(bibdata, Plot.pointer({x: \"fy\", y: \"bib_gal\", title: (d) =&gt; `${d.state} · FY${d.fy}\\n${d.bib_gal.toLocaleString()} gallons`}))\n  ]\n})"
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#selected-figures",
+    "href": "papers/bottled-in-bond.html#selected-figures",
+    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "section": "Selected figures",
+    "text": "Selected figures\n\n\n\nBottled-in-bond withdrawals and their geographic concentration, FY1898–1920. National bonded withdrawals rise from 0.54 million gallons in FY1898 to 16.51 million in FY1917; Kentucky and Pennsylvania account for the bulk of the volume throughout.\n\n\n\n\n\nThe certified sub-segment against straight and rectified output: a small tier expanding on top of an existing trade, not a redistribution of it.\n\n\n\n\n\nThe quantity horse-race: rectified output grew at least as fast as straight whiskey after 1897 — the pattern that rejects the foreclosure reading."
+  },
+  {
+    "objectID": "papers/bottled-in-bond.html#key-estimate",
+    "href": "papers/bottled-in-bond.html#key-estimate",
+    "title": "Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897",
+    "section": "Key estimate",
+    "text": "Key estimate\nHedonic price model (log price per proof gallon; rectified spirits the omitted category; channel, state, and year fixed effects):\n\n\n\nVariable\nCoefficient\nStd. error\n\n\n\n\nBottled-in-bond\n+0.096*\n0.058\n\n\nAge (per year)\n+0.074***\n0.009\n\n\n\nN = 187; R² = 0.66. *p &lt; 0.10, ***p &lt; 0.01. Stable across real-price and high-confidence-quote specifications.\n\nJEL codes: N41 · L51 · D72 · K23\nKeywords: bottled-in-bond, regulatory capture, credence goods, certification, whiskey\nSuggested citation: Smith, Jacob R. (2026). “Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897.” Working paper, Middle Tennessee State University.\n\n\n\n\n\n\nNote\n\n\n\nThis page is a preview. The full draft — including the common-treatment-date event study, the relabeling test, the legislative and archival record on intent (the committee report, the Aldrich “or owner” amendment, the organized rectifier remonstrances), and the complete robustness battery — is available on request at jrs2ge@mtmail.mtsu.edu."
+  },
+  {
     "objectID": "papers/prohibition.html",
     "href": "papers/prohibition.html",
     "title": "The End of Prohibition and Alcohol-Firm Stock Prices",
@@ -319,7 +382,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research program asks a single question across very different historical and institutional settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide? I combine historical institutional analysis with modern econometric and panel-data methods, in the tradition of Buchanan, Tullock, and Stigler and the Austrian emphasis on knowledge problems and spontaneous order."
+    "text": "My research program asks a single question across very different historical and institutional settings: when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide? A newer line of work turns the same lens on the size of government itself, asking when crisis actually enlarges the state and when competition between jurisdictions prevents it. I combine historical institutional analysis with modern econometric and panel-data methods, in the tradition of Buchanan, Tullock, and Stigler and the Austrian emphasis on knowledge problems and spontaneous order."
   },
   {
     "objectID": "research.html#dissertation",
@@ -333,6 +396,6 @@
     "href": "research.html#beyond-the-dissertation",
     "title": "Research",
     "section": "Beyond the dissertation",
-    "text": "Beyond the dissertation\nWith coauthors, I also study how early American whiskey entrepreneurs privately assured consumers of quality before federal regulation — a market-for-lemons setting that did not unravel (Assuring Consumers of Authenticity, Safety, and Quality). As a 2026 Graduate Fellow at the American Institute for Economic Research, I am beginning new work on economic freedom and state coercion, and ongoing projects examine the asset-pricing consequences of Prohibition’s repeal and the link between welfare generosity and alcohol consumption.\nFor full summaries, figures, and interactive data from each paper, see Explore My Research."
+    "text": "Beyond the dissertation\nWith coauthors, I also study how early American whiskey entrepreneurs privately assured consumers of quality before federal regulation — a market-for-lemons setting that did not unravel (Assuring Consumers of Authenticity, Safety, and Quality).\n\nCrisis and the size of local government\nAs a 2026 Graduate Fellow at the American Institute for Economic Research, I have extended the program from particular regulations to the size of government itself. Crisis and Local Leviathan tests Robert Higgs’s ratchet hypothesis — that emergencies permanently enlarge the state — at the level of American government where exit is cheapest. Linking half a century of county-level disaster losses to the metropolitan economic freedom index across 383 metropolitan areas, it finds that disaster-struck metros emerge with the same institutional standing relative to their in-state neighbors that they had before: a post-event effect of 0.003 index points, precise enough to exclude declines a sixth the size of the ordinary cross-metro spread. The relief surge is real, but it arrives as federal money alongside a rebuilding income boom, and both revert. The ratchet, on this evidence, is a property of governments insulated from exit rather than of government as such. Read more →\nOngoing projects examine the asset-pricing consequences of Prohibition’s repeal and the link between welfare generosity and alcohol consumption.\nFor full summaries, figures, and interactive data from each paper, see Explore My Research."
   }
 ]

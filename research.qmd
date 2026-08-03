@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My research program asks a single question across very different historical and institutional settings: **when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?** I combine historical institutional analysis with modern econometric and panel-data methods, in the tradition of Buchanan, Tullock, and Stigler and the Austrian emphasis on knowledge problems and spontaneous order.
+My research program asks a single question across very different historical and institutional settings: **when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?** A newer line of work turns the same lens on the size of government itself, asking when crisis actually enlarges the state and when competition between jurisdictions prevents it. I combine historical institutional analysis with modern econometric and panel-data methods, in the tradition of Buchanan, Tullock, and Stigler and the Austrian emphasis on knowledge problems and spontaneous order.
 
 ## Dissertation
 
@@ -22,6 +22,12 @@ Switzerland's 1908 vote to ban absinthe is usually read as a public-health trium
 
 ## Beyond the dissertation
 
-With coauthors, I also study how early American whiskey entrepreneurs privately assured consumers of quality before federal regulation — a market-for-lemons setting that did not unravel ([*Assuring Consumers of Authenticity, Safety, and Quality*](papers/whiskey-markets.qmd)). As a 2026 Graduate Fellow at the American Institute for Economic Research, I am beginning new work on economic freedom and state coercion, and ongoing projects examine the asset-pricing consequences of Prohibition's repeal and the link between welfare generosity and alcohol consumption.
+With coauthors, I also study how early American whiskey entrepreneurs privately assured consumers of quality before federal regulation — a market-for-lemons setting that did not unravel ([*Assuring Consumers of Authenticity, Safety, and Quality*](papers/whiskey-markets.qmd)).
+
+### Crisis and the size of local government
+
+As a 2026 Graduate Fellow at the American Institute for Economic Research, I have extended the program from particular regulations to the size of government itself. *Crisis and Local Leviathan* tests Robert Higgs's ratchet hypothesis — that emergencies permanently enlarge the state — at the level of American government where exit is cheapest. Linking half a century of county-level disaster losses to the metropolitan economic freedom index across 383 metropolitan areas, it finds that disaster-struck metros emerge with the same institutional standing relative to their in-state neighbors that they had before: a post-event effect of 0.003 index points, precise enough to exclude declines a sixth the size of the ordinary cross-metro spread. The relief surge is real, but it arrives as federal money alongside a rebuilding income boom, and both revert. The ratchet, on this evidence, is a property of governments insulated from exit rather than of government as such. [Read more →](papers/crisis-local-leviathan.qmd)
+
+Ongoing projects examine the asset-pricing consequences of Prohibition's repeal and the link between welfare generosity and alcohol consumption.
 
 For full summaries, figures, and interactive data from each paper, see [Explore My Research](explore.qmd).

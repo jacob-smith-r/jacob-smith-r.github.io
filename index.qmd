@@ -56,6 +56,11 @@ page-layout: full
         <div class="meta">with Nicholas A. Jensen</div>
       </div>
     </div>
+    <div class="jrs-paper">
+      <span class="idx">05</span>
+      <a class="ttl" href="papers/crisis-local-leviathan.html">Crisis and Local Leviathan: Natural Disasters and Economic Freedom in U.S. Metropolitan Areas, 1972&ndash;2017</a>
+      <span class="jrs-tag">AIER Fellowship</span>
+    </div>
   </div>
 </section>
 
