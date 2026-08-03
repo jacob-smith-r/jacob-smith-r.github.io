@@ -8,13 +8,13 @@ image: /images/papers/ratchet_eventstudy.png
 image-alt: "Stacked event study showing no post-disaster change in metropolitan economic freedom within states"
 ---
 
-*Working paper · sole-authored · 2026 Graduate Fellow, American Institute for Economic Research*
+*Working paper · sole-authored*
 
 ## Overview
 
 Robert Higgs's *Crisis and Leviathan* argues that emergencies permanently enlarge government: a crisis legitimates new spending, agencies, and powers; the crisis passes; the government stays. The evidence for the ratchet is federal — war, depression, the New Deal — and in every one of those episodes the government doing the growing was a monopoly its citizens could not escape.
 
-This paper asks whether the ratchet survives the removal of that condition. Metropolitan governments face real emergencies, but they face them with residents who can move across the county line and with disaster money that arrives largely from Washington. If the ratchet is a general property of government under stress, it should appear here too. If it is instead a property of *insulation from exit*, it should vanish.
+This paper asks whether the ratchet survives the removal of that condition. Metropolitan governments face real emergencies, but they face them with residents who can move across the county line and with disaster money that arrives largely from Washington. If the ratchet is a general property of government under stress, it should appear here too. If it is a property of *insulation from exit*, it should vanish.
 
 The test uses natural disasters as locality-specific crises, linking county-level losses from **SHELDUS (1960–2012)** to the **U.S. Metropolitan Area Economic Freedom Index** — the metropolitan extension of the Fraser Institute's Economic Freedom of North America index — across **383 metropolitan areas over ten waves, 1972–2017**. A large hit is a metro's first year with at least **$2,000 per resident** in real damage, which yields **83 treated metros** across nine event cohorts. The twenty largest hits alone span eleven distinct disasters across five decades: Katrina and New Orleans, Andrew and Naples, the Grand Forks flood, Mount St. Helens, Joplin.
 
@@ -22,19 +22,16 @@ The test uses natural disasters as locality-specific crises, linking county-leve
 
 > "Higgs's ratchet hypothesis holds that crises permanently enlarge government. I test it at the level of American government where exit is cheapest: the metropolitan area. I link county-level natural-disaster losses (SHELDUS, 1960–2012) to the U.S. Metropolitan Area Economic Freedom Index, the metropolitan extension of the Fraser Institute's Economic Freedom of North America index, covering 383 metropolitan areas over ten waves (1972–2017). Stacked event-study regressions compare the 83 metros hit by large disasters — at least \$2,000 per resident in real damage — to never-hit metros. Within states, disaster-struck metros show no decline in economic freedom at any horizon: the post-event effect is 0.003 index points (SE 0.047), precise enough to rule out losses larger than 0.13 points, about a sixth of the cross-metro standard deviation. Government spending rises after disasters, but only in step with a rebuilding income boom, and both revert. Crisis does not grow local Leviathan."
 
-## A preview of the findings
+## Headline findings
 
-**1. No ratchet, and a tight zero rather than a shrug.** Comparing hit metros to unhit metros *in the same state*, every event-time coefficient falls between −0.015 and +0.043 index points on a 0–10 scale. The average post-event effect is **+0.003 points** (SE 0.047), a zero under clustered inference (*p* = 0.94), randomization inference across 999 within-cohort permutations (*p* = 0.90), and a wild-cluster bootstrap with 999 draws (*p* = 0.95). At 80 percent power the design would detect a decline of **0.133 points** — one-sixth of the cross-metro standard deviation, and nearly two-fifths of a typical five-year within-metro change. A ratchet of any economically meaningful size in *overall* economic freedom is ruled out, not merely undetected.
-
-The government-spending area, where a ratchet ought to concentrate, gives the same answer with less precision: **+0.028** (SE 0.093; randomization inference *p* = 0.38, wild bootstrap *p* = 0.92), against a minimum detectable decline near **0.26 points**. On that margin the evidence rules out large spending ratchets but not small ones — a limit worth stating plainly rather than folding into the headline.
-
-**2. The naive design finds a ratchet, and the pre-trends say why not to believe it.** Compare hit metros to unhit metros *anywhere in the country* and the post-event effect is **−0.121 points** (*p* = 0.09; randomization inference rejects zero at *p* = 0.003, though the wild-cluster bootstrap, which respects the small number of state clusters, does not, *p* = 0.13) — a result a careless reading would report as confirmation. But the same specification puts treated metros **+0.164 and +0.131 points above their controls** three and two waves *before* the disaster, already converging downward before anything happens. Disaster-exposed metros are coastal, southern, and riverine; they sit in states whose institutional standing was drifting for reasons that predate any particular storm. Once state-by-wave effects absorb those trajectories the gap collapses to zero. The paper reports this specification, and reports it as the cautionary contrast rather than as a result.
-
-**3. The mechanism is a joint government-and-income boom.** Among the twenty hardest-hit metros, real local government consumption rises **5.5 log points** relative to matched controls in the wave after the hit — the relief surge is real and visible in the raw data. But real personal income rises **4.8 log points** at the same time, so government's share of the local economy, which is the ratio the index actually scores, moves **0.3 log points**: nothing. The surge is federally financed and the rebuilding is a private-sector boom. A metropolitan emergency imports resources across the federal system rather than converting them into a permanent local claim.
+- **No ratchet within states.** Against unhit metros in the same state, the post-event effect on overall economic freedom is **+0.003 index points** (SE 0.047) — a zero under clustered inference (*p* = 0.94), randomization inference (*p* = 0.90), and a wild-cluster bootstrap (*p* = 0.95).
+- **The null is informative, not underpowered.** At 80 percent power the design detects a decline of **0.133 points**: one-sixth of the cross-metro standard deviation, and nearly two-fifths of a typical five-year within-metro change.
+- **The naive comparison finds a ratchet, and its own pre-trends reject it.** Compared to unhit metros anywhere, the effect is **−0.121** (*p* = 0.09; randomization inference *p* = 0.003) — but treated metros already sit **+0.164** and **+0.131** points *above* their controls three and two waves before the disaster.
+- **On the spending margin, less precision.** Area 1, where a ratchet ought to concentrate, gives **+0.028** (SE 0.093) against a minimum detectable decline near **0.26 points**. That rules out large spending ratchets, not small ones.
 
 ## The event study
 
-Event-time coefficients under the two comparisons. Hover any point for the coefficient and its standard error; bars are 95 percent confidence intervals, standard errors clustered by state.
+Event-time coefficients under both comparisons. Hover any point for the coefficient and its standard error; bars are 95 percent confidence intervals, standard errors clustered by state.
 
 ```{ojs}
 //| echo: false
@@ -76,11 +73,11 @@ Plot.plot({
 })
 ```
 
-The left panel is the selection problem; the right panel is the answer. The 0.13-point minimum detectable effect means the flat line on the right is a finding, not an absence of one.
+Left is the selection problem; right is the answer. Disaster-exposed metros are coastal, southern, and riverine, and they sit in states whose institutional standing was already drifting for reasons that predate any storm. State-by-wave effects absorb those trajectories and the gap collapses to zero.
 
-## Why the relief surge leaves no institutional residue
+## Mechanism
 
-Changes in the treated-minus-control gap from the last pre-event wave to the wave after the hit, top-twenty hits versus matched controls, in log points.
+Relief spending is real and shows up in the raw data. So does the rebuilding boom that pays for it. Among the twenty hardest-hit metros, treated-minus-control gaps move as follows from the last pre-event wave to the wave after the hit:
 
 ```{ojs}
 //| echo: false
@@ -109,19 +106,13 @@ Plot.plot({
 })
 ```
 
-Spending and income move together; the ratio does not move at all. Real income per capita ends **6.6 log points higher** three waves out. This is the pattern the null requires, and it is visible without any regression.
+Spending and income move together, so government's share of the local economy — the ratio the index actually scores — does not move at all. The surge is federally financed, the rebuilding is private, and real income per capita ends 6.6 log points higher three waves out.
 
-## Selected figures
-
-![Stacked event studies for overall economic freedom, 83 treated metros and 164 clean controls. Left: the cross-state comparison, whose pre-event coefficients reject the causal reading. Right: the within-state comparison, the paper's central result.](../images/papers/ratchet_eventstudy.png){fig-alt="Two-panel event study; the cross-state panel shows a downward pre-trend, the within-state panel is flat at zero"}
+## The raw data
 
 ![The twenty largest per-capita hits against matched controls, raw index levels. The dotted vertical line marks the event year. No common break appears at the event.](../images/papers/ratchet_trajectories.png){fig-alt="Twenty small-multiple line charts of metropolitan economic freedom for the hardest-hit metros against matched controls"}
 
-![Decomposing the post-disaster response into the index's numerators and denominators: component scores, component ratios, real dollar spending against real income, and per-capita terms with population.](../images/papers/ratchet_decompose.png){fig-alt="Four-panel decomposition of the Area 1 government spending response into scores, ratios, levels, and per-capita terms"}
-
 ## Robustness
-
-The within-state null survives every perturbation, including several designed to break it.
 
 | Specification | Post-event effect | SE | *p* |
 |---|---:|---:|---:|
@@ -137,13 +128,11 @@ The within-state null survives every perturbation, including several designed to
 | Callaway–Sant'Anna, state-by-wave-demeaned | −0.016 | 0.018 | 0.37 |
 | Raw ratio outcome (log spending ÷ income) | +0.008 | 0.025 | 0.75 |
 
-Estimator choice does not matter: Callaway–Sant'Anna group-time estimates with never-treated controls reproduce the stacked results in both comparisons, pre-trends included. Nor does the index's construction: replacing the score with the raw log ratio of government consumption to personal income, which bypasses the within-wave renormalization entirely, gives the same zero. Because SHELDUS ends in 2012, five years before the last index wave, FEMA obligations were used to check for late contamination of the control group — exactly one control metro crosses $500 per capita in 2013–2017, and dropping it leaves the estimate unchanged.
+Estimator choice does not matter: Callaway–Sant'Anna group-time estimates with never-treated controls reproduce the stacked results in both comparisons, pre-trends included. Neither does the index's construction — replacing the score with the raw log ratio of government consumption to personal income bypasses the within-wave renormalization and gives the same zero. Because SHELDUS ends in 2012, FEMA obligations check the control group for late contamination: exactly one control metro crosses $500 per capita in 2013–2017, and dropping it leaves the estimate unchanged.
 
 ## What the finding does and does not say
 
-The result disciplines the ratchet hypothesis rather than refuting it. Higgs built the ratchet on episodes in which a monopoly government met a national emergency with nowhere for its citizens to go. Metropolitan governments meet the same emergencies with neither feature: the money is largely federal, and the residents who would pay for a permanently larger local state can leave. Under exit and external finance, crisis produces no ratchet — which suggests the ratchet is a property of insulation from competition rather than of government as such, the same conclusion the Leviathan literature reaches from evidence on tax structure and fragmentation.
-
-The natural next test sits one level up, where insulation is intermediate: state governments, whose fiscal responses to disasters, recessions, and emergency declarations could be measured with the state-level index back to 1981 and with historical fiscal data before that.
+The result disciplines the ratchet hypothesis rather than refuting it. Higgs built the ratchet on a monopoly government meeting a national emergency with nowhere for its citizens to go. Metropolitan governments have neither feature: the money is largely federal, and the residents who would pay for a permanently larger local state can leave. Under exit and external finance, crisis produces no ratchet — which points to insulation from competition, not government as such, as the operative condition. The next test sits one level up, where insulation is intermediate: state governments, measurable with the state-level index back to 1981 and with historical fiscal data before that.
 
 ---
 
@@ -154,5 +143,5 @@ The natural next test sits one level up, where insulation is intermediate: state
 **Suggested citation:** Smith, Jacob R. (2026). "Crisis and Local Leviathan: Natural Disasters and Economic Freedom in U.S. Metropolitan Areas, 1972–2017." Working paper, Middle Tennessee State University.
 
 ::: {.callout-note}
-This page is a preview of a July 2026 workshop draft. The full paper — including the identification strategy, the complete inference battery (randomization inference, wild-cluster bootstrap, and Callaway–Sant'Anna estimates), and the power analysis behind the minimum detectable effect — is available on request at [jrs2ge@mtmail.mtsu.edu](mailto:jrs2ge@mtmail.mtsu.edu).
+This page is a preview of a July 2026 workshop draft. The full paper — including the identification strategy, the complete inference battery, and the power analysis behind the minimum detectable effect — is available on request at [jrs2ge@mtmail.mtsu.edu](mailto:jrs2ge@mtmail.mtsu.edu).
 :::
