@@ -45,19 +45,12 @@ page-layout: full
     <div class="jrs-paper">
       <span class="idx">03</span>
       <div>
-        <a class="ttl" href="papers/whiskey-markets.html">Assuring Consumers of Authenticity, Safety, and Quality in Early American Whiskey Markets</a>
-        <div class="meta">with Mark Packard, Macy Scheck &amp; Daniel J. Smith</div>
-      </div>
-    </div>
-    <div class="jrs-paper">
-      <span class="idx">04</span>
-      <div>
         <a class="ttl" href="papers/absinthe.html">Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum</a>
         <div class="meta">with Nicholas A. Jensen</div>
       </div>
     </div>
     <div class="jrs-paper">
-      <span class="idx">05</span>
+      <span class="idx">04</span>
       <a class="ttl" href="papers/crisis-local-leviathan.html">Crisis and Local Leviathan: Natural Disasters and Economic Freedom in U.S. Metropolitan Areas, 1972&ndash;2017</a>
     </div>
   </div>

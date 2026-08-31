@@ -5,7 +5,6 @@ listing:
     contents:
       - papers/bottled-in-bond.qmd
       - papers/bank-runs.qmd
-      - papers/whiskey-markets.qmd
       - papers/absinthe.qmd
       - papers/crisis-local-leviathan.qmd
     type: grid

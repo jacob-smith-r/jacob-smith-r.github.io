@@ -22,12 +22,18 @@ Switzerland's 1908 vote to ban absinthe is usually read as a public-health trium
 
 ## Beyond the dissertation
 
-With coauthors, I also study how early American whiskey entrepreneurs privately assured consumers of quality before federal regulation — a market-for-lemons setting that did not unravel ([*Assuring Consumers of Authenticity, Safety, and Quality*](papers/whiskey-markets.qmd)).
+The projects beyond the dissertation carry the same question into new terrain: whether crisis actually enlarges the state, what the repeal of a legal regime reveals about who it protected, and how the welfare state interacts with the vices it is said to subsidize.
 
 ### Crisis and the size of local government
 
 A newer project moves from particular regulations to the size of government itself. *Crisis and Local Leviathan* tests Robert Higgs's ratchet hypothesis — that emergencies permanently enlarge the state — at the level of American government where exit is cheapest. Linking half a century of county-level disaster losses to the metropolitan economic freedom index across 383 metropolitan areas, it finds that disaster-struck metros emerge with the same standing relative to their in-state neighbors they had before: a post-event effect of 0.003 index points, precise enough to exclude declines a sixth the size of the ordinary cross-metro spread. Relief spending rises, but as federal money alongside a rebuilding income boom, and both revert. The ratchet looks like a property of governments insulated from exit rather than of government as such. [Read more →](papers/crisis-local-leviathan.qmd)
 
-Ongoing projects examine the asset-pricing consequences of Prohibition's repeal and the link between welfare generosity and alcohol consumption.
+### Repeal, black markets, and the stock market
+
+With Patricia Hummel and Corey Pendleton, I am developing a pair of papers built around a single historical experiment: the end of national Prohibition. The first asks what the ratification of the Twenty-First Amendment did to the equity value of the firms Prohibition had inadvertently protected — the small set of alcohol producers still publicly listed after 1920, operating as a state-enforced oligopoly — along with producers of complements and substitutes such as sugar and cigarettes, using an event study around the 1933 state ratification sequence.
+
+The second contributes the measurement behind the entry margin: a hand-verified dataset of distillery entry and enforcement events built from New York newspapers, 1929–1940. From 1,681 candidate newspaper hits, each read against the original page image, it distills 697 distinct events — 677 enforcement actions against illicit stills and just 20 legal entries — and asks whether the black market's visible margins moved the value of listed incumbents. Verification is the contribution: an unverified keyword count would overstate legal entry by a factor of roughly fourteen. [Read more →](papers/prohibition.qmd)
+
+A further ongoing project examines the link between welfare generosity and alcohol consumption across OECD countries.
 
 For full summaries, figures, and interactive data from each paper, see [Explore My Research](explore.qmd).
