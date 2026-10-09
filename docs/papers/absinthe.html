@@ -2,21 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Did wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level dataset built around a previously unanalyzed 1907 enumeration of the absinthe industry.">
+<meta name="description" content="Temperance carried the petition that put Switzerland’s absinthe ban on the ballot; the wine interest shows up at the vote. A two-stage, 25-canton test of who moved the 1908 referendum.">
 
-<title>Bootleggers Behind the Baptists – Jacob R. Smith</title>
+<title>Who Killed the Green Fairy? – Jacob R. Smith</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,14 +43,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b626d73c4c936ccc3cb08be7d45d1df6.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-8ecf77a70be3f2e3dbd51bc2227a96ab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-a6d86950953bf81cf899cacca6e0330e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-8ecf77a70be3f2e3dbd51bc2227a96ab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-3394719fd8fab5e0f87428b60ad381bf.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-65d76de10f18fb433bc1600acc2f1ad5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-3394719fd8fab5e0f87428b60ad381bf.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,24 +116,24 @@ ul.task-list li input[type="checkbox"] {
 </script>
 
 
-<meta property="og:title" content="Bootleggers Behind the Baptists – Jacob R. Smith">
-<meta property="og:description" content="Did wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level dataset built around a previously unanalyzed 1907 enumeration of the absinthe industry.">
-<meta property="og:image" content="https://jacob-smith-r.github.io/images/papers/absinthe_fig1_scatter_raw-1.png">
+<meta property="og:title" content="Who Killed the Green Fairy? – Jacob R. Smith">
+<meta property="og:description" content="Temperance carried the petition that put Switzerland’s absinthe ban on the ballot; the wine interest shows up at the vote. A two-stage, 25-canton test of who moved the 1908 referendum.">
+<meta property="og:image" content="https://jacob-smith-r.github.io/images/papers/absinthe_falsification.png">
 <meta property="og:site_name" content="Jacob R. Smith">
-<meta property="og:image:height" content="675">
-<meta property="og:image:width" content="1125">
-<meta property="og:image:alt" content="Scatter of canton yes-vote share in the 1908 referendum against 1905 vineyard area">
-<meta name="twitter:title" content="Bootleggers Behind the Baptists – Jacob R. Smith">
-<meta name="twitter:description" content="Did wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level dataset built around a previously unanalyzed 1907 enumeration of the absinthe industry.">
-<meta name="twitter:image" content="https://jacob-smith-r.github.io/images/papers/absinthe_fig1_scatter_raw-1.png">
+<meta property="og:image:height" content="1800">
+<meta property="og:image:width" content="3000">
+<meta property="og:image:alt" content="Wine coefficient by federal referendum, 1897–1908, with the 1908 absinthe vote highlighted">
+<meta name="twitter:title" content="Who Killed the Green Fairy? – Jacob R. Smith">
+<meta name="twitter:description" content="Temperance carried the petition that put Switzerland’s absinthe ban on the ballot; the wine interest shows up at the vote. A two-stage, 25-canton test of who moved the 1908 referendum.">
+<meta name="twitter:image" content="https://jacob-smith-r.github.io/images/papers/absinthe_falsification.png">
 <meta name="twitter:creator" content="@sosGrayMatter">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image-height" content="675">
-<meta name="twitter:image-width" content="1125">
-<meta name="twitter:image:alt" content="Scatter of canton yes-vote share in the 1908 referendum against 1905 vineyard area">
+<meta name="twitter:image-height" content="1800">
+<meta name="twitter:image-width" content="3000">
+<meta name="twitter:image:alt" content="Wine coefficient by federal referendum, 1897–1908, with the 1908 absinthe vote highlighted">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -370,18 +373,30 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#the-question" id="toc-the-question" class="nav-link" data-scroll-target="#the-question">The question</a></li>
+  <li><a href="#preliminary-results" id="toc-preliminary-results" class="nav-link" data-scroll-target="#preliminary-results">Preliminary results</a></li>
+  <li><a href="#selected-figures" id="toc-selected-figures" class="nav-link" data-scroll-target="#selected-figures">Selected figures</a></li>
+  <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Bootleggers Behind the Baptists</h1>
-<p class="subtitle lead">Wine-Industry Influence in Switzerland’s 1908 Absinthe Referendum</p>
+<h1 class="title">Who Killed the Green Fairy?</h1>
+<p class="subtitle lead">Temperance, Language, and Wine in the Swiss Absinthe Ban of 1908</p>
   <div class="quarto-categories">
     <div class="quarto-category">Public Choice</div>
-    <div class="quarto-category">Public Health</div>
+    <div class="quarto-category">Regulation</div>
     <div class="quarto-category">Economic History</div>
     <div class="quarto-category">Working Paper</div>
   </div>
@@ -389,7 +404,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Did wine producers — not just public-health reformers — drive Switzerland’s 1908 vote to ban absinthe? A ‘Bootleggers and Baptists’ test using a newly assembled canton-level dataset built around a previously unanalyzed 1907 enumeration of the absinthe industry.
+    Temperance carried the petition that put Switzerland’s absinthe ban on the ballot; the wine interest shows up at the vote. A two-stage, 25-canton test of who moved the 1908 referendum.
   </div>
 </div>
 
@@ -398,6 +413,12 @@ ul.task-list li input[type="checkbox"] {
 
     
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">October 9, 2026</p>
+    </div>
+  </div>
     
   </div>
   
@@ -406,16 +427,50 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>Working paper (preliminary) · with Nicholas A. Jensen (Wabash College)</em></p>
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>On 5 July 1908, Switzerland became the first country to ban absinthe by direct popular vote — passing the constitutional ban with <strong>63.5%</strong> support, over the Federal Council’s recommendation to reject it. The campaign was led by public-health and temperance reformers, the “Baptists.” But absinthe had grown popular during the phylloxera years precisely as a cheap substitute for wine, putting it in direct competition with Switzerland’s wine producers. This paper asks whether those producers — the “Bootleggers” — quietly moved the cross-canton vote, using a 25-canton dataset built around a previously unanalyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. It is part of my broader interest in how public-health rhetoric can mask economic self-interest, especially when protectionism is enacted directly by voters.</p>
-</section>
+<p><em>Working paper · with <a href="https://nicholas-jensen.com/">Nicholas A. Jensen</a> (Wabash College)</em></p>
+<p><a href="https://www.dropbox.com/scl/fi/raukw6mvyrkvnse7dvd0f/jensen-absinthe.pdf?rlkey=9jku1wruib7ro02y3w04h2vw7&amp;raw=1" class="btn btn-outline-primary btn-sm">Download Paper (PDF)</a></p>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
 <blockquote class="blockquote">
-<p>“On 5 July 1908 Swiss voters approved a constitutional ban on absinthe by 63.5 percent — the second European country to prohibit it and the first by direct popular ballot. We test whether wine producers — the upstream category whose displaced demand absinthe had absorbed during the phylloxera years — moved the cross-canton vote, using a 25-canton dataset built around a previously un-analyzed firm-level enumeration of the Swiss absinthe industry compiled in 1907 for the Federal Council. The raw wine–Yes correlation is negative; conditioning on French-speaking share flips its sign, the textbook Simpson’s-paradox reversal. Fractional-logit average marginal effects then show that a one-percentage-point increase in a canton’s national wine-revenue share raises its yes-share by 0.43 percentage points; for the dominant wine canton, Vaud, this implies roughly 15 percentage points of its predicted yes-share. The wine signal is absent from the 1906–07 petition stage and from a same-day commerce-vote placebo: a Bootlegger coalition that consolidated at the vote rather than at the petition.”</p>
+<p>On July 5, 1908, Swiss voters wrote a ban on absinthe into their federal constitution, the first national prohibition of the drink enacted by popular vote. The temperance movement led the campaign. Deputies and historians pointed to the wine industry, which stood to gain if drinkers switched to wine, but no one has measured its part. We measure it across 25 cantons at both stages: the petition that put the ban on the ballot, and the vote. The Protestant share, our measure of organized temperance, predicts signatures per hundred eligible voters; the wine share does not. At the vote, the raw returns hide wine’s part: the wine-growing cantons tended to be French-speaking, and French-speaking cantons gave the ban less support. Holding the French-speaking share fixed, a one-percentage-point higher share of national wine revenue goes with a 0.620-point higher yes-share. Both estimates are significant at five percent under all four of our small-sample inference procedures. Under the same specification, wine has no detectable effect on six unrelated ballots and is positive, at ten percent by permutation test, on the 1906 food-law referendum, where wine was again at stake. Temperance carried the petition; the wine interest appears at the ballot, as a beneficiary rather than a leader.</p>
 </blockquote>
+<p><strong>JEL codes:</strong> N43 · D72 · L66 · I18</p>
+</section>
+<section id="the-question" class="level2">
+<h2 class="anchored" data-anchor-id="the-question">The question</h2>
+<p>The ban passed with 63.5 percent of the vote and carried every canton except Neuchâtel and Geneva, over the Federal Council’s own recommendation to reject it. The temperance societies ran the campaign, and their case rested on “absinthism,” a disease said to be distinct from ordinary drunkenness. Modern analysis finds nothing in pre-ban absinthe, at obtainable doses, that sets it apart from chronic alcohol abuse.</p>
+<p>Contemporaries also noticed who stood to gain. Absinthe had spread as a cheap substitute for wine, and the Alcohol Administration’s own expert predicted that other drinks “would take the place of the prohibited absinthe.” Deputies and historians have pointed at the wine trade ever since, but no one had taken the claim to the data. This is, to our knowledge, the first quantitative analysis of the vote.</p>
+<p>The initiative left two canton-level records. The petition that put the ban on the ballot (167,814 valid signatures, the largest count then recorded) captures organized mobilization, because signing was voluntary. The vote captures the electorate at large. We estimate each across the 25 cantons, holding the French-speaking share fixed, and check every estimate with four small-sample inference procedures, among them a Freedman–Lane permutation test.</p>
+</section>
+<section id="preliminary-results" class="level2">
+<h2 class="anchored" data-anchor-id="preliminary-results">Preliminary results</h2>
+<ul>
+<li><strong>The petition belonged to temperance.</strong> Signatures per hundred eligible voters rise with the Protestant share, our measure of standing temperance organization (0.174, SE 0.065). The wine share is indistinguishable from zero.</li>
+<li><strong>The vote is where wine appears.</strong> In the raw returns the wine–yes relationship runs the wrong way, because the wine-growing cantons were mostly French-speaking and French-speaking cantons supported the ban less. Among cantons equally French-speaking, a one-point higher share of national wine revenue goes with a <strong>0.620-point</strong> higher yes-share (SE 0.232).</li>
+<li><strong>Wine shows up only where wine was at stake.</strong> On six federal ballots from 1897–1908 that had nothing to do with drink, the wine coefficient sits near zero. It turns positive again on the 1906 food-law referendum, where the wine trade had a direct stake (permutation <em>p</em> = .083).</li>
+<li><strong>The reading.</strong> Temperance led the campaign; the wine interest followed at the ballot, where a vote could track local economic interest at little cost. The evidence supports wine as the ban’s predicted beneficiary, not as a co-conspirator at the petition stage.</li>
+</ul>
+</section>
+<section id="selected-figures" class="level2">
+<h2 class="anchored" data-anchor-id="selected-figures">Selected figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/papers/absinthe_falsification.png" class="img-fluid figure-img" alt="Dot-and-interval chart of the wine coefficient across ten Swiss federal referenda, 1897–1908; the six falsification votes cluster near zero and the 1908 absinthe vote is positive"></p>
+<figcaption>The wine coefficient by federal referendum, volume basis. Points are least-squares estimates with 90 percent Bell–McCaffrey intervals; dotted lines separate the six falsification votes, the corroborating votes, and the 1908 absinthe vote (#68). The shaded band is #68’s interval, drawn across for comparison.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/papers/absinthe_wine_prices.png" class="img-fluid figure-img" alt="Line chart of nominal Swiss wine producer prices from 1837 to 1913 with a vertical marker at 1874"></p>
+<figcaption>Swiss wine producer prices, 1837–1913, in current francs per hectoliter. The vertical line marks 1874, when phylloxera reached Switzerland — the decades in which absinthe spread as a cheap substitute for wine.</figcaption>
+</figure>
+</div>
+</section>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>The canton-level dataset combines the federal returns for the 1908 vote and nine other referenda (1897–1908), the canton signature counts for the 1906–07 petition, wine harvest volume and revenue by canton, the Federal Alcohol Administration’s 1907 register of absinthe houses (verified house by house against the sources), and census measures of language, confession, tavern employment, and population density.</p>
+<hr>
+<p><strong>Suggested citation:</strong> Jensen, Nicholas A., and Jacob R. Smith (2026). “Who Killed the Green Fairy? Temperance, Language, and Wine in the Swiss Absinthe Ban of 1908.” Working paper.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -426,7 +481,7 @@ Note
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>This is a preliminary working draft — please do not cite or circulate without permission. A current version is available on request.</p>
+<p>Preliminary draft — comments welcome. The PDF link above always points to the latest version.</p>
 </div>
 </div>
 

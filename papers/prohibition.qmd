@@ -1,20 +1,36 @@
 ---
-title: "The End of Prohibition and Alcohol-Firm Stock Prices"
-subtitle: "Working title"
-description: "An asset-pricing and industrial-organization study of how repeal of Prohibition reshaped the value of incumbent alcohol firms that had enjoyed a state-enforced oligopoly."
-categories: [Finance, Industrial Organization, Economic History, Work in Progress]
+title: "Uncorked"
+subtitle: "How Wall Street Priced the Repeal of Prohibition"
+description: "An event study of how equity markets priced the 1933 repeal of Prohibition: alcohol stocks fell sharply once repeal became certain, consistent with investors expecting competition to erode the profits of the firms Prohibition had protected."
+categories: [Finance, Industrial Organization, Economic History, Working Paper]
+date-modified: 2026-10-09
 image: /images/papers/prohibition_banner.png
 image-alt: "Decorative stock-price line rising after a dashed event line"
+toc: true
+toc-title: "On this page"
 ---
 
-*Work in progress · with Patricia Hummel and Corey Pendleton*
+*Working paper · with Patricia Hummel and Corey Pendleton*
 
-## Research question
+## Abstract
 
-Under Prohibition, legal alcohol production was centralized and largely medicinal, leaving a small set of incumbent producers operating as a state-enforced oligopoly. This project asks an asset-pricing question: what happened to those firms' equity value once investors became confident that Prohibition was ending — and that repeal would open the market to new entrants and erode their protected profits?
+> This paper examines how equity markets priced the repeal of Alcohol Prohibition in 1933. We estimate abnormal returns for alcohol firms and firms in related industries, including tobacco, soft drinks, sugar refining, confectionery, drugs, machinery, warehousing, and retail. This paper uses newspaper articles during key events in the repeal process to identify when investors received and incorporated new information into their trades, then estimates abnormal returns using CAPM, Fama-French three-factor, and Carhart four-factor models. Alcohol stocks rose considerably when New York voted to send delegates to repeal the Eighteenth Amendment, but the largest response came in July after results in Alabama, Arkansas, and Tennessee made repeal a certainty. Alcohol stocks fell sharply, whereas most other industries experienced much smaller or mixed responses. This pattern is consistent with investors expecting repeal to restore competition to the alcohol market and erode the supernormal profits earned by surviving alcohol firms during Prohibition.
 
-The design pairs an event study around the repeal signal (the moment the historically driest states moved to ratify) with an industrial-organization extension built from newspaper evidence on market entry and enforcement, testing whether incumbent values fell further as new entrants appeared.
+## Design
+
+Under Prohibition, legal alcohol production was confined to a small set of surviving firms and was largely medicinal. The paper dates the moments investors learned repeal was coming from newspaper coverage of the ratification process, then estimates abnormal returns around those dates for alcohol firms and for firms in related industries (tobacco, soft drinks, sugar refining, confectionery, drugs, machinery, warehousing, and retail) under CAPM, Fama-French three-factor, and Carhart four-factor benchmarks.
+
+## Findings
+
+- **New York's vote moved alcohol stocks up.** Alcohol stocks rose considerably when New York voted to send delegates to repeal the Eighteenth Amendment.
+- **Certainty moved them down.** The largest response came in July 1933, after results in Alabama, Arkansas, and Tennessee made repeal a certainty: alcohol stocks fell sharply.
+- **Related industries barely moved.** Most other industries show much smaller or mixed responses.
+- **The reading.** Investors priced repeal as the end of a protected market, one that would restore competition and erode the supernormal profits the surviving firms had earned during Prohibition.
+
+## Companion project: entry and enforcement
+
+A second paper with the same coauthors builds the measurement behind the entry margin: a hand-verified dataset of distillery entry and enforcement events from New York newspapers, 1929–1940. From 1,681 candidate newspaper hits, each read against the original page image, it distills 697 distinct events (677 enforcement actions against illicit stills and just 20 legal entries). Verification is the contribution: an unverified keyword count would overstate legal entry by a factor of roughly fourteen.
 
 ::: {.callout-note}
-This project is in early development (data collection underway). Details available on request.
+A draft is available on request at [jrs2ge@mtmail.mtsu.edu](mailto:jrs2ge@mtmail.mtsu.edu).
 :::

@@ -1,5 +1,8 @@
 ---
 title: "Research"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
 ---
 
 My research program asks a single question across very different historical and institutional settings: **when does regulation actually serve the public interest, and when is it better understood as protection for incumbents, a tool of bureaucratic expansion, or a substitute for order that markets and communities already provide?** A newer line of work turns the same lens on the size of government itself, asking when crisis actually enlarges the state and when competition between jurisdictions prevents it. I combine historical institutional analysis with modern econometric and panel-data methods, in the tradition of Buchanan, Tullock, and Stigler and the Austrian emphasis on knowledge problems and spontaneous order.
@@ -8,32 +11,60 @@ My research program asks a single question across very different historical and 
 
 My dissertation develops this question through three essays.
 
-### 1. The strategic origins of food-and-drug regulation
+### Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897
 
-My job market paper reinterprets the Bottled-in-Bond Act of 1897 — conventionally remembered as America's first consumer-protection law — as a government-administered solution to a credence-goods problem the incumbent straight distillers could not solve privately. Using a newly digitized state-by-fiscal-year panel built from the Commissioner of Internal Revenue's annual reports (FY1877–1920), it shows the Act did not foreclose the rival rectifier trade; instead it manufactured a certified premium segment that grew roughly 24% per year from a near-zero base, with 92% of the rents flowing to the Kentucky and Pennsylvania producers who organized for passage. Capture, the paper argues, need not look like foreclosure: a regulation can genuinely certify quality and still redistribute toward the incumbents who design it. [Read more →](papers/bottled-in-bond.qmd)
+*Job market paper · sole-authored*
 
-### 2. Private order in banking panics
+The Bottled-in-Bond Act of 1897 is conventionally remembered as one of America's first consumer-protection laws. I read it instead as a government-administered credence-goods certification that the incumbent straight distillers could not supply privately. Using a newly digitized state-by-fiscal-year panel from the Commissioner of Internal Revenue's annual reports, I find the Act did not foreclose the rival rectifier trade: the straight–rectified gap narrowed by about 23 percent. Instead it created a certified segment that grew from 0.54 million gallons in 1898 to 4.79 million by 1908, and Kentucky and Pennsylvania took 92 percent of its withdrawals over 1898–1904. A regulation can genuinely certify quality and still redistribute toward the incumbents who design it.
 
-Assembling a new dataset of 544 bank runs hand-coded from digitized newspapers (1889–1929), this chapter (with Daniel J. Smith) documents how localized runs were contained by a rich toolkit of private, market-based mechanisms — qualifying the standard case for deposit insurance and a fully developed lender of last resort. [Read more →](papers/bank-runs.qmd)
+[Summary & figures](papers/bottled-in-bond.qmd){.btn .btn-outline-primary .btn-sm} [Draft available on request](mailto:jrs2ge@mtmail.mtsu.edu){.btn .btn-outline-secondary .btn-sm}
 
-### 3. Protectionism at the ballot box
+### Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929
 
-Switzerland's 1908 vote to ban absinthe is usually read as a public-health triumph. Using a newly assembled canton-level dataset (with Nicholas A. Jensen), this chapter shows that wine-producing cantons — absinthe's commercial rivals — disproportionately supported the ban once language and confession are held constant, evidence that public-health rhetoric can mask economic self-interest when protectionism is enacted directly by voters. [Read more →](papers/absinthe.qmd)
+*with Daniel J. Smith*
+
+Assembling a new dataset of 544 bank runs hand-coded from digitized newspapers, we document how localized runs were contained by a rich toolkit of private, market-based mechanisms, eight of them understudied. The evidence qualifies the standard case for deposit insurance and a fully developed lender of last resort.
+
+[Summary & figures](papers/bank-runs.qmd){.btn .btn-outline-primary .btn-sm} [Companion paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5641472){.btn .btn-outline-primary .btn-sm}
+
+### Who Killed the Green Fairy? Temperance, Language, and Wine in the Swiss Absinthe Ban of 1908
+
+*with Nicholas A. Jensen*
+
+Switzerland's 1908 vote to ban absinthe is usually read as a temperance triumph. Using canton-level records of both the petition and the vote, we find that organized temperance carried the petition while the wine interest appears at the ballot: holding the French-speaking share fixed, a one-point higher share of national wine revenue goes with a 0.62-point higher yes-share. The same specification finds no wine effect on six unrelated federal ballots.
+
+[Download Paper (PDF)](https://www.dropbox.com/scl/fi/raukw6mvyrkvnse7dvd0f/jensen-absinthe.pdf?rlkey=9jku1wruib7ro02y3w04h2vw7&raw=1){.btn .btn-outline-primary .btn-sm} [Summary & figures](papers/absinthe.qmd){.btn .btn-outline-primary .btn-sm}
 
 ## Beyond the dissertation
 
 The projects beyond the dissertation carry the same question into new terrain: whether crisis actually enlarges the state, what the repeal of a legal regime reveals about who it protected, and how the welfare state interacts with the vices it is said to subsidize.
 
-### Crisis and the size of local government
+### Uncorked: How Wall Street Priced the Repeal of Prohibition
 
-A newer project moves from particular regulations to the size of government itself. *Crisis and Local Leviathan* tests Robert Higgs's ratchet hypothesis — that emergencies permanently enlarge the state — at the level of American government where exit is cheapest. Linking half a century of county-level disaster losses to the metropolitan economic freedom index across 383 metropolitan areas, it finds that disaster-struck metros emerge with the same standing relative to their in-state neighbors they had before: a post-event effect of 0.003 index points, precise enough to exclude declines a sixth the size of the ordinary cross-metro spread. Relief spending rises, but as federal money alongside a rebuilding income boom, and both revert. The ratchet looks like a property of governments insulated from exit rather than of government as such. [Read more →](papers/crisis-local-leviathan.qmd)
+*with Patricia Hummel and Corey Pendleton*
 
-### Repeal, black markets, and the stock market
+How did equity markets price the end of Prohibition? Dating the moments investors learned of repeal from newspaper coverage of the 1933 ratification process, we estimate abnormal returns for alcohol firms and related industries. Alcohol stocks rose when New York voted to send repeal delegates, then fell sharply in July once Alabama, Arkansas, and Tennessee made repeal certain, while most other industries barely moved. Investors priced repeal as the end of a protected market: competition would return and erode the profits the surviving firms had earned under Prohibition.
 
-With Patricia Hummel and Corey Pendleton, I am developing a pair of papers built around a single historical experiment: the end of national Prohibition. The first asks what the ratification of the Twenty-First Amendment did to the equity value of the firms Prohibition had inadvertently protected — the small set of alcohol producers still publicly listed after 1920, operating as a state-enforced oligopoly — along with producers of complements and substitutes such as sugar and cigarettes, using an event study around the 1933 state ratification sequence.
+A companion paper builds a hand-verified dataset of distillery entry and enforcement events from New York newspapers, 1929–1940: 697 distinct events from 1,681 candidate hits, 677 of them enforcement actions against illicit stills and just 20 legal entries.
 
-The second contributes the measurement behind the entry margin: a hand-verified dataset of distillery entry and enforcement events built from New York newspapers, 1929–1940. From 1,681 candidate newspaper hits, each read against the original page image, it distills 697 distinct events — 677 enforcement actions against illicit stills and just 20 legal entries — and asks whether the black market's visible margins moved the value of listed incumbents. Verification is the contribution: an unverified keyword count would overstate legal entry by a factor of roughly fourteen. [Read more →](papers/prohibition.qmd)
+[Summary](papers/prohibition.qmd){.btn .btn-outline-primary .btn-sm} [Draft available on request](mailto:jrs2ge@mtmail.mtsu.edu){.btn .btn-outline-secondary .btn-sm}
 
-A further ongoing project examines the link between welfare generosity and alcohol consumption across OECD countries.
+### Crisis and Local Leviathan
 
-For full summaries, figures, and interactive data from each paper, see [Explore My Research](explore.qmd).
+*Work in progress · sole-authored*
+
+This project moves from particular regulations to the size of government itself. It tests Robert Higgs's ratchet hypothesis, that emergencies permanently enlarge the state, at the level of American government where exit is cheapest. The current revision follows the annual budgets of county and city governments in metropolitan areas struck by hurricane-force winds, compared with unstruck metros in the same state, alongside the metropolitan economic freedom index.
+
+[Project summary](papers/crisis-local-leviathan.qmd){.btn .btn-outline-primary .btn-sm}
+
+### Alms and Ale
+
+A further project asks whether more generous welfare states raise the demand for alcohol, using a panel of OECD countries, 1995–2023.
+
+[Project summary](papers/alms-and-ale.qmd){.btn .btn-outline-primary .btn-sm}
+
+## Other writing
+
+"[When 'Consumer Protection' Protects Producers from Competition](https://thedailyeconomy.org/article/when-consumer-protection-protects-producers-from-competition/)," *The Daily Economy* (AIER), August 11, 2026.
+
+For figures and interactive data from each paper, see [Papers & Data](explore.qmd).

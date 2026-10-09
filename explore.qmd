@@ -6,7 +6,7 @@ listing:
       - papers/bottled-in-bond.qmd
       - papers/bank-runs.qmd
       - papers/absinthe.qmd
-      - papers/crisis-local-leviathan.qmd
+      - papers/prohibition.qmd
     type: grid
     grid-columns: 2
     categories: true
@@ -15,7 +15,7 @@ listing:
     fields: [image, title, subtitle, description, categories]
   - id: works-in-progress
     contents:
-      - papers/prohibition.qmd
+      - papers/crisis-local-leviathan.qmd
       - papers/alms-and-ale.qmd
     type: grid
     grid-columns: 2

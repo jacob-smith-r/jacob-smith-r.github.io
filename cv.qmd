@@ -1,5 +1,7 @@
 ---
 title: "C.V."
+toc: true
+toc-title: "On this page"
 ---
 
 <a href="Smith_Jacob_CV.pdf" class="btn btn-primary" download style="float: right; margin-left: 1rem;">Download PDF</a>
@@ -7,18 +9,19 @@ title: "C.V."
 **Jacob R. Smith**<br>
 Department of Economics and Finance · Jones College of Business<br>
 Middle Tennessee State University<br>
-Email: [jrs2ge@mtmail.mtsu.edu](mailto:jrs2ge@mtmail.mtsu.edu) · Website: [jacob-smith-r.github.io](https://jacob-smith-r.github.io)<br>
+Email: [jacob.rand.smith@gmail.com](mailto:jacob.rand.smith@gmail.com) · Website: [jacob-smith-r.github.io](https://jacob-smith-r.github.io)<br>
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=XybWLzwAAAAJ) · [ORCID](https://orcid.org/0009-0005-7221-3245) · [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=7065908) · [GitHub](https://github.com/jacob-smith-r)
 
 ------------------------------------------------------------------------
 
 ## **EDUCATION**
 
-Ph.D. Economics, Middle Tennessee State University, Murfreesboro, TN (Expected May 2027)
+Ph.D. Economics, Middle Tennessee State University (Expected May 2027)<br>
+  Advisor: Daniel J. Smith
 
-M.A. Economics, Middle Tennessee State University, Murfreesboro, TN (2025)
+M.A. Economics, Middle Tennessee State University (2025)
 
-B.S. Mathematical Economics & Philosophy, *magna cum laude*, Hampden-Sydney College, Hampden Sydney, VA (2023)
+B.S. Mathematical Economics & Philosophy, *magna cum laude*, Hampden-Sydney College (2023)
 
 ------------------------------------------------------------------------
 
@@ -34,17 +37,23 @@ Public Choice Theory, Austrian Economics, Public Interest Regulation, Historical
 
 "Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929" (with Daniel J. Smith)
 
-"Bootleggers Behind the Baptists: Wine-Industry Influence in Switzerland's 1908 Absinthe Referendum" (with Nicholas A. Jensen)
+"[Who Killed the Green Fairy? Temperance, Language, and Wine in the Swiss Absinthe Ban of 1908](https://www.dropbox.com/scl/fi/raukw6mvyrkvnse7dvd0f/jensen-absinthe.pdf?rlkey=9jku1wruib7ro02y3w04h2vw7&raw=1)" (with Nicholas A. Jensen)
 
-"Crisis and Local Leviathan: Natural Disasters and Economic Freedom in U.S. Metropolitan Areas, 1972–2017"
+"Uncorked: How Wall Street Priced the Repeal of Prohibition" (with Patricia Hummel and Corey Pendleton)
 
 ------------------------------------------------------------------------
 
 ## **WORKS IN PROGRESS**
 
-"The End of Prohibition and Alcohol-Firm Stock Prices" (with Patricia Hummel and Corey Pendleton)
+"Crisis and Local Leviathan"
 
 "Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023"
+
+------------------------------------------------------------------------
+
+## **OTHER WRITING**
+
+"[When 'Consumer Protection' Protects Producers from Competition](https://thedailyeconomy.org/article/when-consumer-protection-protects-producers-from-competition/)," *The Daily Economy* (AIER), August 11, 2026
 
 ------------------------------------------------------------------------
 
@@ -106,7 +115,9 @@ Pi Mu Epsilon, US Honorary Mathematics Society (2022)
 
 ## **TEACHING EXPERIENCE**
 
-**Principles of Microeconomics, Middle Tennessee State University (2025)** — Instructor Evaluation Mean: 4.40/5
+**Principles of Microeconomics, Middle Tennessee State University (Fall 2026)** — instructor of record, in progress
+
+**Principles of Microeconomics, Middle Tennessee State University (Fall 2025)** — Instructor Evaluation Mean: 4.40/5
 
 *Selected student comments:*
 
@@ -118,7 +129,7 @@ Pi Mu Epsilon, US Honorary Mathematics Society (2022)
 
 -   "He was organized and formatted the course work efficiently which helped a lot in the workload and getting all the work done in a timely manner."
 
-**Principles of Macroeconomics, Middle Tennessee State University (2026)** — Instructor Evaluation Mean: 4.02/5
+**Principles of Macroeconomics, Middle Tennessee State University (Spring 2026)** — Instructor Evaluation Mean: 4.02/5
 
 *Selected student comments:*
 
@@ -133,6 +144,8 @@ Pi Mu Epsilon, US Honorary Mathematics Society (2022)
 ## **PROFESSIONAL SERVICE**
 
 Referee, *Virginia Economic Journal* (2026)
+
+Moderator, panel on Tennessee whiskey regulation, MTSU Special Collections (scheduled April 2027)
 
 ------------------------------------------------------------------------
 
@@ -167,3 +180,22 @@ Wilson Center's Leadership in the Public Interest Four-Year Program Member, 2019
 -   *Business Analyst Intern*
     -   Performed market research and data analysis for a 501(c)(3) nonprofit consulting group
     -   Developed and presented actionable marketing and strategic recommendations to clients
+
+------------------------------------------------------------------------
+
+## **REFERENCES**
+
+**Daniel J. Smith** (advisor)<br>
+Professor of Economics and Director, Political Economy Research Institute<br>
+Middle Tennessee State University<br>
+[daniel.smith@mtsu.edu](mailto:daniel.smith@mtsu.edu)
+
+**Adam Rennhoff**<br>
+Professor of Economics and Director of Graduate Programs in Economics<br>
+Middle Tennessee State University<br>
+[adam.rennhoff@mtsu.edu](mailto:adam.rennhoff@mtsu.edu)
+
+**Ryan M. Yonk**<br>
+Director of Education and Senior Research Fellow<br>
+American Institute for Economic Research<br>
+[ryan.yonk@aier.org](mailto:ryan.yonk@aier.org)
