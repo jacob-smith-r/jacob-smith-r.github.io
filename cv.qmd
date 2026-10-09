@@ -81,11 +81,7 @@ Harwood Graduate Colloquium on Public Choice, *American Institute for Economic R
 
 Harwood Graduate Colloquium on Defending Classical Liberalism, *AIER* (2025)
 
-Summer Seminar on Classical Liberalism and Business, *AIER*, UIC (2025)
-
-Summer Seminar on Classical Liberalism and The Market, *AIER*, UIS (2025)
-
-Summer Seminar on Classical Liberalism, *AIER*, Wabash College (2025)
+Summer Seminars on Classical Liberalism, *AIER*, UIC, UIS, and Wabash College (2025)
 
 Economic Freedom Research Colloquium, *Bridwell Institute*, SMU Cox (2025)
 
@@ -142,6 +138,12 @@ Pi Mu Epsilon, US Honorary Mathematics Society (2022)
 -   "Very easygoing and willing to work around any struggles a student may have. He makes it feel like a real college course."
 
 Prepared to teach, with adequate preparation time, any undergraduate course in the curriculum; trained for intermediate microeconomics, econometrics, machine learning for economics, money and banking, public economics and public choice, and economic history.
+
+------------------------------------------------------------------------
+
+## **SOFTWARE**
+
+Stata, R, LaTeX; Python (working knowledge)
 
 ------------------------------------------------------------------------
 
