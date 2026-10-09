@@ -71,7 +71,7 @@ page-layout: full
 <section class="jrs-section">
   <div class="jrs-rule"><span class="no">03</span><h2>About</h2></div>
   <div class="jrs-about">
-    <p>A Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate May 2027. Summer 2026 Graduate Fellow at AIER; Summer 2024 and 2025 Fellow with MTSU's Political Economy Research Institute. My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom.</p>
+    <p>A Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate May 2027. Summer 2026 Graduate Fellow at AIER; Summer 2024, 2025, and 2026 Fellow with MTSU's Political Economy Research Institute. My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom.</p>
     <p>My academic career began at Hampden-Sydney College, graduating <em>magna cum laude</em> in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy — an interdisciplinary foundation that shapes the toolkit I bring to teaching and research. Learn more on my <a href="cv.html">C.V.</a>, <a href="teaching.html">Teaching</a>, and <a href="research.html">Research</a> pages.</p>
   </div>
 </section>
