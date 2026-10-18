@@ -32,7 +32,7 @@ page-layout: full
   <div class="jrs-papers">
     <div class="jrs-paper">
       <span class="idx">01</span>
-      <a class="ttl" href="papers/bottled-in-bond.html">Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897</a>
+      <a class="ttl" href="papers/bottled-in-bond.html">Distillers and Chemists: Capture by Eligibility in the Bottled-in-Bond Act of 1897</a>
       <span class="jrs-tag">Job Market Paper</span>
     </div>
     <div class="jrs-paper">

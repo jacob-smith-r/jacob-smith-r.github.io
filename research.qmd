@@ -11,11 +11,11 @@ My research program asks a single question across very different historical and 
 
 My dissertation develops this question through three essays.
 
-### Distillers and Chemists: Strategic Capture of the Bottled-in-Bond Act of 1897
+### Distillers and Chemists: Capture by Eligibility in the Bottled-in-Bond Act of 1897
 
 *Job market paper · sole-authored*
 
-The Bottled-in-Bond Act of 1897 is conventionally remembered as one of America's first consumer-protection laws. I read it instead as a government-administered credence-goods certification that the incumbent straight distillers could not supply privately. Using a newly digitized state-by-fiscal-year panel from the Commissioner of Internal Revenue's annual reports, I find the Act did not foreclose the rival rectifier trade: the straight–rectified gap narrowed by about 23 percent. Instead it created a certified segment that grew from 0.54 million gallons in 1898 to 4.79 million by 1908, and Kentucky and Pennsylvania took 92 percent of its withdrawals over 1898–1904. A regulation can genuinely certify quality and still redistribute toward the incumbents who design it.
+The Bottled-in-Bond Act of 1897 is conventionally remembered as one of America's first consumer-protection laws. The straight distillers of Kentucky and Pennsylvania lobbied for it against the rectifiers who compounded cheaper whiskey from neutral spirit, and the received account reads it as a raising-rivals'-costs victory. On a newly digitized state-by-fiscal-year panel built from the Commissioner of Internal Revenue's annual reports, I find the opposite of foreclosure: rectified output averaged 43 percent more after the Act than before, and the within-state gap between straight and rectified output did not shift toward straight whiskey. What the Act created was a certified segment, flat to 1902 and then fast-growing during a cultivated demand campaign, and Kentucky and Pennsylvania took 92 percent of bonded bourbon and rye withdrawals, roughly in proportion to the whiskey they already held in bond. The capture lies in the eligibility rule: in 1893 the Deputy Commissioner of Internal Revenue had proposed a cheap stamp for every bottle that would have answered the deception the distillers complained of, and the Act instead confined the stamp to whiskey four years old, writing eligibility around the aged stock the incumbents already held. Capture can be identified by whom a rule's eligibility was written around, not only by rivals' losses.
 
 [Summary & figures](papers/bottled-in-bond.qmd){.btn .btn-outline-primary .btn-sm} [Draft available on request](mailto:jrs2ge@mtmail.mtsu.edu){.btn .btn-outline-secondary .btn-sm}
 
