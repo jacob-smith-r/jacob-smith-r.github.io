@@ -3,12 +3,14 @@ title: "Distillers and Chemists: Capture by Eligibility in the Bottled-in-Bond A
 subtitle: "Capture without foreclosure: a consumer-protection stamp whose four-year eligibility floor was written around the stock incumbents already held"
 description: "A public-choice reinterpretation of America's first quality-certification law. On a newly digitized state-by-fiscal-year panel from the Commissioner of Internal Revenue's annual reports, rectified output rose 43 percent after the Act and the straight-rectified gap did not shift toward straight whiskey. The capture lies in the eligibility term: a four-year floor where an 1893 proposal would have stamped every bottle."
 categories: [Regulation, Public Choice, Economic History, Working Paper]
-date-modified: 2026-10-18
+date-modified: 2026-10-30
 image: /images/papers/bib_withdrawals.png
 image-alt: "Growth and geographic concentration of bottled-in-bond whiskey withdrawals, 1898–1920"
 ---
 
 *Job market paper · sole-authored*
+
+**Winner of the 2026 Society for the Development of Austrian Economics Graduate Student Essay Contest.** To be presented in the contest winners session at the Southern Economic Association Annual Meeting, Houston, November 22, 2026.
 
 ## Overview
 
