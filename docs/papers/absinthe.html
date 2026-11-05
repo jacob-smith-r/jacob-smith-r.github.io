@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,14 +43,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-8ecf77a70be3f2e3dbd51bc2227a96ab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-a6d86950953bf81cf899cacca6e0330e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-8ecf77a70be3f2e3dbd51bc2227a96ab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-b6d0452c860b3710a0149ae774b70049.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-866b80d0bdbbfe568e8ca27ed1ed1c18.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-b6d0452c860b3710a0149ae774b70049.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,13 +79,13 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <!-- Icon fonts for contact / academic profile links -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" referrerpolicy="no-referrer">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Favicon (JRS monogram in MTSU blue) -->
-<link rel="icon" type="image/png" sizes="512x512" href="favicon.png">
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<!-- Favicon (JRS monogram, Cormorant Garamond on oxblood; from the Jacob R. Smith design system) -->
+<link rel="icon" type="image/png" sizes="512x512" href="../favicon.png">
+<link rel="icon" type="image/x-icon" href="../favicon.ico">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
 <!-- Structured data: schema.org Person -->
 <script type="application/ld+json">
 {
@@ -90,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
   "@type": "Person",
   "name": "Jacob R. Smith",
   "url": "https://jacob-smith-r.github.io",
-  "image": "https://jacob-smith-r.github.io/images/aier.jpg",
+  "image": "https://jacob-smith-r.github.io/images/headshot.jpg",
   "email": "mailto:jacob.rand.smith@gmail.com",
   "jobTitle": "Ph.D. Candidate in Economics",
   "affiliation": {
@@ -101,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
     "@type": "CollegeOrUniversity",
     "name": "Hampden-Sydney College"
   },
-  "knowsAbout": ["Public Choice", "Austrian Economics", "Historical Political Economy", "Regulation"],
+  "knowsAbout": ["Applied Microeconomics", "Public Choice", "Austrian Economics", "Historical Political Economy", "Regulation"],
   "sameAs": [
     "https://scholar.google.com/citations?hl=en&user=XybWLzwAAAAJ",
     "https://orcid.org/0009-0005-7221-3245",
@@ -123,7 +126,6 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:title" content="Who Killed the Green Fairy? – Jacob R. Smith">
 <meta name="twitter:description" content="Temperance carried the petition that put Switzerland’s absinthe ban on the ballot; the wine interest shows up at the vote. A two-stage, 25-canton test of who moved the 1908 referendum.">
 <meta name="twitter:image" content="https://jacob-smith-r.github.io/images/papers/absinthe_falsification.png">
-<meta name="twitter:creator" content="@sosGrayMatter">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image-height" content="1800">
 <meta name="twitter:image-width" content="3000">

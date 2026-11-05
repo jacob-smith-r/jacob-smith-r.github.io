@@ -3,7 +3,7 @@ title: "Distillers and Chemists: Capture by Eligibility in the Bottled-in-Bond A
 subtitle: "Capture without foreclosure: a consumer-protection stamp whose four-year eligibility floor was written around the stock incumbents already held"
 description: "A public-choice reinterpretation of America's first quality-certification law. On a newly digitized state-by-fiscal-year panel from the Commissioner of Internal Revenue's annual reports, rectified output rose 43 percent after the Act and the straight-rectified gap did not shift toward straight whiskey. The capture lies in the eligibility term: a four-year floor where an 1893 proposal would have stamped every bottle."
 categories: [Regulation, Public Choice, Economic History, Working Paper]
-date-modified: 2026-10-30
+date-modified: 2026-11-05
 image: /images/papers/bib_withdrawals.png
 image-alt: "Growth and geographic concentration of bottled-in-bond whiskey withdrawals, 1898–1920"
 ---
@@ -11,6 +11,8 @@ image-alt: "Growth and geographic concentration of bottled-in-bond whiskey withd
 *Job market paper · sole-authored*
 
 **Winner of the 2026 Society for the Development of Austrian Economics Graduate Student Essay Contest.** To be presented in the contest winners session at the Southern Economic Association Annual Meeting, Houston, November 22, 2026.
+
+[Download Paper (PDF)](../Smith_Jacob_JMP.pdf){.btn .btn-outline-primary .btn-sm}
 
 ## Overview
 
@@ -22,13 +24,13 @@ The evidence comes from a **newly digitized state-by-fiscal-year panel built fro
 
 ## Abstract
 
-> "The Bottled-in-Bond Act of 1897 created a federal strip stamp certifying whiskey as the unblended product of one distillery and season, aged at least four years in a bonded warehouse. In 1893 the Deputy Commissioner of Internal Revenue had proposed, and a House committee had endorsed, a cheap stamp for every bottle that would have told buyers whether it came from a distiller's original package or was compounded. The Act kept the stamp and confined it to whiskey four years old. On a newly digitized state-by-year panel of Internal Revenue accounts, rectified output rose 43 percent after the Act, and the within-state gap between bourbon-and-rye and rectified output did not shift toward straight whiskey. If the years just before the Act are a valid baseline, the difference-in-differences rules out a relative contraction of the rectifying trade above about 15 percent. What the Act created was a certified segment, flat to 1902 and then fast-growing during a cultivated demand campaign, drawn in Kentucky and Pennsylvania roughly in proportion to their stocks in bond. Proportional uptake fits a neutral rule too; the capture lies in the eligibility term, a four-year floor where a printed date would have answered deception. Capture can be identified by whom eligibility was written around, not only by rivals' losses."
+> "The Bottled-in-Bond Act of 1897 created a federal strip stamp certifying single-distillery, single-season whiskey aged at least four years in bond. In 1893 a revenue official had proposed, and a House committee endorsed, a cheap stamp for every bottle, marking original packages and compounds alike. The Act confined the stamp to four-year whiskey. On newly digitized Internal Revenue accounts by state and year, rectified output rose 43 percent after the Act and did not fall relative to straight output. If the years just before the Act are a valid baseline, the design rules out a relative contraction of the rectifying trade above about 15 percent. The Act instead created a certified segment, fast-growing after 1902 amid a cultivated demand campaign and drawn in Kentucky and Pennsylvania in proportion to their stocks in bond. That fits a neutral rule too. The capture lies in the eligibility term, a four-year floor where a printed date would have answered deception. Capture can be identified by whom eligibility was written around, not only by rivals’ losses."
 
 ## A preview of the findings
 
 **1. No foreclosure.** Foreclosure predicts that the within-state gap between straight and rectified output shifts toward straight whiskey after 1897. It did not: national rectified output averaged **43 percent more** after the Act than before, and the gap did not move toward straight whiskey. If the years just before the Act are a valid baseline, the difference-in-differences **rules out a relative contraction of the rectifying trade larger than about 15 percent**. The trade the bill's proponents complained of kept growing.
 
-**2. A manufactured premium segment.** The genuine expansion is the certified sub-segment itself: bottled-in-bond withdrawals grew from **0.54 million gallons in 1898 to 4.79 million by 1908** — flat through FY1902, then accelerating sharply as demand was cultivated — reaching about 3 percent of straight output by 1905, a small tier expanding on top of an existing trade. Whether that volume was new or relabeled is the question the quantity record leaves open: within adopting states the elasticity of non-bonded on bonded volume is **−0.185 (se 0.073)**, inside the band that one-for-one relabeling implies at the observed bonded shares. The prices speak more clearly. A hedonic model of hand-collected quotes attaches a **~10% premium** to the bonded label, conditional on age and channel, while the certifiable–rectified price gap does not widen — the price pattern a quality-signaling mechanism predicts and a scarcity-rent mechanism does not.
+**2. A manufactured premium segment.** The genuine expansion is the certified sub-segment itself: bottled-in-bond withdrawals grew from **0.54 million gallons in 1898 to 4.79 million by 1908** — flat through FY1902, then accelerating sharply as demand was cultivated — reaching about 3 percent of straight output by 1905, a small tier expanding on top of an existing trade. Whether that volume was new or relabeled, the quantity record cannot settle: within adopting states the elasticity of non-bonded on bonded withdrawals is **−0.096 (standard error 0.108; ten states)**, and its interval covers both zero and the band that one-for-one relabeling implies. Prices are the weak record. A hedonic model of roughly two hundred hand-collected quotes puts bonded whiskey **about 10 percent** above rectified spirits, conditional on age and channel, but that gap combines the federal mark with the straight–rectified quality difference; against uncertified straight whiskey the bonded premium is about two percent, well inside its standard error. The price difference-in-differences the quotes allow is uninformative, and the price evidence is read as illustrative and bounding.
 
 **3. Capture by eligibility.** Kentucky and Pennsylvania together took **92 percent of bonded bourbon and rye withdrawals**, roughly in proportion to the whiskey they already held in bond; Kentucky's share of bonded withdrawals equals its share of aged stocks in bond at **0.99×**. Proportional uptake fits a neutral rule too, so the capture is not in who used the stamp but in who was eligible for it. In 1893 the Deputy Commissioner of Internal Revenue proposed, and a House committee endorsed, a cheap stamp for *every* bottle that would have told buyers whether it came from a distiller's original package or was compounded. The Act kept the stamp and confined it to whiskey four years old. A printed date would have answered the deception the distillers complained of; a four-year floor wrote eligibility around the aged stock the incumbents already held. The demand for certified whiskey was then actively cultivated, with Harvey Wiley's federal purity chemists lending their authority to teach buyers to distrust uncertified spirit.
 
@@ -203,19 +205,20 @@ Plot.plot({
 
 | Variable | Coefficient | Std. error |
 |---|---:|---:|
-| Bottled-in-bond | +0.096* | 0.058 |
-| Age (per year) | +0.074*** | 0.009 |
+| Bottled-in-bond | +0.096 | 0.058 |
+| Straight (uncertified) | +0.076 | 0.088 |
+| Age (per year) | +0.074 | 0.009 |
 
-N = 187; R² = 0.66. \*p < 0.10, \*\*\*p < 0.01. Stable across real-price and high-confidence-quote specifications.
+N = 187; R² = 0.66. Standard errors clustered by source advertisement. No significance stars, following the paper: the quotes come from six states. The bonded coefficient combines the federal mark with the straight–rectified quality difference; the certification contrast (bonded minus straight) is about 0.02 log points. Illustrative and bounding; stable across real-price and high-confidence-quote specifications.
 
 ---
 
-**JEL codes:** N41 · L51 · D72 · K23
+**JEL codes:** N41 · L51 · L15 · D72 · D82 · K23
 
-**Keywords:** bottled-in-bond, regulatory capture, credence goods, certification, whiskey
+**Keywords:** bottled-in-bond, regulatory capture, rent-seeking, credence goods, certification, whiskey
 
 **Suggested citation:** Smith, Jacob R. (2026). "Distillers and Chemists: Capture by Eligibility in the Bottled-in-Bond Act of 1897." Working paper, Middle Tennessee State University.
 
 ::: {.callout-note}
-This page is a preview. The full draft — including the common-treatment-date event study, the relabeling test, the legislative and archival record on intent (the committee report, the Aldrich "or owner" amendment, the organized rectifier remonstrances), and the complete robustness battery — is available on request at [jrs2ge@mtmail.mtsu.edu](mailto:jrs2ge@mtmail.mtsu.edu).
+This page is a preview. The full paper — including the common-treatment-date event study, the relabeling test, the legislative and archival record on intent (the committee report, the Aldrich "or owner" amendment, the organized rectifier remonstrances), and the complete robustness battery — is [available as a PDF](../Smith_Jacob_JMP.pdf).
 :::

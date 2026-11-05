@@ -17,7 +17,7 @@ My dissertation develops this question through three essays.
 
 The Bottled-in-Bond Act of 1897 is conventionally remembered as one of America's first consumer-protection laws. The straight distillers of Kentucky and Pennsylvania lobbied for it against the rectifiers who compounded cheaper whiskey from neutral spirit, and the received account reads it as a raising-rivals'-costs victory. On a newly digitized state-by-fiscal-year panel built from the Commissioner of Internal Revenue's annual reports, I find the opposite of foreclosure: rectified output averaged 43 percent more after the Act than before, and the within-state gap between straight and rectified output did not shift toward straight whiskey. What the Act created was a certified segment, flat to 1902 and then fast-growing during a cultivated demand campaign, and Kentucky and Pennsylvania took 92 percent of bonded bourbon and rye withdrawals, roughly in proportion to the whiskey they already held in bond. The capture lies in the eligibility rule: in 1893 the Deputy Commissioner of Internal Revenue had proposed a cheap stamp for every bottle that would have answered the deception the distillers complained of, and the Act instead confined the stamp to whiskey four years old, writing eligibility around the aged stock the incumbents already held. Capture can be identified by whom a rule's eligibility was written around, not only by rivals' losses.
 
-[Summary & figures](papers/bottled-in-bond.qmd){.btn .btn-outline-primary .btn-sm} [Draft available on request](mailto:jrs2ge@mtmail.mtsu.edu){.btn .btn-outline-secondary .btn-sm}
+[Download Paper (PDF)](Smith_Jacob_JMP.pdf){.btn .btn-outline-primary .btn-sm} [Summary & figures](papers/bottled-in-bond.qmd){.btn .btn-outline-primary .btn-sm}
 
 ### Private Mechanisms for Stopping Diamond-Dybvig Runs: Evidence from U.S. Newspapers, 1889–1929
 
@@ -37,7 +37,7 @@ Switzerland's 1908 vote to ban absinthe is usually read as a temperance triumph.
 
 ## Beyond the dissertation
 
-The projects beyond the dissertation carry the same question into new terrain: whether crisis actually enlarges the state, what the repeal of a legal regime reveals about who it protected, and how the welfare state interacts with the vices it is said to subsidize.
+The projects beyond the dissertation carry the same question into new terrain: whether crisis actually enlarges the state and what the repeal of a legal regime reveals about who it protected.
 
 ### Uncorked: How Wall Street Priced the Repeal of Prohibition
 
@@ -56,12 +56,6 @@ A companion paper builds a hand-verified dataset of distillery entry and enforce
 This project moves from particular regulations to the size of government itself. It tests Robert Higgs's ratchet hypothesis, that emergencies permanently enlarge the state, at the level of American government where exit is cheapest. The current revision follows the annual budgets of county and city governments in metropolitan areas struck by hurricane-force winds, compared with unstruck metros in the same state, alongside the metropolitan economic freedom index.
 
 [Project summary](papers/crisis-local-leviathan.qmd){.btn .btn-outline-primary .btn-sm}
-
-### Alms and Ale
-
-A further project asks whether more generous welfare states raise the demand for alcohol, using a panel of OECD countries, 1995–2023.
-
-[Project summary](papers/alms-and-ale.qmd){.btn .btn-outline-primary .btn-sm}
 
 ## Other writing
 

@@ -7,10 +7,9 @@ website:
   favicon: favicon.png
   site-url: "https://jacob-smith-r.github.io"
   description: "Jacob R. Smith — Ph.D. candidate in economics at Middle Tennessee State University. Public choice, Austrian economics, and historical political economy."
-  image: images/aier.jpg
+  image: images/headshot.jpg
   open-graph: true
   twitter-card:
-    creator: "@sosGrayMatter"
     card-style: summary
   navbar:
     pinned: true

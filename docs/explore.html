@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -41,14 +44,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8ecf77a70be3f2e3dbd51bc2227a96ab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-a6d86950953bf81cf899cacca6e0330e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-8ecf77a70be3f2e3dbd51bc2227a96ab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b6d0452c860b3710a0149ae774b70049.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-866b80d0bdbbfe568e8ca27ed1ed1c18.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-b6d0452c860b3710a0149ae774b70049.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -134,13 +137,13 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 <!-- Icon fonts for contact / academic profile links -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" referrerpolicy="no-referrer">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Favicon (JRS monogram in MTSU blue) -->
-<link rel="icon" type="image/png" sizes="512x512" href="favicon.png">
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<!-- Favicon (JRS monogram, Cormorant Garamond on oxblood; from the Jacob R. Smith design system) -->
+<link rel="icon" type="image/png" sizes="512x512" href="./favicon.png">
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+<link rel="apple-touch-icon" href="./apple-touch-icon.png">
 <!-- Structured data: schema.org Person -->
 <script type="application/ld+json">
 {
@@ -148,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
   "@type": "Person",
   "name": "Jacob R. Smith",
   "url": "https://jacob-smith-r.github.io",
-  "image": "https://jacob-smith-r.github.io/images/aier.jpg",
+  "image": "https://jacob-smith-r.github.io/images/headshot.jpg",
   "email": "mailto:jacob.rand.smith@gmail.com",
   "jobTitle": "Ph.D. Candidate in Economics",
   "affiliation": {
@@ -159,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
     "@type": "CollegeOrUniversity",
     "name": "Hampden-Sydney College"
   },
-  "knowsAbout": ["Public Choice", "Austrian Economics", "Historical Political Economy", "Regulation"],
+  "knowsAbout": ["Applied Microeconomics", "Public Choice", "Austrian Economics", "Historical Political Economy", "Regulation"],
   "sameAs": [
     "https://scholar.google.com/citations?hl=en&user=XybWLzwAAAAJ",
     "https://orcid.org/0009-0005-7221-3245",
@@ -171,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -210,7 +213,6 @@ window.Quarto = {
 <meta name="twitter:title" content="Explore My Research – Jacob R. Smith">
 <meta name="twitter:description" content="Jacob R. Smith — Ph.D.&nbsp;candidate in economics at Middle Tennessee State University. Public choice, Austrian economics, and historical political economy.">
 <meta name="twitter:image" content="https://jacob-smith-r.github.io/images/papers/bib_withdrawals.png">
-<meta name="twitter:creator" content="@sosGrayMatter">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image:alt" content="Growth and geographic concentration of bottled-in-bond whiskey withdrawals, 1898–1920">
 <meta name="twitter:image-height" content="1569">
@@ -458,7 +460,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="RWNvbm9taWMlMjBGcmVlZG9t">Economic Freedom <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWNvbm9taWMlMjBIaXN0b3J5">Economic History <span class="quarto-category-count">(4)</span></div><div class="category" data-category="RmluYW5jZQ==">Finance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5kdXN0cmlhbCUyME9yZ2FuaXphdGlvbg==">Industrial Organization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TG9jYWwlMjBHb3Zlcm5tZW50">Local Government <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9uZXklMjAlMjYlMjBCYW5raW5n">Money &amp; Banking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHVibGljJTIwQ2hvaWNl">Public Choice <span class="quarto-category-count">(5)</span></div><div class="category" data-category="UmVndWxhdGlvbg==">Regulation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V2VsZmFyZSUyMCUyNiUyMFB1YmxpYyUyMEhlYWx0aA==">Welfare &amp; Public Health <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V29yayUyMGluJTIwUHJvZ3Jlc3M=">Work in Progress <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V29ya2luZyUyMFBhcGVy">Working Paper <span class="quarto-category-count">(4)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="RWNvbm9taWMlMjBGcmVlZG9t">Economic Freedom <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWNvbm9taWMlMjBIaXN0b3J5">Economic History <span class="quarto-category-count">(4)</span></div><div class="category" data-category="RmluYW5jZQ==">Finance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5kdXN0cmlhbCUyME9yZ2FuaXphdGlvbg==">Industrial Organization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TG9jYWwlMjBHb3Zlcm5tZW50">Local Government <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9uZXklMjAlMjYlMjBCYW5raW5n">Money &amp; Banking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHVibGljJTIwQ2hvaWNl">Public Choice <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UmVndWxhdGlvbg==">Regulation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V29yayUyMGluJTIwUHJvZ3Jlc3M=">Work in Progress <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V29ya2luZyUyMFBhcGVy">Working Paper <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -487,7 +489,7 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
 <div id="listing-working-papers" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="UmVndWxhdGlvbiUyQ1B1YmxpYyUyMENob2ljZSUyQ0Vjb25vbWljJTIwSGlzdG9yeSUyQ1dvcmtpbmclMjBQYXBlcg==" data-listing-file-modified-sort="1792305052145" data-listing-reading-time-sort="7" data-listing-word-count-sort="1294">
+<div class="g-col-1" data-index="0" data-categories="UmVndWxhdGlvbiUyQ1B1YmxpYyUyMENob2ljZSUyQ0Vjb25vbWljJTIwSGlzdG9yeSUyQ1dvcmtpbmclMjBQYXBlcg==" data-listing-file-modified-sort="1793865530051" data-listing-reading-time-sort="7" data-listing-word-count-sort="1369">
 <a href="./papers/bottled-in-bond.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -639,34 +641,6 @@ Do local crises ratchet up local government?
 </div>
 <div class="card-text listing-description delink">
 <p>Higgs’s ratchet was built on federal emergencies. Does a local crisis leave local government permanently larger where residents can leave and relief money comes from…</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="V2VsZmFyZSUyMCUyNiUyMFB1YmxpYyUyMEhlYWx0aCUyQ1B1YmxpYyUyMENob2ljZSUyQ1dvcmslMjBpbiUyMFByb2dyZXNz" data-listing-file-modified-sort="1783445743369" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
-<a href="./papers/alms-and-ale.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/papers/alms_banner.png" class="thumbnail-image card-img" style="height: 160px;" alt="Decorative scatter plot with an upward trend line in terracotta">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Alms and Ale
-</h5>
-<div class="card-subtitle listing-subtitle">
-A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('V2VsZmFyZSUyMCUyNiUyMFB1YmxpYyUyMEhlYWx0aA=='); return false;">Welfare &amp; Public Health</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwQ2hvaWNl'); return false;">Public Choice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V29yayUyMGluJTIwUHJvZ3Jlc3M='); return false;">Work in Progress</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Do more generous welfare states inadvertently raise demand for ‘vice’ goods like alcohol? A panel test of a Malthusian hypothesis across the OECD.</p>
 </div>
 </div>
 </div></a>

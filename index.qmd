@@ -12,6 +12,7 @@ page-layout: full
     <h1 class="jrs-name">Jacob R. <em>Smith</em></h1>
     <p class="jrs-role">Ph.D. Candidate in Economics, Middle Tennessee State University — 2026 Graduate Fellow, American Institute for Economic Research</p>
     <div class="jrs-fields">
+      <span>Applied Microeconomics</span>
       <span>Public Choice</span>
       <span>Austrian Economics</span>
       <span>Historical Political Economy</span>
@@ -23,7 +24,7 @@ page-layout: full
     </div>
   </div>
   <figure class="jrs-portrait">
-    <img src="images/aier.jpg" alt="Jacob R. Smith">
+    <img src="images/headshot.jpg" alt="Jacob R. Smith">
   </figure>
 </header>
 
@@ -36,7 +37,7 @@ page-layout: full
         <a class="ttl" href="papers/bottled-in-bond.html">Distillers and Chemists: Capture by Eligibility in the Bottled-in-Bond Act of 1897</a>
         <div class="meta">Winner, 2026 SDAE Graduate Student Essay Contest</div>
       </div>
-      <span class="jrs-tag">Job Market Paper</span>
+      <a class="jrs-tag" href="Smith_Jacob_JMP.pdf" target="_blank" rel="noopener">Job Market Paper · PDF</a>
     </div>
     <div class="jrs-paper">
       <span class="idx">02</span>
@@ -67,14 +68,13 @@ page-layout: full
   <div class="jrs-rule"><span class="no">02</span><h2>Works in Progress</h2></div>
   <ul class="jrs-wip">
     <li><a href="papers/crisis-local-leviathan.html">Crisis and Local Leviathan</a></li>
-    <li><a href="papers/alms-and-ale.html">Alms and Ale: A Malthusian Test of Welfare Generosity and Alcohol Consumption in OECD Countries, 1995–2023</a></li>
   </ul>
 </section>
 
 <section class="jrs-section">
   <div class="jrs-rule"><span class="no">03</span><h2>About</h2></div>
   <div class="jrs-about">
-    <p>A Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate May 2027. Summer 2026 Graduate Fellow at AIER; Summer 2024, 2025, and 2026 Fellow with MTSU's Political Economy Research Institute. My dissertation examines how policy interacts with individual and institutional behavior when the stakes involve credibility, safety, stability, and freedom.</p>
+    <p>A Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate May 2027. Summer 2026 Graduate Fellow at AIER; Summer 2024, 2025, and 2026 Fellow with MTSU's Political Economy Research Institute. My dissertation, <em>Three Essays on Regulation, Private Order, and the Public Interest</em>, asks when regulation serves the public and when it protects incumbents, and when private order does the work regulation claims to do.</p>
     <p>My academic career began at Hampden-Sydney College, graduating <em>magna cum laude</em> in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy — an interdisciplinary foundation that shapes the toolkit I bring to teaching and research. Learn more on my <a href="cv.html">C.V.</a>, <a href="teaching.html">Teaching</a>, and <a href="research.html">Research</a> pages.</p>
   </div>
 </section>

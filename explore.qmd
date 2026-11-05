@@ -16,7 +16,6 @@ listing:
   - id: works-in-progress
     contents:
       - papers/crisis-local-leviathan.qmd
-      - papers/alms-and-ale.qmd
     type: grid
     grid-columns: 2
     sort: false
