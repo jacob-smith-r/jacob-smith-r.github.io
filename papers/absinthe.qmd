@@ -1,45 +1,72 @@
 ---
 title: "Who Killed the Green Fairy?"
 subtitle: "Temperance, Language, and Wine in the Swiss Absinthe Ban of 1908"
-description: "Temperance carried the petition that put Switzerland's absinthe ban on the ballot; the wine interest shows up at the vote. A two-stage, 25-canton test of who moved the 1908 referendum."
-categories: [Public Choice, Regulation, Economic History, Working Paper]
-date-modified: 2026-10-09
-image: /images/papers/absinthe_falsification.png
-image-alt: "Wine coefficient by federal referendum, 1897–1908, with the 1908 absinthe vote highlighted"
+description: "Temperance carried the petition that put Switzerland's absinthe ban on the ballot; the wine interest registered at the vote. A two-stage, 25-canton test of who moved the 1908 referendum. Under review at Explorations in Economic History."
+categories: [Public Choice, Regulation, Economic History, Under Review]
+date-modified: 2026-11-16
+image: /images/papers/absinthe_gantner_tile.jpg
+image-alt: "Gantner's 1910 caricature La fin de la Fée verte: a Blue Cross temperance figure stands over the dead green fairy, a blue cross driven into her chest"
 toc: true
 toc-title: "On this page"
 ---
 
-*Working paper · with [Nicholas A. Jensen](https://nicholas-jensen.com/) (Wabash College)*
+Under review, *Explorations in Economic History* · with [Nicholas A. Jensen](https://nicholas-jensen.com/) (Wabash College)
 
 [Download Paper (PDF)](https://www.dropbox.com/scl/fi/raukw6mvyrkvnse7dvd0f/jensen-absinthe.pdf?rlkey=9jku1wruib7ro02y3w04h2vw7&raw=1){.btn .btn-outline-primary .btn-sm}
 
+```{=html}
+<style>
+.jrs-poster { float: right; width: 38%; margin: 0.25rem 0 1rem 1.5rem; }
+.jrs-poster figcaption { font-size: 0.8rem; }
+@media (max-width: 640px) { .jrs-poster { float: none; width: 100%; margin: 1rem 0; } }
+</style>
+```
+
+::: {.jrs-poster}
+![Gantner, *La fin de la "Fée verte" (Suppression de l'absinthe en Suisse)*, caricature in the Geneva satirical revue *Le Guguss*, 1910. The ban's opponents named their killer: a blue cross in the fairy's chest, a Blue Cross temperance man over her with a Bible, and the wreaths of Neuchâtel and Geneva, the only two cantons to vote no, at her feet.](../images/papers/absinthe_gantner_1910.jpg){fig-alt="Color poster: a black-robed figure with a blue cross on his chest and a Bible stands over a dead green woman with a small blue cross driven into her chest; ribbons and wreaths lie at her feet; caption La fin de la Fée verte"}
+:::
+
 ## Abstract
 
-> On July 5, 1908, Swiss voters wrote a ban on absinthe into their federal constitution, the first national prohibition of the drink enacted by popular vote. The temperance movement led the campaign. Deputies and historians pointed to the wine industry, which stood to gain if drinkers switched to wine, but no one has measured its part. We measure it across 25 cantons at both stages: the petition that put the ban on the ballot, and the vote. The Protestant share, our measure of organized temperance, predicts signatures per hundred eligible voters; the wine share does not. At the vote, the raw returns hide wine's part: the wine-growing cantons tended to be French-speaking, and French-speaking cantons gave the ban less support. Holding the French-speaking share fixed, a one-percentage-point higher share of national wine revenue goes with a 0.620-point higher yes-share. Both estimates are significant at five percent under all four of our small-sample inference procedures. Under the same specification, wine has no detectable effect on six unrelated ballots and is positive, at ten percent by permutation test, on the 1906 food-law referendum, where wine was again at stake. Temperance carried the petition; the wine interest appears at the ballot, as a beneficiary rather than a leader.
+> On July 5, 1908, Swiss voters wrote a ban on absinthe into their federal constitution, the first national prohibition of the drink enacted by popular vote. The temperance movement led the campaign. Deputies and historians also pointed to the wine industry, which stood to gain, but no one has measured its part. We measure it with each canton's share of the country's estimated wine revenue, across 25 cantons and at both stages of the initiative, the petition and the vote. At the petition, the Protestant share, our measure of organized temperance, predicts signatures per hundred eligible voters, and no relationship with the wine share is detectable. At the vote, language masks wine: most of the country's wine was grown in French-speaking cantons, and those cantons gave the ban less support. In the primary specification, which holds language fixed among other controls, a one-percentage-point higher wine share is associated with a 0.677-percentage-point higher yes share, significant at five percent under four small-sample procedures. On the other federal ballots we study, the wine share predicts support only once, in the 1906 vote on the federal food law, an act that protected wine. Because direct democracy separates setting the agenda from deciding it, the case measures both partners of the coalition that theories of interest-group regulation describe: temperance carried the petition, and the wine interest, which never took the podium, registered at the ballot box.
 
-**JEL codes:** N43 · D72 · L66 · I18
+**JEL codes:** N43 · D72 · L66 · I18 · **Keywords:** absinthe prohibition, temperance, direct democracy, wine industry, interest groups, regulation, Switzerland
+
+## Highlights
+
+- To our knowledge, the first quantitative study of the 1908 Swiss absinthe vote
+- Organized temperance, not wine, is detectable in signatures on the ban petition
+- French-speaking cantons grew most Swiss wine yet gave the ban less support
+- Holding language fixed, wine revenue share predicts more support at the vote
+- Wine predicts no unrelated ballot and only one of three wine ballots, weakly
 
 ## The question
 
 The ban passed with 63.5 percent of the vote and carried every canton except Neuchâtel and Geneva, over the Federal Council's own recommendation to reject it. The temperance societies ran the campaign, and their case rested on "absinthism," a disease said to be distinct from ordinary drunkenness. Modern analysis finds nothing in pre-ban absinthe, at obtainable doses, that sets it apart from chronic alcohol abuse.
 
-Contemporaries also noticed who stood to gain. Absinthe had spread as a cheap substitute for wine, and the Alcohol Administration's own expert predicted that other drinks "would take the place of the prohibited absinthe." Deputies and historians have pointed at the wine trade ever since, but no one had taken the claim to the data. This is, to our knowledge, the first quantitative analysis of the vote.
+Contemporaries also noticed who stood to gain. Absinthe had spread as a cheap substitute for wine, and the Alcohol Administration's own expert predicted that other drinks "would take the place of the prohibited absinthe." Deputies and historians have pointed at the wine trade ever since, but no one had taken the claim to the data.
 
-The initiative left two canton-level records. The petition that put the ban on the ballot (167,814 valid signatures, the largest count then recorded) captures organized mobilization, because signing was voluntary. The vote captures the electorate at large. We estimate each across the 25 cantons, holding the French-speaking share fixed, and check every estimate with four small-sample inference procedures, among them a Freedman–Lane permutation test.
+![Swiss wine producer prices, 1837–1913, in current francs per hectoliter (shown for context). The vertical line marks November 1874, when phylloxera was found near Geneva in the year the insect first appeared in Switzerland. Source: HSSO Table H.2a.](../images/papers/absinthe_wine_prices.png){fig-alt="Line chart of nominal Swiss wine producer prices from 1837 to 1913 with a vertical marker at 1874"}
 
-## Preliminary results
+## Two stages, two records
 
-- **The petition belonged to temperance.** Signatures per hundred eligible voters rise with the Protestant share, our measure of standing temperance organization (0.174, SE 0.065). The wine share is indistinguishable from zero.
-- **The vote is where wine appears.** In the raw returns the wine–yes relationship runs the wrong way, because the wine-growing cantons were mostly French-speaking and French-speaking cantons supported the ban less. Among cantons equally French-speaking, a one-point higher share of national wine revenue goes with a **0.620-point** higher yes-share (SE 0.232).
-- **Wine shows up only where wine was at stake.** On six federal ballots from 1897–1908 that had nothing to do with drink, the wine coefficient sits near zero. It turns positive again on the 1906 food-law referendum, where the wine trade had a direct stake (permutation *p* = .083).
-- **The reading.** Temperance led the campaign; the wine interest followed at the ballot, where a vote could track local economic interest at little cost. The evidence supports wine as the ban's predicted beneficiary, not as a co-conspirator at the petition stage.
+A Swiss popular initiative leaves two canton-level records. The petition that put the ban on the ballot (167,814 valid signatures, the largest count then recorded) captures organized mobilization, because signing was voluntary. The vote captures the electorate at large. Because direct democracy separates setting the agenda from deciding it, the two records let us ask who did each. We estimate both across the 25 cantons and check every estimate under four small-sample inference procedures: HC3, Bell–McCaffrey, the wild bootstrap, and a Freedman–Lane permutation test.
+
+## Findings
+
+- **The petition belonged to temperance.** Signatures per hundred eligible voters rise with the Protestant share, our proxy for organized temperance (0.170, SE 0.056), and all four procedures reject at five percent. The wine share enters at −0.142 (SE 0.603), significant under none of them. Neither result turns on a single canton.
+- **At the vote, language masks wine.** Across all 25 cantons the raw wine–yes slope runs the wrong way (−0.196, SE 0.219), because the wine-growing cantons were mostly French-speaking and French-speaking cantons supported the ban less.
+- **Holding language fixed, wine predicts support.** In the primary specification a one-point higher share of national wine revenue goes with a **0.677-point** higher yes share (SE 0.216): *p* = .005 on HC3, .014 under Bell–McCaffrey, .032 on the wild bootstrap and .012 by permutation. Dropping each canton in turn leaves the coefficient between 0.598 (without Neuchâtel) and 0.801 (without Fribourg).
+- **Wine shows up only where wine was at stake.** Under the same specification the wine share predicts nothing on six unrelated federal ballots from 1897–1908. Among the wine-relevant ballots it turns up once, weakly, in the June 1906 vote on the federal food law, an act that protected wine.
+- **The reading.** Temperance carried the petition, and the wine interest, which never took the podium, registered at the ballot box: the case measures both partners of the coalition that theories of interest-group regulation describe.
 
 ## Selected figures
 
-![The wine coefficient by federal referendum, volume basis. Points are least-squares estimates with 90 percent Bell–McCaffrey intervals; dotted lines separate the six falsification votes, the corroborating votes, and the 1908 absinthe vote (#68). The shaded band is #68's interval, drawn across for comparison.](../images/papers/absinthe_falsification.png){fig-alt="Dot-and-interval chart of the wine coefficient across ten Swiss federal referenda, 1897–1908; the six falsification votes cluster near zero and the 1908 absinthe vote is positive"}
+![Wine, language, the petition and the vote, by canton. A: wine revenue share (1907 harvest) against the French-speaking share (1900 census). B: 1908 yes-share against the wine share; the dashed line fits all 25 cantons, the solid line the 20 that are not French-plurality. C: petition signatures per 100 eligible voters against the French-speaking share. D: 1908 yes-share against the French-speaking share.](../images/papers/absinthe_wine_language_stages.png){fig-alt="Four scatter panels by canton relating wine revenue share, French-speaking share, petition signatures and the 1908 yes-share"}
 
-![Swiss wine producer prices, 1837–1913, in current francs per hectoliter. The vertical line marks 1874, when phylloxera reached Switzerland — the decades in which absinthe spread as a cheap substitute for wine.](../images/papers/absinthe_wine_prices.png){fig-alt="Line chart of nominal Swiss wine producer prices from 1837 to 1913 with a vertical marker at 1874"}
+![The wine coefficient by federal referendum, volume basis. Points are least-squares estimates with 90 percent Bell–McCaffrey intervals; dotted lines separate the falsification, corroborative and treatment votes. The shaded band is the 1908 absinthe vote's (#68) interval, drawn across for comparison.](../images/papers/absinthe_falsification.png){fig-alt="Dot-and-interval chart of the wine coefficient across ten Swiss federal referenda, 1897–1908; the unrelated votes cluster near zero and the 1908 absinthe vote is positive"}
+
+![Leave-one-out stability of the wine-share coefficient in the primary specification. Each row drops one canton; dots are least-squares estimates, triangles fractional-logit average marginal effects, with 90 and 95 percent Bell–McCaffrey bands. The dashed line is the full-sample estimate.](../images/papers/absinthe_loo_stability.png){fig-alt="Forest plot of the wine coefficient with each of the 25 cantons left out in turn; all estimates stay between about 0.6 and 0.8"}
 
 ## Data
 
@@ -47,8 +74,8 @@ The canton-level dataset combines the federal returns for the 1908 vote and nine
 
 ---
 
-**Suggested citation:** Jensen, Nicholas A., and Jacob R. Smith (2026). "Who Killed the Green Fairy? Temperance, Language, and Wine in the Swiss Absinthe Ban of 1908." Working paper.
+**Suggested citation:** Jensen, Nicholas A., and Jacob R. Smith (2026). "Who Killed the Green Fairy? Temperance, Language, and Wine in the Swiss Absinthe Ban of 1908." Working paper, under review at *Explorations in Economic History*.
 
 ::: {.callout-note}
-Preliminary draft — comments welcome. The PDF link above always points to the latest version.
+Comments welcome. The PDF link above always points to the latest version.
 :::

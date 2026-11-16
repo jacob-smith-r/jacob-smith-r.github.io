@@ -50,12 +50,19 @@ page-layout: full
       <span class="idx">03</span>
       <div>
         <a class="ttl" href="papers/absinthe.html">Who Killed the Green Fairy? Temperance, Language, and Wine in the Swiss Absinthe Ban of 1908</a>
-        <div class="meta">with Nicholas A. Jensen</div>
+        <div class="meta">with Nicholas A. Jensen · under review, <em>Explorations in Economic History</em></div>
       </div>
       <a class="jrs-tag" href="https://www.dropbox.com/scl/fi/raukw6mvyrkvnse7dvd0f/jensen-absinthe.pdf?rlkey=9jku1wruib7ro02y3w04h2vw7&amp;raw=1" target="_blank" rel="noopener">PDF</a>
     </div>
     <div class="jrs-paper">
       <span class="idx">04</span>
+      <div>
+        <a class="ttl" href="research.html#assurance-of-quality-in-early-american-whiskey-markets">Assurance of Quality in Early American Whiskey Markets</a>
+        <div class="meta">with Macy Scheck &amp; Daniel J. Smith · revise and resubmit, <em>Journal of Institutional Economics</em></div>
+      </div>
+    </div>
+    <div class="jrs-paper">
+      <span class="idx">05</span>
       <div>
         <a class="ttl" href="papers/prohibition.html">Uncorked: How Wall Street Priced the Repeal of Prohibition</a>
         <div class="meta">with Patricia Hummel &amp; Corey Pendleton</div>
@@ -72,7 +79,14 @@ page-layout: full
 </section>
 
 <section class="jrs-section">
-  <div class="jrs-rule"><span class="no">03</span><h2>About</h2></div>
+  <div class="jrs-rule"><span class="no">03</span><h2>Other Writing</h2></div>
+  <ul class="jrs-wip">
+    <li><a href="https://thedailyeconomy.org/article/when-consumer-protection-protects-producers-from-competition/" target="_blank" rel="noopener">When &lsquo;Consumer Protection&rsquo; Protects Producers from Competition</a><span>The Daily Economy (AIER), August 11, 2026</span></li>
+  </ul>
+</section>
+
+<section class="jrs-section">
+  <div class="jrs-rule"><span class="no">04</span><h2>About</h2></div>
   <div class="jrs-about">
     <p>A Ph.D. candidate in economics at Middle Tennessee State University's Jones College of Business, expecting to graduate May 2027. Summer 2026 Graduate Fellow at AIER; Summer 2024, 2025, and 2026 Fellow with MTSU's Political Economy Research Institute. My dissertation, <em>Three Essays on Regulation, Private Order, and the Public Interest</em>, asks when regulation serves the public and when it protects incumbents, and when private order does the work regulation claims to do.</p>
     <p>My academic career began at Hampden-Sydney College, graduating <em>magna cum laude</em> in 2023 with a B.S. in Mathematical Economics and a second major in Philosophy — an interdisciplinary foundation that shapes the toolkit I bring to teaching and research. Learn more on my <a href="cv.html">C.V.</a>, <a href="teaching.html">Teaching</a>, and <a href="research.html">Research</a> pages.</p>
